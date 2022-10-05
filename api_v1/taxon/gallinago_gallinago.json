@@ -1,0 +1,105 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Gallinago gallinago"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1758)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000000030"
+    ],
+    "designations": [
+        {
+            "designated_name": "Gallinago gallinago",
+            "common_name": "Snipe",
+            "source": "Birds directive",
+            "source_description": "In 1979, the European Community adopted Council Directive 79/409/EEC on the conservation of wild birds (PDF 209KB) (the Birds Directive), in response to the 1979 Bern Convention on the conservation of European habitats and species (the Bern Convention). The Directive provides a framework for the conservation and management of, and human interactions with, wild birds in Europe. It sets broad objectives for a wide range of activities, although the precise legal mechanisms for their achievement are at the discretion of each Member State (in the UK delivery is via several different statutes).",
+            "url_source": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32009L0147&from=EN",
+            "date_designated": "1979-01-01",
+            "reporting_category": "Birds Directive",
+            "designation": "Annex 2.1",
+            "designation_abbreviation": "BirdsDir-A2.1",
+            "designation_description": "Birds which may potentially be hunted under national legislation within the geographical land and sea area to which the Directive applies. (Note that some species are protected by the national legislation of some Member States although hunting would potentially be legal under the Directive).",
+            "reporting_category_sort_order": "C"
+        },
+        {
+            "designated_name": "Scolopacidae",
+            "common_name": "Snipe",
+            "source": "Convention on Migratory Species",
+            "source_description": "The Convention on the Conservation of Migratory Species of Wild Animals (Bonn Convention or CMS) was adopted in Bonn, Germany in 1979 and came into force in 1985. Contracting Parties work together to conserve migratory species and their habitats by providing strict protection for endangered migratory species (listed in Appendix 1 of the Convention), concluding multilateral Agreements for the conservation and management of migratory species which require or would benefit from international cooperation (listed in Appendix 2), and by undertaking co-operative research activities",
+            "date_designated": "1979-01-01",
+            "reporting_category": "Convention on Migratory Species",
+            "designation": "Appendix 2",
+            "designation_abbreviation": "CMS_A2",
+            "designation_description": "Migratory species having an unfavourable conservation status for which Range States are encouraged to conclude international agreements for their benefit.",
+            "reporting_category_sort_order": "C1"
+        },
+        {
+            "designated_name": "Gallinago gallinago",
+            "common_name": "Snipe",
+            "source": "Birds of Conservation Concern 5: the red list for birds (Red/Amber list and not based on IUCN criteria)",
+            "source_description": "Commonly referred to as the UK Red List for birds, this is the fifth review of the status of birds in the UK, Channel Islands and Isle of Man, and updates the last assessment in 2015. Using standardised criteria, 245 species with breeding, passage or wintering populations in the UK were assessed by experts from a range of bird NGOs and assigned to the Red, Amber or Green lists of conservation concern. December 2021.",
+            "url_source": "https://www.bto.org/our-science/publications/birds-conservation-concern",
+            "date_designated": "2021-01-01",
+            "reporting_category": "Red data categories  - birds (not based on IUCN criteria)",
+            "designation": "Bird Population Status - amber",
+            "designation_abbreviation": "Bird-Amber",
+            "designation_description": "Amber list species are those with an unfavourable conservation status in Europe; those whose population or range has declined moderately in recent years; those whose population has declined historically but made a substantial recent recovery; rare breeders; and those with internationally important or localised populations.",
+            "reporting_category_sort_order": "Ga"
+        },
+        {
+            "designated_name": "Gallinago gallinago",
+            "common_name": "Common Snipe",
+            "source": "Agreement on the Conservation of African-Eurasian Migratory Waterbirds (AEWA)",
+            "source_description": "Agreement on the Conservation of African-Eurasian Migratory Waterbirds (AEWA) as adopted by the 4th Session of the Meeting of the Parties to AEWA, September 2008. Published by the UNEP/AEWA Secretariat, UN-Premises, Hermann-Ehlers-Str. 10, D-53113 Bonn, Germany",
+            "date_designated": "2008-09-01",
+            "reporting_category": "Convention on Migratory Species",
+            "designation": "AEWA Annex II",
+            "designation_abbreviation": "CMS_AEWA-A2",
+            "designation_description": "Conservation of migratory waterbirds, giving special attention to endangered species as well as to those with an unfavourable conservation status.",
+            "criteria_description": "Species of birds that are ecologically dependent on wetlands for at least part of their annual cycle, have a range which lies entirely or partly within the Agreement Area",
+            "reporting_category_sort_order": "C1"
+        },
+        {
+            "designated_name": "Gallinago gallinago",
+            "common_name": "Common Snipe",
+            "source": "The risk of extinction for birds in Great Britain Sep 2017 British Birds 110: 502-517.",
+            "source_description": "The first formal Red List Category for birds based on IUCN criteria and guidelines. This assessment (No 34 in the Species Status series) is not an alternative to BoCC and does not replace or supersede it. It is recommended to use the BoCC status as the starting point for identifying which birds are most deserving of conservation action.  This assessment focusses on regular breeding and over-wintering birds of Great Britain, thus excluding birds in the Isle of Man, Channel Islands and northern Ireland. It includes 289 species and 68 subspecies on the British list and excludes non-natives, vagrants and scarce migrants. For species that have substantial and at least partially distinct breeding and non-breeding populations in GB (defined as having a population in the non-breeding season that is more than twice the size of the breeding population), notably waterbirds, the breeding and wintering populations are assessed separately. Therefore a species is assigned an IUCN Red List category for its breeding and wintering populations. Some notable bird subspecies, all of those for which Britain is of international importance, i.e. more than 20% of the northwest European flyway (wildfowl), East Atlantic flyway (waders) or European (all others) population were also assessed. These are national assessments determining the status of birds in Great Britain, however influences at regional level have also been considered if there is significant immigration of individuals from outside GB likely to breed which could rescue populations from extinction. For non-breeding taxa the assessment considers if conditions both inside and outside the region are deteriorating. Subsequently 22 species have been downgraded to consider this contribution.",
+            "url_source": "https://britishbirds.co.uk/article/risk-extinction-birds-great-britain/",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "Bird_RedList_GB_post2001-NT_NonBreeding",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "criteria_description": "A2a+3a+4a",
+            "comments": "The status of non-breeding Common Snipe was assessed as being Near Threatened in Great Britain under criteria A2,3,4a, due to an observed, estimated, inferred or suspected population decline of at least 20% (28%) over 3 generations (14 years) in the past, future, and a period spanning both.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Gallinago gallinago",
+            "common_name": "Common Snipe",
+            "source": "The risk of extinction for birds in Great Britain Sep 2017 British Birds 110: 502-517.",
+            "source_description": "The first formal Red List Category for birds based on IUCN criteria and guidelines. This assessment (No 34 in the Species Status series) is not an alternative to BoCC and does not replace or supersede it. It is recommended to use the BoCC status as the starting point for identifying which birds are most deserving of conservation action.  This assessment focusses on regular breeding and over-wintering birds of Great Britain, thus excluding birds in the Isle of Man, Channel Islands and northern Ireland. It includes 289 species and 68 subspecies on the British list and excludes non-natives, vagrants and scarce migrants. For species that have substantial and at least partially distinct breeding and non-breeding populations in GB (defined as having a population in the non-breeding season that is more than twice the size of the breeding population), notably waterbirds, the breeding and wintering populations are assessed separately. Therefore a species is assigned an IUCN Red List category for its breeding and wintering populations. Some notable bird subspecies, all of those for which Britain is of international importance, i.e. more than 20% of the northwest European flyway (wildfowl), East Atlantic flyway (waders) or European (all others) population were also assessed. These are national assessments determining the status of birds in Great Britain, however influences at regional level have also been considered if there is significant immigration of individuals from outside GB likely to breed which could rescue populations from extinction. For non-breeding taxa the assessment considers if conditions both inside and outside the region are deteriorating. Subsequently 22 species have been downgraded to consider this contribution.",
+            "url_source": "https://britishbirds.co.uk/article/risk-extinction-birds-great-britain/",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least Concern",
+            "designation_abbreviation": "Bird_RedList_GB_post2001-LC_Breeding",
+            "designation_description": "A Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "The status of breeding Common Snipe was assessed as being of Least Concern in Great Britain. The population trend does not appear to approach the thresholds for Near Threatened under the population trend criterion (>20% decline over ten years or three generations). The species has an large range, and hence does not approach the thresholds for Near Threatened under the range size criterion (EoO <30,000 km2, AoO <3,000 km2). The population size is large, and hence does not approach the thresholds for Near Threatened under the population size criterion (<15,000 mature individuals with a continuing decline estimated to be >10% in ten years or three generations).",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

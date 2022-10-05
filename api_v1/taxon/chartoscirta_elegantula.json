@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Chartoscirta elegantula"
+    ],
+    "recommended_authority": [
+        "(Fallén, 1807)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020309066"
+    ],
+    "designations": [
+        {
+            "designated_name": "Chartoscirta elegantula",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Despite occurring in a fairly broad range of habitats (most of which are sensitive) there are few post 1989 records for this species. It is no doubt under-recorded, although, as argued for C. pilosus, there are quite a large number of post 1989 records for other species of saldid that occur in similar habitats. Described by Southwood & Leston (1959) as very local, it is a species that is apparently slow to colonise new sites (P. Kirby pers.comm.) and appears to be fairly exacting in its choice of sites (S. Moran pers. comm.). Like C. pilosus, C. elegantula is at its western limit in GB. It is Absent from France and Belgium and very scarce in Holland. The species was downgraded from Notable to Local as a result of the Welsh Peatland Invertebrate Survey WPIS) in the late 1980's during which it was 'found widely on Welsh wetlands' (Howe, 2004).  In view of the small number of recent records it is a species that does not fall far short of a threat status (AOO <2,000 km2), but given the WPIS findings a status of LC is appropriate.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Chartoscirta elegantula",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Despite occurring in a fairly broad range of habitats (most of which are sensitive) there are few post 1989 records for this species. It is no doubt under-recorded, although, as argued for C. pilosus, there are quite a large number of post 1989 records for other species of saldid that occur in similar habitats. Described by Southwood & Leston (1959) as very local, it is a species that is apparently slow to colonise new sites (P. Kirby pers.comm.) and appears to be fairly exacting in its choice of sites (S. Moran pers. comm.). Like C. pilosus, C. elegantula is at its western limit in GB. It is Absent from France and Belgium and very scarce in Holland. The species was downgraded from Notable to Local as a result of the Welsh Peatland Invertebrate Survey WPIS) in the late 1980's during which it was 'found widely on Welsh wetlands' (Howe, 2004).  In view of the small number of recent records it is a species that does not fall far short of a threat status (AOO <2,000 km2), but given the WPIS findings a status of LC is appropriate.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

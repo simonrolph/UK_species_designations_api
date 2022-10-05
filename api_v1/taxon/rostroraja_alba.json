@@ -1,0 +1,142 @@
+{
+    "category": [
+        "Fish"
+    ],
+    "taxon_group": [
+        "cartilagenous fish (Chondrichthyes)"
+    ],
+    "recommended_taxon_name": [
+        "Rostroraja alba"
+    ],
+    "recommended_authority": [
+        "(Lacep�de, 1803)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020193669"
+    ],
+    "designations": [
+        {
+            "designated_name": "Rostroraja alba",
+            "common_name": "Bottlenose Skate, Spearnose Skate, White Skate",
+            "source": "The IUCN Red List of Threatened Species (2010)",
+            "source_description": "The IUCN Red List of Threatened Species provides taxonomic, conservation status and distribution information on taxa that have been globally evaluated using the IUCN Red List Categories and Criteria. This system is designed to determine the relative risk of extinction, and the main purpose of the IUCN Red List is to catalogue and highlight those taxa that are facing a higher risk of global extinction (i.e. those listed as Critically Endangered, Endangered and Vulnerable). The IUCN Red List also includes information on taxa that are categorized as Extinct or Extinct in the Wild; on taxa that cannot be evaluated because of insufficient information (i.e. are Data Deficient); and on taxa that are either close to meeting the threatened thresholds or that would be threatened were it not for an ongoing taxon-specific conservation programme (i.e. are Near Threatened).",
+            "date_designated": "2006-01-01",
+            "reporting_category": "Global Red list status",
+            "designation": "Endangered",
+            "designation_abbreviation": "RedList_Global_post2001-EN",
+            "designation_description": "A taxon is Endangered when the best available evidence indicates that it meets any of the criteria A to E for Endangered (see Section V), and it is therefore considered to be facing a very high risk of extinction in the wild.",
+            "iucn_version": "2001",
+            "criteria_description": "ver 2001; A2cd+4cd",
+            "comments": "Population trend= 'decreasing'",
+            "reporting_category_sort_order": "F"
+        },
+        {
+            "designated_name": "Rostroraja alba",
+            "common_name": "Skate",
+            "source": "Wildlife and Countryside Act Schedules 1, 5 and 8 (protected birds, animals and plants)",
+            "source_description": "Protected Birds, Animals and Plants are listed in Schedules 1, 5 and 8 respectively of the Wildlife and Countryside Act.Schedule 1. The Act makes it an offence (with exception to species listed in Schedule 2) to intentionally kill, injure or take any wild bird or their eggs or nests. Special penalties are available for offences related to birds listed on Schedule 1, for which there are additional offences of disturbing these birds at their nests, or their dependent young. Schedule 5. The Act makes it an offence (subject to exceptions) to intentionally kill, injure, or take, possess, or trade in any wild animal listed in Schedule 5, and prohibits interference with places used for shelter or protection, or intentionally disturbing animals occupying such places. The Act also prohibits certain methods of killing, injuring, or taking wild animals.Schedule 8. The Act makes it an offence (subject to exceptions) to pick, uproot, trade in, or possess (for the purposes of trade) any wild plant listed in Schedule 8, and prohibits the unauthorised intentional uprooting of such plants.There is a statutory five-yearly review of Schedules 5 and 8 (protected wild animals and plants respectively).",
+            "url_source": "http://www.legislation.gov.uk/all?title=Wildlife%20and%20Countryside%20Act%201981",
+            "date_designated": "2006-01-01",
+            "reporting_category": "Wildlife and Countryside Act 1981",
+            "designation": "Schedule 5 Section 9.5a",
+            "designation_abbreviation": "WACA-Sch5_sect9.5a",
+            "designation_description": "Section 9.5 Animals which are protected from being sold, offered for sale or being held or transported for sale either live or dead, whole or part.",
+            "comments": "Added 2011. Critically endangered in GB and North-East Atlantic. Will prevent targeted fishing and encourage release of accidentally caught specimens. http://www.legislation.gov.uk/uksi/2011/2015/sche",
+            "reporting_category_sort_order": "I"
+        },
+        {
+            "designated_name": "Rostroraja alba",
+            "common_name": "White skate",
+            "source": "OSPAR List of Threatened and/or Declining Species and Habitats, 2008",
+            "source_description": "OSPAR List of Threatened and/or Declining Species and Habitats as agreed at the OSPAR Convention for the Protection of the Marine Environment of the North-East Atlantic, 2008. The agreement replaces that of 2004-6. (Reference Number- 2008-6). OSPAR Area Key- I - the Arctic- the OSPAR maritime area north of latitude 62 Degrees N, but also including Iceland and the Faeroes; II - the Greater North Sea- the North Sea, the English Channel, the Skagerrak and the Kattegat to the limits of the OSPAR maritime area, bounded on the north by latitude 62 Degrees N, on the west by longitude 5 Degrees W and the east coast of Great Britain, and on the south by latitude 48 Degrees N; III - the Celtic Seas- the area bounded by, on the east, longitude 5 Degrees W and the west coast of Great Britain and on the west by the 200 metre isobath (depth contour) to the west of 6W along the west coasts of Scotland and Ireland; IV - the Bay of Biscay/Golfe de Gascogne and Iberian coasts- the area south of latitude 48N, east of 11 Degrees W and north of latitude 36 Degrees N (the southern boundary of the OSPAR maritime area); V - the Wider Atlantic- the remainder of the OSPAR maritime area.",
+            "date_designated": "2008-01-01",
+            "reporting_category": "OSPAR",
+            "designation": "OSPAR",
+            "designation_abbreviation": "OSPAR",
+            "designation_description": "OSPAR Convention for the Protection of the Marine Environment of the North-East Atlantic. OSPAR List of Threatened and/or Declining Species and Habitats.",
+            "criteria_description": "Threatened and/or declining species within the OSPAR Region",
+            "comments": "OSPAR Regions where the species occurs= II, III, IV.  OSPAR Regions where the species is under threat and/or in decline= All where it occurs",
+            "reporting_category_sort_order": "C2"
+        },
+        {
+            "designated_name": "Rostroraja alba",
+            "common_name": "White skate",
+            "source": "Wildlife and Countryside Act Schedules 1, 5 and 8 (protected birds, animals and plants)",
+            "source_description": "Protected Birds, Animals and Plants are listed in Schedules 1, 5 and 8 respectively of the Wildlife and Countryside Act.Schedule 1. The Act makes it an offence (with exception to species listed in Schedule 2) to intentionally kill, injure or take any wild bird or their eggs or nests. Special penalties are available for offences related to birds listed on Schedule 1, for which there are additional offences of disturbing these birds at their nests, or their dependent young. Schedule 5. The Act makes it an offence (subject to exceptions) to intentionally kill, injure, or take, possess, or trade in any wild animal listed in Schedule 5, and prohibits interference with places used for shelter or protection, or intentionally disturbing animals occupying such places. The Act also prohibits certain methods of killing, injuring, or taking wild animals.Schedule 8. The Act makes it an offence (subject to exceptions) to pick, uproot, trade in, or possess (for the purposes of trade) any wild plant listed in Schedule 8, and prohibits the unauthorised intentional uprooting of such plants.There is a statutory five-yearly review of Schedules 5 and 8 (protected wild animals and plants respectively).",
+            "url_source": "http://www.legislation.gov.uk/all?title=Wildlife%20and%20Countryside%20Act%201981",
+            "date_designated": "2011-10-01",
+            "reporting_category": "Wildlife and Countryside Act 1981",
+            "designation": "Schedule 5 Section 9.2",
+            "designation_abbreviation": "WACA-Sch5_sect9.2",
+            "designation_description": "Section 9.2 Animals which are protected from being possessed or controlled (live or dead).",
+            "reporting_category_sort_order": "I"
+        },
+        {
+            "designated_name": "Rostroraja alba",
+            "common_name": "White skate",
+            "source": "Wildlife and Countryside Act Schedules 1, 5 and 8 (protected birds, animals and plants)",
+            "source_description": "Protected Birds, Animals and Plants are listed in Schedules 1, 5 and 8 respectively of the Wildlife and Countryside Act.Schedule 1. The Act makes it an offence (with exception to species listed in Schedule 2) to intentionally kill, injure or take any wild bird or their eggs or nests. Special penalties are available for offences related to birds listed on Schedule 1, for which there are additional offences of disturbing these birds at their nests, or their dependent young. Schedule 5. The Act makes it an offence (subject to exceptions) to intentionally kill, injure, or take, possess, or trade in any wild animal listed in Schedule 5, and prohibits interference with places used for shelter or protection, or intentionally disturbing animals occupying such places. The Act also prohibits certain methods of killing, injuring, or taking wild animals.Schedule 8. The Act makes it an offence (subject to exceptions) to pick, uproot, trade in, or possess (for the purposes of trade) any wild plant listed in Schedule 8, and prohibits the unauthorised intentional uprooting of such plants.There is a statutory five-yearly review of Schedules 5 and 8 (protected wild animals and plants respectively).",
+            "url_source": "http://www.legislation.gov.uk/all?title=Wildlife%20and%20Countryside%20Act%201981",
+            "date_designated": "2011-10-01",
+            "reporting_category": "Wildlife and Countryside Act 1981",
+            "designation": "Schedule 5 Section 9.1 (killing/injuring)",
+            "designation_abbreviation": "WACA-Sch5_sect9.1(kill/injuring)",
+            "designation_description": "Section 9.1. Animals which are protected from intentional killing or injuring.",
+            "reporting_category_sort_order": "I"
+        },
+        {
+            "designated_name": "Rostroraja alba",
+            "common_name": "White skate",
+            "source": "Wildlife and Countryside Act Schedules 1, 5 and 8 (protected birds, animals and plants)",
+            "source_description": "Protected Birds, Animals and Plants are listed in Schedules 1, 5 and 8 respectively of the Wildlife and Countryside Act.Schedule 1. The Act makes it an offence (with exception to species listed in Schedule 2) to intentionally kill, injure or take any wild bird or their eggs or nests. Special penalties are available for offences related to birds listed on Schedule 1, for which there are additional offences of disturbing these birds at their nests, or their dependent young. Schedule 5. The Act makes it an offence (subject to exceptions) to intentionally kill, injure, or take, possess, or trade in any wild animal listed in Schedule 5, and prohibits interference with places used for shelter or protection, or intentionally disturbing animals occupying such places. The Act also prohibits certain methods of killing, injuring, or taking wild animals.Schedule 8. The Act makes it an offence (subject to exceptions) to pick, uproot, trade in, or possess (for the purposes of trade) any wild plant listed in Schedule 8, and prohibits the unauthorised intentional uprooting of such plants.There is a statutory five-yearly review of Schedules 5 and 8 (protected wild animals and plants respectively).",
+            "url_source": "http://www.legislation.gov.uk/all?title=Wildlife%20and%20Countryside%20Act%201981",
+            "date_designated": "2011-10-01",
+            "reporting_category": "Wildlife and Countryside Act 1981",
+            "designation": "Schedule 5 Section 9.1 (taking)",
+            "designation_abbreviation": "WACA-Sch5_sect9.1(taking)",
+            "designation_description": "Section 9.1 Animals which are protected from taking.",
+            "reporting_category_sort_order": "I"
+        },
+        {
+            "designated_name": "Rostroraja alba",
+            "source": "Natural Environment and Rural Communities Act 2006 - Species of Principal Importance in England (section 41)",
+            "source_description": "Sections 41 (England) of the Natural Environment and Rural Communities Act 2006 require the listing of species of principal importance for the purpose of conserving biodiversity and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "date_designated": "2008-11-01",
+            "reporting_category": "Biodiversity Lists - England",
+            "designation": "England NERC S.41",
+            "designation_abbreviation": "England_NERC_S.41",
+            "designation_description": "Species “of principal importance for the purpose of conserving biodiversity” covered under section 41 (England) of the NERC Act (2006) and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "reporting_category_sort_order": "Hb"
+        },
+        {
+            "designated_name": "Rostroraja alba",
+            "source": "Environment (Wales) Act 2016 - Species of Principal Importance in Wales (section 7)",
+            "source_description": "Section 7 of the Environment (Wales) Act 2016 requires the publication of a list of biodiversity of principle importance, to support the biodiversity duty on public bodies under section 6 of the Act.",
+            "url_source": "http://www.biodiversitywales.org.uk/Environment-Wales-Bill",
+            "date_designated": "2016-05-21",
+            "reporting_category": "Biodiversity Lists - Wales",
+            "designation": "Env (Wales) Act S7",
+            "designation_abbreviation": "Env (Wales) Act S7",
+            "designation_description": "Species of principal importance for the purpose of conserving biodiversity covered under Section 7 of the Environment (Wales) Act 2016 and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "reporting_category_sort_order": "Hd"
+        },
+        {
+            "designated_name": "Rostroraja alba",
+            "common_name": "White or Bottlenosed skate",
+            "source": "UK list of Priority Habitats and Species",
+            "source_description": "Starting in 2005, the old UK BAP priorities were reviewed and a new list called the UK List of Priority Species and Habitats was published in 2007 after adoption by the Governments of all four UK administrations. The species and habitats on this list help guide conservation actions being taken by the four countries in the UK as part of the UK contribution to the Convention on Biological Diversity.",
+            "date_designated": "2007-08-28",
+            "reporting_category": "Biodiversity Action Plan UK list of priority species",
+            "designation": "Priority Species",
+            "designation_abbreviation": "BAP-2007",
+            "designation_description": "The UK List of Priority Species and Habitats contains 1150 species and 65 habitats that have been listed as priorities for conservation action under the UK Biodiversity Action Plan (UK BAP).",
+            "criteria_description": "Threat",
+            "comments": "not on former UK BAP list",
+            "reporting_category_sort_order": "Ha"
+        }
+    ]
+}
+

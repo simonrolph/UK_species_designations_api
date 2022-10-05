@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Seri obscuripennis"
+    ],
+    "recommended_authority": [
+        "(Oldenberg, 1916)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000028803"
+    ],
+    "designations": [
+        {
+            "designated_name": "Seri obscuripennis",
+            "source": "A review of the status of the Lonchopteridae, Platypezidae and Opetiidae flies of Great Britain (NECR246)",
+            "source_description": "This report was commissioned to update the national status of flies using IUCN methodology for assessment threat. It includes Lonchopteridae (Pointed-wing flies) and Platypezidae (Flat-footed flies) species and a single species of Opetiidae in Great Britain identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5490367884951552",
+            "date_designated": "2018-01-28",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Widespread in S England and first recorded in 1970; it was poorly known and considered scarce until the association with its host fungi was recognised). Larvae develop in the relatively soft-textured bracket fungi Polyporus badius, P. melanopus and P. varius on dead wood. There has been a recent increase in records and extension of its distribution to Norfolk (2002) and Shropshire (reared 2008 & 2009, adult 2015).",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Seri obscuripennis",
+            "source": "A review of the status of the Lonchopteridae, Platypezidae and Opetiidae flies of Great Britain (NECR246)",
+            "source_description": "This report was commissioned to update the national status of flies using IUCN methodology for assessment threat. It includes Lonchopteridae (Pointed-wing flies) and Platypezidae (Flat-footed flies) species and a single species of Opetiidae in Great Britain identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5490367884951552",
+            "date_designated": "2018-01-28",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "comments": "Widespread in S England and first recorded in 1970; it was poorly known and considered scarce until the association with its host fungi was recognised). Larvae develop in the relatively soft-textured bracket fungi Polyporus badius, P. melanopus and P. varius on dead wood. There has been a recent increase in records and extension of its distribution to Norfolk (2002) and Shropshire (reared 2008 & 2009, adult 2015).",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

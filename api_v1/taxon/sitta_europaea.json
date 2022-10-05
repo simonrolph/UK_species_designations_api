@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Sitta europaea"
+    ],
+    "recommended_authority": [
+        "Linnaeus, 1758"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000530610"
+    ],
+    "designations": [
+        {
+            "designated_name": "Sittidae",
+            "common_name": "Wood Nuthatch",
+            "source": "Bern Convention",
+            "source_description": "The Convention on the Conservation of European Wildlife and Natural Habitats (the Bern Convention) was adopted in Bern, Switzerland in 1979, and came into force in 1982. The principal aims of the Convention are to ensure conservation and protection of wild plant and animal species and their natural habitats (listed in Appendices I and II of the Convention), to increase cooperation between contracting parties, and to ensure the protection of certain fauna species (listed in Appendix 3) imposing regulations on any exploitation. To this end the Convention imposes legal obligations on contracting parties, protecting over 500 wild plant species and more than 1000 wild animal species.",
+            "date_designated": "1979-01-01",
+            "reporting_category": "Bern Convention",
+            "designation": "Appendix 2",
+            "designation_abbreviation": "Bern-A2",
+            "designation_description": "Special protection (`appropriate and necessary legislative and administrative measures`) for the animal taxa listed, includingall forms of deliberate capture and keeping and deliberate killing; the deliberate damage to or destruction of breeding or resting sites; the deliberate disturbance of wild fauna, particularly during the period of breeding, rearing and hibernation, insofar as disturbance would be significant in relation to the objectives of this Convention; the deliberate destruction or taking of eggs from the wild or keeping these eggs even if empty; the possession of and internal trade in these animals, alive or dead, including stuffed animals and any readily recognisable part or derivative thereof, where this would contribute to the effectiveness of the provisions of this article.",
+            "reporting_category_sort_order": "A"
+        },
+        {
+            "designated_name": "Sitta europaea",
+            "common_name": "Eurasian Nuthatch",
+            "source": "The risk of extinction for birds in Great Britain Sep 2017 British Birds 110: 502-517.",
+            "source_description": "The first formal Red List Category for birds based on IUCN criteria and guidelines. This assessment (No 34 in the Species Status series) is not an alternative to BoCC and does not replace or supersede it. It is recommended to use the BoCC status as the starting point for identifying which birds are most deserving of conservation action.  This assessment focusses on regular breeding and over-wintering birds of Great Britain, thus excluding birds in the Isle of Man, Channel Islands and northern Ireland. It includes 289 species and 68 subspecies on the British list and excludes non-natives, vagrants and scarce migrants. For species that have substantial and at least partially distinct breeding and non-breeding populations in GB (defined as having a population in the non-breeding season that is more than twice the size of the breeding population), notably waterbirds, the breeding and wintering populations are assessed separately. Therefore a species is assigned an IUCN Red List category for its breeding and wintering populations. Some notable bird subspecies, all of those for which Britain is of international importance, i.e. more than 20% of the northwest European flyway (wildfowl), East Atlantic flyway (waders) or European (all others) population were also assessed. These are national assessments determining the status of birds in Great Britain, however influences at regional level have also been considered if there is significant immigration of individuals from outside GB likely to breed which could rescue populations from extinction. For non-breeding taxa the assessment considers if conditions both inside and outside the region are deteriorating. Subsequently 22 species have been downgraded to consider this contribution.",
+            "url_source": "https://britishbirds.co.uk/article/risk-extinction-birds-great-britain/",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least Concern",
+            "designation_abbreviation": "Bird_RedList_GB_post2001-LC_Breeding",
+            "designation_description": "A Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "The status of breeding Eurasian Nuthatch was assessed as being of Least Concern in Great Britain. The population trend does not appear to approach the thresholds for Near Threatened under the population trend criterion (>20% decline over ten years or three generations). The species has an large range, and hence does not approach the thresholds for Near Threatened under the range size criterion (EoO <30,000 km2, AoO <3,000 km2). The population size is large, and hence does not approach the thresholds for Near Threatened under the population size criterion (<15,000 mature individuals with a continuing decline estimated to be >10% in ten years or three generations).",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

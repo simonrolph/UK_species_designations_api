@@ -1,0 +1,52 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Saldula melanoscela"
+    ],
+    "recommended_authority": [
+        "(Fieber, 1859)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020309794"
+    ],
+    "designations": [
+        {
+            "designated_name": "Saldula melanoscela",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "D2",
+            "comments": "Saldula melanoscela was first found on the River Wampool at Whitrigg Bridge, Cumbria, in 2000. Specimens from the same site have subsequently been identified in two collections, one dating back to 1928, in which they were grouped with Saldula c-album. It seems likely that all the British records relate to this single site, where S. melanoscela has a long term provenance. The bug has been found on both banks of the river for a couple of hundred metres, mostly downstream of the bridge and in low numbers (Hewitt 2001). The River Wampool is tidal where S.  melanoscela occurs, with fine sandy mud flats backed by rough coastal grassland. As there is no immediate threat to the R. Wampool habitat (S. Hewitt pers. comm.), although a tidal barrage across the Solway Firth may be a future threat, S. melanoscela is designated VU on the basis of a single known location and an AOO of <10km2.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Saldula melanoscela",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "criteria_description": "D2",
+            "comments": "Saldula melanoscela was first found on the River Wampool at Whitrigg Bridge, Cumbria, in 2000. Specimens from the same site have subsequently been identified in two collections, one dating back to 1928, in which they were grouped with Saldula c-album. It seems likely that all the British records relate to this single site, where S. melanoscela has a long term provenance. The bug has been found on both banks of the river for a couple of hundred metres, mostly downstream of the bridge and in low numbers (Hewitt 2001). The River Wampool is tidal where S.  melanoscela occurs, with fine sandy mud flats backed by rough coastal grassland. As there is no immediate threat to the R. Wampool habitat (S. Hewitt pers. comm.), although a tidal barrage across the Solway Firth may be a future threat, S. melanoscela is designated VU on the basis of a single known location and an AOO of <10km2.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

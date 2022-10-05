@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - caddis fly (Trichoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Hydroptila tigurina"
+    ],
+    "recommended_authority": [
+        "Ris, 1894"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000008362"
+    ],
+    "designations": [
+        {
+            "designated_name": "Hydroptila tigurina",
+            "source": "A review of the status of the caddis flies (Trichoptera) of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of caddis from work originally undertaken in 1987 and 1991 respectively, using the IUCN methodology for assessing threat.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5436150266200064?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "RedList_GB_post2001-DD",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat or Lower Risk. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that a threatened category is appropriate.",
+            "iucn_version": "2001",
+            "comments": "A very rare caddis with one 19th century Lake District records and a few from North-west Scotland.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Hydroptila tigurina",
+            "source": "A review of the status of the caddis flies (Trichoptera) of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of caddis from work originally undertaken in 1987 and 1991 respectively, using the IUCN methodology for assessing threat.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5436150266200064?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

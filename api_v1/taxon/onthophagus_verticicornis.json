@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Onthophagus verticicornis"
+    ],
+    "recommended_authority": [
+        "(Laicharting, 1781)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000152720"
+    ],
+    "designations": [
+        {
+            "designated_name": "Onthophagus verticicornis",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Regionally Extinct",
+            "designation_abbreviation": "RedList_GB_post2001-RE",
+            "designation_description": "Category for a taxon when there is no reasonable doubt that the last individual potentially capble of reproduction within the region has died or has disappeared from the wild in the region, or when, if it is a former visiting taxon, the last individual has died or disappeared in the wild from the region. The setting of any time limit for listing under RE is left to the discretion of the regional Red List authority, but should not normally pre-date 1500 AD.",
+            "iucn_version": "2001",
+            "comments": "Historically known from Somerset (Bath), Glamorgan (Swansea) and Essex (Chingford and Walthamstow). Hyman (1992) also gives West Kent. The dataset gives probable erroneous records from Leicestershire (Uppingham) and from Glamorgan (Merthyr-mawr Warren and Mynydd Maendy) as well as a more plausible record, from Monks Wood NNR (Hunts.) in 1873. The species probably became extinct in the early 20th Century as the last record is from Milbourne St Andrew, Dorset in 1926. Most existing Museum specimens that are of British origin are without locality and date.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

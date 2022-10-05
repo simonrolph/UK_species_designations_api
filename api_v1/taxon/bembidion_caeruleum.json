@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Bembidion caeruleum"
+    ],
+    "recommended_authority": [
+        "Audinet-Serville, 1826"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020919946"
+    ],
+    "designations": [
+        {
+            "designated_name": "Bembidion coeruleum",
+            "source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)",
+            "source_description": "This report was commissioned to update the national status of ground beetles using IUCN methodology for assessing threat. It covers all species of Carabidae in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6270849377107968?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "D2",
+            "comments": "There has been substantial survey effort at Dungeness since the occurrence of B. coeruleum was recognised (Telfer, 2001a), much of it targeted at finding B. coeruleum, or targeting the habitats in which B. coeruleum had been found. That only three further specimens have been found suggests that this is a species that occurs at low density, with a tenuously established British population. Water margin habitats at Dungeness are vulnerable to uncontrolled fluctuations in water levels, to rapid succession, and to invasion by Crassula helmsii (Kirk) Cockayne. In the longer term, the cessation of aggregates extraction at Dungeness will end the supply of newly excavated, bare pit margins, though the RSPB is developing management techniques to maintain early-successional conditions on pit margins (D2).",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Bembidion coeruleum",
+            "source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)",
+            "source_description": "This report was commissioned to update the national status of ground beetles using IUCN methodology for assessing threat. It covers all species of Carabidae in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6270849377107968?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

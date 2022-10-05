@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "spider (Araneae)"
+    ],
+    "recommended_taxon_name": [
+        "Enoplognatha mordax"
+    ],
+    "recommended_authority": [
+        "(Thorell, 1875)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000008905"
+    ],
+    "designations": [
+        {
+            "designated_name": "Enoplognatha mordax",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Enoplognatha mordax",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Threats: Drainage and reclamation of saltmarshes may pose a threat. Sea levels around Essex are rising relative to the land by some 6mm a year, a combination of the land sinking and sea level rising as a result of global warming. This is causing erosion of saltmarshes and at the present rate most of the habitat will have been lost within a few decades. Many of the Thames Marshes have been reclaimed for industrial development, with the extensive use of vertical concrete-capped iron pilings along the waterfront leaving very little saltmarsh. With the abandonment of older industrial sites next to the Thames, there is now enormous pressure from initiatives such as the 'Thames Gateway' to redevelop, often for high value riverside housing. It seems unlikely that the importance of small areas of fragile saltmarsh will be adequately taken into account.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

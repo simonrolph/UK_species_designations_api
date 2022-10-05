@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Gnathoncus rotundatus"
+    ],
+    "recommended_authority": [
+        "(Kugelann, 1792)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001718238"
+    ],
+    "designations": [
+        {
+            "designated_name": "Gnathoncus rotundatus",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "An apparently locally distributed species, but under recorded due to the difficulty of attributing certain identification to specimens (in particular to females) in the genus Gnathoncus and to the fact that bird's nests, grain stores and poultry house litter are still under-worked by many Coleopterists. The post-1990 hectad count would normally be considered sufficiently low to designate the species as Nationally Scarce, but like others in the genus, this taxon is likely to be under-recorded and in this instance, having no British rarity status is the preferred option. The quality of the data is too unreliable to apply IUCN criteria. 105 records.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

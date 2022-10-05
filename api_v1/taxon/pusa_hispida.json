@@ -1,0 +1,48 @@
+{
+    "category": [
+        "Mammal"
+    ],
+    "taxon_group": [
+        "marine mammal"
+    ],
+    "recommended_taxon_name": [
+        "Pusa hispida"
+    ],
+    "recommended_authority": [
+        "Schreber, 1775"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021053568"
+    ],
+    "designations": [
+        {
+            "designated_name": "Phoca hispida",
+            "source": "Bern Convention",
+            "source_description": "The Convention on the Conservation of European Wildlife and Natural Habitats (the Bern Convention) was adopted in Bern, Switzerland in 1979, and came into force in 1982. The principal aims of the Convention are to ensure conservation and protection of wild plant and animal species and their natural habitats (listed in Appendices I and II of the Convention), to increase cooperation between contracting parties, and to ensure the protection of certain fauna species (listed in Appendix 3) imposing regulations on any exploitation. To this end the Convention imposes legal obligations on contracting parties, protecting over 500 wild plant species and more than 1000 wild animal species.",
+            "date_designated": "1982-01-01",
+            "reporting_category": "Bern Convention",
+            "designation": "Appendix 3",
+            "designation_abbreviation": "Bern-A3",
+            "designation_description": "Special protection through 'appropriate and necessary legislative and administrative measures', of the listed wild fauna species.",
+            "comments": "probably vagrant",
+            "reporting_category_sort_order": "A"
+        },
+        {
+            "designated_name": "Cetacea",
+            "common_name": "Ringed seal",
+            "source": "The Conservation of Habitats and Species Regulations 2010",
+            "source_description": "The Conservation of Habitats and Species Regulations 2010 (abbreviated to the Habitats Regulations) consolidate all the various amendments made to the Conservation (Natural Habitats, &c.) Regulations 1994 in respect of England and Wales. The 1994 Regulations transposed the EC Habitats Directive into national law.  In Scotland the Habitats Directive is transposed through a combination of the Habitats Regulations 2010 (in relation to reserved matters) and the 1994 Regulations. Schedule 2- European protected species of animals, Schedule 3- Animals which may not be taken or killed in certain ways, Schedule 4- European protected species of plants.",
+            "url_source": "https://www.legislation.gov.uk/uksi/2010/490/schedule/2/made",
+            "date_designated": "1994-10-30",
+            "reporting_category": "The Conservation of Habitats and Species Regulations 2010",
+            "designation": "Schedule 4",
+            "designation_abbreviation": "HabReg-Sch4",
+            "designation_description": "Schedule 4- Animals which may not be taken or killed in certain ways",
+            "reporting_category_sort_order": "K"
+        }
+    ]
+}
+

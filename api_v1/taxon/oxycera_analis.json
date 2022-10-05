@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Oxycera analis"
+    ],
+    "recommended_authority": [
+        "Wiedemann in Meigen, 1822"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007808"
+    ],
+    "designations": [
+        {
+            "designated_name": "Oxycera analis",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Oxycera analis has been recorded from nine hectads since 1990. It exhibits a strong decline of 70% compared to earlier records. There appears to have been a period when it flourished in the 1980 and 1990s but has been scarcely seen since 2000. There is only one hectad in common before and after 1990 so recording may not have detected small persistent colonies.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Oxycera analis",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "comments": "Oxycera analis has been recorded from nine hectads since 1990. It exhibits a strong decline of 70% compared to earlier records. There appears to have been a period when it flourished in the 1980 and 1990s but has been scarcely seen since 2000. There is only one hectad in common before and after 1990 so recording may not have detected small persistent colonies.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

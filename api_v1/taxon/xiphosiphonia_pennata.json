@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Non-vascular plant"
+    ],
+    "taxon_group": [
+        "alga"
+    ],
+    "recommended_taxon_name": [
+        "Xiphosiphonia pennata"
+    ],
+    "recommended_authority": [
+        "(C.Agardh) Savoie & G.W.Saunders, 2016"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021185549"
+    ],
+    "designations": [
+        {
+            "designated_name": "Pterosiphonia pennata",
+            "common_name": "Red seaweed",
+            "source": "Rare marine benthic flora and fauna in Great Britain- the development of criteria for assessment",
+            "source_description": "Sanderson, W G.  JNCC Report, No. 240.  Published by JNCC, 1996.  Provisional list of rare and scarce marine species.  [not red list]",
+            "date_designated": "1996-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally scarce marine species",
+            "designation_abbreviation": "Marine-NS",
+            "designation_description": "Species which occur in nine to 55 10km X 10km grid squares containing sea (or water of marine saline influence) within the three mile territorial limit.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

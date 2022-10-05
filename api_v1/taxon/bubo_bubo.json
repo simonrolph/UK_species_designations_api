@@ -1,0 +1,48 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Bubo bubo"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1758)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000532935"
+    ],
+    "designations": [
+        {
+            "designated_name": "Bubo bubo",
+            "common_name": "Eagle Owl",
+            "source": "Birds directive",
+            "source_description": "In 1979, the European Community adopted Council Directive 79/409/EEC on the conservation of wild birds (PDF 209KB) (the Birds Directive), in response to the 1979 Bern Convention on the conservation of European habitats and species (the Bern Convention). The Directive provides a framework for the conservation and management of, and human interactions with, wild birds in Europe. It sets broad objectives for a wide range of activities, although the precise legal mechanisms for their achievement are at the discretion of each Member State (in the UK delivery is via several different statutes).",
+            "url_source": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32009L0147&from=EN",
+            "date_designated": "1979-01-01",
+            "reporting_category": "Birds Directive",
+            "designation": "Annex 1",
+            "designation_abbreviation": "BirdsDir-A1",
+            "designation_description": "Birds which are the subject of special conservation measures concerning their habitat in order to ensure their survival and reproduction in their area of distribution. As appropriate, Special Protection Areas to be established to assist conservation measures. Note that the contents of this annex have been updated in April 2003 following the Treaty of Accession.",
+            "reporting_category_sort_order": "C"
+        },
+        {
+            "designated_name": "Bubo bubo",
+            "common_name": "Eagle Owl",
+            "source": "CITES UK Species only",
+            "source_description": "The Washington Convention on International Trade in Endangered Species of Wild Fauna and Flora, more commonly known as CITES, aims to protect certain plants and animals by regulating and monitoring their international trade to prevent it reaching unsustainable levels. The Convention entered into force in 1975, and the UK became a Party in 1976.",
+            "date_designated": "1997-01-01",
+            "reporting_category": "EC Cites",
+            "designation": "Annex A",
+            "designation_abbreviation": "ECCITES-A",
+            "designation_description": "All CITES Appendix I species. Some CITES Appendix II and III species, for which the EU has adopted stricter domestic measures. Some non-CITES species.",
+            "reporting_category_sort_order": "E"
+        }
+    ]
+}
+

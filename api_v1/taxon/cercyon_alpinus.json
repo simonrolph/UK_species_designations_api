@@ -1,0 +1,51 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Cercyon alpinus"
+    ],
+    "recommended_authority": [
+        "Vogt, 1969"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000033115"
+    ],
+    "designations": [
+        {
+            "designated_name": "Cercyon alpinus",
+            "source": "A review of the scarce and threatened beetles of Great Britain Part 2 (Hyman, P.S. revised and updated by M.S. Parsons.)",
+            "source_description": "Hyman, P S revised and updated by Parsons, M S.  UK nature conservation, No. 12.  Published by JNCC, 1994.  Along with Part 1, updates relevant information in the RDB Insects (1987) using the old IUCN categories and criteria (pre 1994).",
+            "url_source": "http://jncc.defra.gov.uk/PDF/Pub92_Review_of_Scarce_&_Threatened_Coleoptera_of_Great_Britain_Part-1_(2)_PRINT.pdf",
+            "date_designated": "1994-01-01",
+            "reporting_category": "Red Listing based on pre 1994 IUCN guidelines",
+            "designation": "IUCN (pre 1994) - Insufficiently known",
+            "designation_abbreviation": "RedList_GB_Pre94-Insu",
+            "designation_description": "Taxa that are suspected but not definitely known to belong to any of the above categories (i.e. Endangered, Vulnerable, Rare), because of the lack of information. Superseded by new IUCN categories in 1994, so no longer in use.",
+            "iucn_version": "pre 1994",
+            "reporting_category_sort_order": "Fa"
+        },
+        {
+            "designated_name": "Cercyon (Cercyon) alpinus",
+            "common_name": "a water beetle",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Watching brief only; Criterion: S3 - Rare in the UK (<16 10km sqs)",
+            "comments": "Terrestrial/Freshwater Species.",
+            "reporting_category_sort_order": "Hc"
+        }
+    ]
+}
+

@@ -1,0 +1,99 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Acrocephalus paludicola"
+    ],
+    "recommended_authority": [
+        "(Vieillot, 1817)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000530127"
+    ],
+    "designations": [
+        {
+            "designated_name": "Acrocephalus paludicola",
+            "common_name": "Aquatic Warbler",
+            "source": "Birds directive",
+            "source_description": "In 1979, the European Community adopted Council Directive 79/409/EEC on the conservation of wild birds (PDF 209KB) (the Birds Directive), in response to the 1979 Bern Convention on the conservation of European habitats and species (the Bern Convention). The Directive provides a framework for the conservation and management of, and human interactions with, wild birds in Europe. It sets broad objectives for a wide range of activities, although the precise legal mechanisms for their achievement are at the discretion of each Member State (in the UK delivery is via several different statutes).",
+            "url_source": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32009L0147&from=EN",
+            "date_designated": "1985-01-01",
+            "reporting_category": "Birds Directive",
+            "designation": "Annex 1",
+            "designation_abbreviation": "BirdsDir-A1",
+            "designation_description": "Birds which are the subject of special conservation measures concerning their habitat in order to ensure their survival and reproduction in their area of distribution. As appropriate, Special Protection Areas to be established to assist conservation measures. Note that the contents of this annex have been updated in April 2003 following the Treaty of Accession.",
+            "reporting_category_sort_order": "C"
+        },
+        {
+            "designated_name": "Acrocephalus paludicola",
+            "common_name": "Aquatic Warbler",
+            "source": "Convention on Migratory Species",
+            "source_description": "The Convention on the Conservation of Migratory Species of Wild Animals (Bonn Convention or CMS) was adopted in Bonn, Germany in 1979 and came into force in 1985. Contracting Parties work together to conserve migratory species and their habitats by providing strict protection for endangered migratory species (listed in Appendix 1 of the Convention), concluding multilateral Agreements for the conservation and management of migratory species which require or would benefit from international cooperation (listed in Appendix 2), and by undertaking co-operative research activities",
+            "date_designated": "1997-01-01",
+            "reporting_category": "Convention on Migratory Species",
+            "designation": "Appendix 2",
+            "designation_abbreviation": "CMS_A2",
+            "designation_description": "Migratory species having an unfavourable conservation status for which Range States are encouraged to conclude international agreements for their benefit.",
+            "reporting_category_sort_order": "C1"
+        },
+        {
+            "designated_name": "Acrocephalus paludicola",
+            "common_name": "Aquatic Warbler",
+            "source": "Convention on Migratory Species",
+            "source_description": "The Convention on the Conservation of Migratory Species of Wild Animals (Bonn Convention or CMS) was adopted in Bonn, Germany in 1979 and came into force in 1985. Contracting Parties work together to conserve migratory species and their habitats by providing strict protection for endangered migratory species (listed in Appendix 1 of the Convention), concluding multilateral Agreements for the conservation and management of migratory species which require or would benefit from international cooperation (listed in Appendix 2), and by undertaking co-operative research activities",
+            "date_designated": "1997-01-01",
+            "reporting_category": "Convention on Migratory Species",
+            "designation": "Appendix 1",
+            "designation_abbreviation": "CMS_A1",
+            "designation_description": "Endangered migratory species in danger of extinction throughout all or a significant portion of their range, and for which Range States are obliged to prohibit taking and to take protective measures to conserve. (Note that taking may be permitted in some circumstances as outlined in Article III.5.)",
+            "reporting_category_sort_order": "C1"
+        },
+        {
+            "designated_name": "Acrocephalus paludicola",
+            "common_name": "Aquatic warbler",
+            "source": "Natural Environment and Rural Communities Act 2006 - Species of Principal Importance in England (section 41)",
+            "source_description": "Sections 41 (England) of the Natural Environment and Rural Communities Act 2006 require the listing of species of principal importance for the purpose of conserving biodiversity and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "date_designated": "2008-11-01",
+            "reporting_category": "Biodiversity Lists - England",
+            "designation": "England NERC S.41",
+            "designation_abbreviation": "England_NERC_S.41",
+            "designation_description": "Species “of principal importance for the purpose of conserving biodiversity” covered under section 41 (England) of the NERC Act (2006) and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "reporting_category_sort_order": "Hb"
+        },
+        {
+            "designated_name": "Acrocephalus paludicola",
+            "common_name": "Aquatic warbler",
+            "source": "Environment (Wales) Act 2016 - Species of Principal Importance in Wales (section 7)",
+            "source_description": "Section 7 of the Environment (Wales) Act 2016 requires the publication of a list of biodiversity of principle importance, to support the biodiversity duty on public bodies under section 6 of the Act.",
+            "url_source": "http://www.biodiversitywales.org.uk/Environment-Wales-Bill",
+            "date_designated": "2016-05-21",
+            "reporting_category": "Biodiversity Lists - Wales",
+            "designation": "Env (Wales) Act S7",
+            "designation_abbreviation": "Env (Wales) Act S7",
+            "designation_description": "Species of principal importance for the purpose of conserving biodiversity covered under Section 7 of the Environment (Wales) Act 2016 and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "reporting_category_sort_order": "Hd"
+        },
+        {
+            "designated_name": "Acrocephalus paludicola",
+            "common_name": "Aquatic Warbler",
+            "source": "UK list of Priority Habitats and Species",
+            "source_description": "Starting in 2005, the old UK BAP priorities were reviewed and a new list called the UK List of Priority Species and Habitats was published in 2007 after adoption by the Governments of all four UK administrations. The species and habitats on this list help guide conservation actions being taken by the four countries in the UK as part of the UK contribution to the Convention on Biological Diversity.",
+            "date_designated": "2007-08-28",
+            "reporting_category": "Biodiversity Action Plan UK list of priority species",
+            "designation": "Priority Species",
+            "designation_abbreviation": "BAP-2007",
+            "designation_description": "The UK List of Priority Species and Habitats contains 1150 species and 65 habitats that have been listed as priorities for conservation action under the UK Biodiversity Action Plan (UK BAP).",
+            "criteria_description": "Threat,Decl,Other",
+            "comments": "status on former BAP list- Species Action Plan",
+            "reporting_category_sort_order": "Ha"
+        }
+    ]
+}
+

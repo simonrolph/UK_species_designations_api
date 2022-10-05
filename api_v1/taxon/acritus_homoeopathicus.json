@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Acritus homoeopathicus"
+    ],
+    "recommended_authority": [
+        "Wollaston, 1857"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000022822"
+    ],
+    "designations": [
+        {
+            "designated_name": "Acritus homoeopathicus",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Acritus homoeopathicus",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "A2c: B2ab(ii,iv)",
+            "comments": "Due to the species' association with burnt ground, a habitat not regularly investigated by the majority of Coleopterists, the beetle is very likely to be under-recorded. However, it is certainly very restricted in distribution in Britain and efforts to find it are likely to be best-rewarded at 'new' sites within its known range. Data evidences a continuing decline. Application of IUCN Category A2 criteria to the last 30-year's of data gives an adjusted 10-year period decline of 45% which equates to designation as IUCN Category Vulnerable VUA2c With only three post-2000 records and only eight localities recorded for the species since 1990, a designation of IUCN VUB2a,b (ii)(iv) is also appropriate. 38 records.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

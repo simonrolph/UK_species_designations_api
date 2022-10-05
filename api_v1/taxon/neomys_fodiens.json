@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Mammal"
+    ],
+    "taxon_group": [
+        "terrestrial mammal"
+    ],
+    "recommended_taxon_name": [
+        "Neomys fodiens"
+    ],
+    "recommended_authority": [
+        "(Pennant, 1771)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000080174"
+    ],
+    "designations": [
+        {
+            "designated_name": "Neomys fodiens",
+            "source": "Bern Convention",
+            "source_description": "The Convention on the Conservation of European Wildlife and Natural Habitats (the Bern Convention) was adopted in Bern, Switzerland in 1979, and came into force in 1982. The principal aims of the Convention are to ensure conservation and protection of wild plant and animal species and their natural habitats (listed in Appendices I and II of the Convention), to increase cooperation between contracting parties, and to ensure the protection of certain fauna species (listed in Appendix 3) imposing regulations on any exploitation. To this end the Convention imposes legal obligations on contracting parties, protecting over 500 wild plant species and more than 1000 wild animal species.",
+            "date_designated": "1982-01-01",
+            "reporting_category": "Bern Convention",
+            "designation": "Appendix 3",
+            "designation_abbreviation": "Bern-A3",
+            "designation_description": "Special protection through 'appropriate and necessary legislative and administrative measures', of the listed wild fauna species.",
+            "comments": "natural range includes GB",
+            "reporting_category_sort_order": "A"
+        },
+        {
+            "designated_name": "Neomys fodiens",
+            "common_name": "Water shrew",
+            "source": "A Review of the Population and Conservation Status of British Mammals: Technical Summary (June 2018)",
+            "source_description": "The first comprehensive review of the status of British mammal populations for over 20 years. The population size, range size, temporal trends and future prospects of Britain’s 58 terrestrial mammals are assessed. Island races and feral mammals are excluded from the main review. The objective of the review was to produce the most accurate assessment possible of population size, geographical range, and conservation trends since 1995. Based on IUCN Red List criteria and guidelines.",
+            "url_source": "http://publications.naturalengland.org.uk/ & http:",
+            "date_designated": "2018-06-13",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "England [LC] Scotland [LC] Wales [LC]. Although it",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Caenocara affinis"
+    ],
+    "recommended_authority": [
+        "(Sturm, 1837)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000024330"
+    ],
+    "designations": [
+        {
+            "designated_name": "Caenocara affinis",
+            "source": "A review of the status of the beetles of Great Britain: The wood-boring beetles, spider beetles, woodworm, false powder-post beetles, hide beetles and their allies - Derodontidoidea (Derodontidae) and Bostrichoidea (Dermestidae, Bostrichidae and Ptinidae)",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Derodontidae, Dermestidae, Bostrichidae and Ptinidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5841907969687552?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "RedList_GB_post2001-DD",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat or Lower Risk. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that a threatened category is appropriate.",
+            "iucn_version": "2001",
+            "comments": "Added to the British list in 1918 based on rearing from a Suffolk Breckland site, but no further records. A single observation does not however make a long-established native population. Data Deficient appears to be the most rational status, at least until further material is forthcoming.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

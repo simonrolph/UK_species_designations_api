@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Epierus comptus"
+    ],
+    "recommended_authority": [
+        "Erichson, 1834"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000022864"
+    ],
+    "designations": [
+        {
+            "designated_name": "Epierus comptus",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Epierus comptus",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "comments": "This is a highly restricted species, occurring only at a handful of localities in South Wiltshire and South Hampshire since its discovery in England in 1980. Considered by some to be a possible introduction, but for the purposes of this Review, the species is treated as a long-overlooked native. There is no evidence of decline and to the contrary, the discovery of new sites in recent years suggests a possible increase although data is limited. There are also no plausible threats to the species at present. With an AoO of 12km2 and a presence in only 3 locations since 1990, the species nearly qualifies for Endangered under B2a. However, as there is no evidence of decline (b) or extreme fluctuations (c), it affords a Near Threatened category instead. 14 records.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

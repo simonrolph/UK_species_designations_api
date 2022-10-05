@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - hymenopteran"
+    ],
+    "recommended_taxon_name": [
+        "Coelioxys quadridentata"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1758)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000875703"
+    ],
+    "designations": [
+        {
+            "designated_name": "Coelioxys quadridentata",
+            "source": "A review of the scarce and threatened bees, wasps and ants of Great Britain (Falk, S.J.)",
+            "source_description": "Falk, S J.  Research & survey in nature conservation, No. 35.  Published by JNCC, 1991.  Updates relevant information in the RDB Insects (1987) using the old IUCN categories and criteria.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Pub91_Review_of_threatened_bees_wasps_ants_PRINT.pdf",
+            "date_designated": "1991-01-01",
+            "reporting_category": "Red Listing based on pre 1994 IUCN guidelines",
+            "designation": "Rare",
+            "designation_abbreviation": "RedList_GB_Pre94-R",
+            "designation_description": "Taxa with small populations that are not at present Endangered or Vulnerable, but are at risk. (In GB, this was interpreted as species which exist in fifteen or fewer 10km squares). Superseded by new IUCN categories in 1994, but still applicable to lists that have not been reviewed since 1994.",
+            "iucn_version": "pre 1994",
+            "comments": "pre 1994 IUCN criteria",
+            "reporting_category_sort_order": "Fa"
+        }
+    ]
+}
+

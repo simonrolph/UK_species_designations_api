@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "spider (Araneae)"
+    ],
+    "recommended_taxon_name": [
+        "Baryphyma gowerense"
+    ],
+    "recommended_authority": [
+        "(Locket, 1965)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000009014"
+    ],
+    "designations": [
+        {
+            "designated_name": "Baryphyma gowerense",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Baryphyma gowerense",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "B2ab(iv)",
+            "comments": "Although recorded from 11 hectads, found at only two locations since 1992. The apparent 82% decline is almost certainly an over-estimate; the Welsh saltmarshes need re-survey to establish current status at previously recorded sites and check for the continued presence in the type locality. Because of this, considered VU rather than EN. Threats: At Oxwich, natural changes in the dune system have led to an increase in the accretion rate in the saltmarsh, with consequent changes in the vegetation. The habitat at Whiteford is thought to be stable. The vegetation at Ruston Common is largely the result of management by the commoners (including cutting of reed and saw-sedge for thatch), but these practices ceased in the mid-1970s and scrub invasion is a problem at this site. More efficient drainage and increased water abstraction in the vicinity of Ruston Common had a dramatic effect on the marshy area in the late 1980s, and it remains to be seen whether the wetland flora and fauna are permanently damaged.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

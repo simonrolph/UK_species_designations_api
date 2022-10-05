@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Anasimyia interpuncta"
+    ],
+    "recommended_authority": [
+        "(Harris, [1776])"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007040"
+    ],
+    "designations": [
+        {
+            "designated_name": "Anasimyia interpuncta (Harris, 1776)",
+            "source": "A review of the scarce and threatened flies of Great Britain.",
+            "source_description": "A review of the scarce and threatened flies of Great Britain. Part 6: Hoverflies, family Syrphidae. S.G. Ball, R.K.A. Morris (2014). ISSN 1473-0154.",
+            "url_source": "http://jncc.defra.gov.uk/page-6907",
+            "date_designated": "2014-11-26",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Scarce. Excludes Red Listed taxa",
+            "designation_abbreviation": "NS-excludes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Excludes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

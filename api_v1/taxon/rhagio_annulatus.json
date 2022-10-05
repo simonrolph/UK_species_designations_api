@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Rhagio annulatus"
+    ],
+    "recommended_authority": [
+        "(De Geer, 1776)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007861"
+    ],
+    "designations": [
+        {
+            "designated_name": "Rhagio annulatus",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Rhagio annulatus has been recorded from six hectads since 1990, although one of these is in Scotland and may be an error. It shows not obvious decline but there are no recent records from the west of its range in England, so its range may have contracted slightly. Only one hectad has records before and after 1990 so it may be well underrecorded. Its close resemblance to R. tringarius may lead it to be dismissed in the field as this common species and so will not often be closely examined. While R. annulatus is technically on the verge of being Vulnerable, more careful recording may show it to be more widespread.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Rhagio annulatus",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "comments": "Rhagio annulatus has been recorded from six hectads since 1990, although one of these is in Scotland and may be an error. It shows not obvious decline but there are no recent records from the west of its range in England, so its range may have contracted slightly. Only one hectad has records before and after 1990 so it may be well underrecorded. Its close resemblance to R. tringarius may lead it to be dismissed in the field as this common species and so will not often be closely examined. While R. annulatus is technically on the verge of being Vulnerable, more careful recording may show it to be more widespread.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

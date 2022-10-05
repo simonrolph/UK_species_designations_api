@@ -1,0 +1,118 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Turdus pilaris"
+    ],
+    "recommended_authority": [
+        "Linnaeus, 1758"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000530679"
+    ],
+    "designations": [
+        {
+            "designated_name": "Turdus pilaris",
+            "common_name": "Fieldfare",
+            "source": "Birds directive",
+            "source_description": "In 1979, the European Community adopted Council Directive 79/409/EEC on the conservation of wild birds (PDF 209KB) (the Birds Directive), in response to the 1979 Bern Convention on the conservation of European habitats and species (the Bern Convention). The Directive provides a framework for the conservation and management of, and human interactions with, wild birds in Europe. It sets broad objectives for a wide range of activities, although the precise legal mechanisms for their achievement are at the discretion of each Member State (in the UK delivery is via several different statutes).",
+            "url_source": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32009L0147&from=EN",
+            "date_designated": "1979-01-01",
+            "reporting_category": "Birds Directive",
+            "designation": "Annex 2.2",
+            "designation_abbreviation": "BirdsDir-A2.2",
+            "designation_description": "Birds which may potentially be hunted under national legislation only within certain specified Member States. (Note that some species are protected by the national legislation of some Member States although hunting would potentially be legal under the Directive).",
+            "reporting_category_sort_order": "C"
+        },
+        {
+            "designated_name": "Turdus pilaris",
+            "common_name": "Fieldfare",
+            "source": "Wildlife and Countryside Act Schedules 1, 5 and 8 (protected birds, animals and plants)",
+            "source_description": "Protected Birds, Animals and Plants are listed in Schedules 1, 5 and 8 respectively of the Wildlife and Countryside Act.Schedule 1. The Act makes it an offence (with exception to species listed in Schedule 2) to intentionally kill, injure or take any wild bird or their eggs or nests. Special penalties are available for offences related to birds listed on Schedule 1, for which there are additional offences of disturbing these birds at their nests, or their dependent young. Schedule 5. The Act makes it an offence (subject to exceptions) to intentionally kill, injure, or take, possess, or trade in any wild animal listed in Schedule 5, and prohibits interference with places used for shelter or protection, or intentionally disturbing animals occupying such places. The Act also prohibits certain methods of killing, injuring, or taking wild animals.Schedule 8. The Act makes it an offence (subject to exceptions) to pick, uproot, trade in, or possess (for the purposes of trade) any wild plant listed in Schedule 8, and prohibits the unauthorised intentional uprooting of such plants.There is a statutory five-yearly review of Schedules 5 and 8 (protected wild animals and plants respectively).",
+            "url_source": "http://www.legislation.gov.uk/all?title=Wildlife%20and%20Countryside%20Act%201981",
+            "date_designated": "1981-01-01",
+            "reporting_category": "Wildlife and Countryside Act 1981",
+            "designation": "Schedule 1 - Part 1",
+            "designation_abbreviation": "WACA-Sch1_part1",
+            "designation_description": "Birds and their young, for which it is an offence to intentionally or recklessly disturb at, on or near an active nest. They are protected by special penalties at all times.",
+            "reporting_category_sort_order": "I"
+        },
+        {
+            "designated_name": "Turdus pilaris",
+            "common_name": "Fieldfare",
+            "source": "Wildlife (Northern Ireland) Order (1985)",
+            "source_description": "The principle legislation for wildlife protection in Northern Ireland",
+            "date_designated": "1985-01-01",
+            "reporting_category": "The Wildlife (Northern Ireland) Order 1985",
+            "designation": "Schedule 1 Part 1",
+            "designation_abbreviation": "W(NI)O-Sch1_part1",
+            "designation_description": "Birds which are protected by special penalties at all times.",
+            "reporting_category_sort_order": "J"
+        },
+        {
+            "designated_name": "Turdus pilaris",
+            "common_name": "Fieldfare",
+            "source": "Birds of Conservation Concern 5: the red list for birds (Red/Amber list and not based on IUCN criteria)",
+            "source_description": "Commonly referred to as the UK Red List for birds, this is the fifth review of the status of birds in the UK, Channel Islands and Isle of Man, and updates the last assessment in 2015. Using standardised criteria, 245 species with breeding, passage or wintering populations in the UK were assessed by experts from a range of bird NGOs and assigned to the Red, Amber or Green lists of conservation concern. December 2021.",
+            "url_source": "https://www.bto.org/our-science/publications/birds-conservation-concern",
+            "date_designated": "2021-01-01",
+            "reporting_category": "Red data categories  - birds (not based on IUCN criteria)",
+            "designation": "Bird Population Status - red",
+            "designation_abbreviation": "Bird-Red",
+            "designation_description": "Red list species are those that are Globally Threatened according to IUCN criteria; those whose population or range has declined rapidly in recent years; and those that have declined historically and not shown a substantial recent recovery.",
+            "reporting_category_sort_order": "Ga"
+        },
+        {
+            "designated_name": "Turdus pilaris",
+            "common_name": "fieldfare",
+            "source": "Northern Ireland Priority Species List, March 2010",
+            "source_description": "Northern Ireland Priority Species List - March 2010. A list of threatened species requiring conservation action in Northern Ireland. Selection criteria- 1. Listed as a UK Priority Species. 2. Rapid decline (2% per year). 3. Decline (1% year) with Northern Ireland being a stronghold (S) consisting of either >50% Irish population or >20% UK population/range or with the Irish or UK population restricted (R) to Northern Ireland or with the Irish or UK population restricted (R) to Northern Ireland i.e. Decline + S or R. 4. Rare (confined to a small population of one or two sites in Northern Ireland) with Northern Ireland being a stronghold (S) consisting of either >50% Irish population or >20% UK population/range or with the Irish or UK population restricted (R) to Northern Ireland i.e. Rare + S or R. 5. At least 20% of international population of species or well-recognised subspecies occurring in Northern Ireland. 6. Irish Red Data Book (RDB) species classed as critically endangered (CR), endangered (EN) or vulnerable (VU). 7. Red-listed species in either Birds of Conservation Concern in Ireland (BOCCI) or the UK Birds of Conservation Concern (UK BOCC) lists.",
+            "date_designated": "2010-03-01",
+            "reporting_category": "Biodiversity Lists - Northern Ireland",
+            "designation": "Priority Species (Northern Ireland)",
+            "designation_abbreviation": "NI_Priority",
+            "designation_description": "The Northern Ireland Priority List of threatened species requiring conservation action in Northern Ireland. Criteria have been developed to ensure that Priority Species have been chosen using a scientific basis (See http-//www.habitas.org.uk/priority/criteria.html). The list is designed to assist those involved in the conservation of biodiversity by guiding decisions on where to target action and invest resources.",
+            "criteria_description": "6",
+            "reporting_category_sort_order": "He"
+        },
+        {
+            "designated_name": "Turdus pilaris",
+            "common_name": "Fieldfare",
+            "source": "The risk of extinction for birds in Great Britain Sep 2017 British Birds 110: 502-517.",
+            "source_description": "The first formal Red List Category for birds based on IUCN criteria and guidelines. This assessment (No 34 in the Species Status series) is not an alternative to BoCC and does not replace or supersede it. It is recommended to use the BoCC status as the starting point for identifying which birds are most deserving of conservation action.  This assessment focusses on regular breeding and over-wintering birds of Great Britain, thus excluding birds in the Isle of Man, Channel Islands and northern Ireland. It includes 289 species and 68 subspecies on the British list and excludes non-natives, vagrants and scarce migrants. For species that have substantial and at least partially distinct breeding and non-breeding populations in GB (defined as having a population in the non-breeding season that is more than twice the size of the breeding population), notably waterbirds, the breeding and wintering populations are assessed separately. Therefore a species is assigned an IUCN Red List category for its breeding and wintering populations. Some notable bird subspecies, all of those for which Britain is of international importance, i.e. more than 20% of the northwest European flyway (wildfowl), East Atlantic flyway (waders) or European (all others) population were also assessed. These are national assessments determining the status of birds in Great Britain, however influences at regional level have also been considered if there is significant immigration of individuals from outside GB likely to breed which could rescue populations from extinction. For non-breeding taxa the assessment considers if conditions both inside and outside the region are deteriorating. Subsequently 22 species have been downgraded to consider this contribution.",
+            "url_source": "https://britishbirds.co.uk/article/risk-extinction-birds-great-britain/",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Critically Endangered (possibly extinct)",
+            "designation_abbreviation": "Bird_RedList_GB_post2001-CR(PE)_Breeding",
+            "designation_description": "A taxon is Critically Endangered when the best available evidence indicates that it meets any of the criteria A to E for Critically Endangered (see Section V), and it is therefore considered to be facing an extremely high risk of extinction in the wild.  Possibly extinct indicates that there is a small chance that the taxon may still be extant, and hence  should not be listed as Extinct until local or unconfirmed reports have been discounted, and adequate surveys have failed to find any individuals.",
+            "iucn_version": "2001",
+            "criteria_description": "A2c+3c+4c; C1+2a(ii); D",
+            "comments": "The status of breeding Fieldfare was assessed as being Critically Endangered in Great Britain under criteria A2,3,4c, C1, C2a(ii), D1, due to: A2,3,4c) an observed, estimated, inferred or suspected range decline (AoO) of at least 80% (81%) over 3 generations (16 years) in the past, future, and a period spanning both; C1) a population size of less than 250 (2-4) mature individuals in conjunction with an observed, estimated, inferred or suspected population decline of at least 25% (30%) over 1 generation (5 years); C2a(ii)) a population size of less than 250 mature individuals in conjunction with the GB population being considered to have a single subpopulation, and a population decline of at least 10% over 3 generations; D1) a population size of less than 50 mature individuals. The Possibly Extinct (PE) tag was attached as there has been no confirmed breeding in England since 2007, though there were two probable attampts in 2008.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Turdus pilaris",
+            "common_name": "Fieldfare",
+            "source": "The risk of extinction for birds in Great Britain Sep 2017 British Birds 110: 502-517.",
+            "source_description": "The first formal Red List Category for birds based on IUCN criteria and guidelines. This assessment (No 34 in the Species Status series) is not an alternative to BoCC and does not replace or supersede it. It is recommended to use the BoCC status as the starting point for identifying which birds are most deserving of conservation action.  This assessment focusses on regular breeding and over-wintering birds of Great Britain, thus excluding birds in the Isle of Man, Channel Islands and northern Ireland. It includes 289 species and 68 subspecies on the British list and excludes non-natives, vagrants and scarce migrants. For species that have substantial and at least partially distinct breeding and non-breeding populations in GB (defined as having a population in the non-breeding season that is more than twice the size of the breeding population), notably waterbirds, the breeding and wintering populations are assessed separately. Therefore a species is assigned an IUCN Red List category for its breeding and wintering populations. Some notable bird subspecies, all of those for which Britain is of international importance, i.e. more than 20% of the northwest European flyway (wildfowl), East Atlantic flyway (waders) or European (all others) population were also assessed. These are national assessments determining the status of birds in Great Britain, however influences at regional level have also been considered if there is significant immigration of individuals from outside GB likely to breed which could rescue populations from extinction. For non-breeding taxa the assessment considers if conditions both inside and outside the region are deteriorating. Subsequently 22 species have been downgraded to consider this contribution.",
+            "url_source": "https://britishbirds.co.uk/article/risk-extinction-birds-great-britain/",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least Concern",
+            "designation_abbreviation": "Bird_RedList_GB_post2001-LC_NonBreeding",
+            "designation_description": "A Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "The status of non-breeding Fieldfare was assessed as being of Least Concern in Great Britain. The population trend does not appear to approach the thresholds for Near Threatened under the population trend criterion (>20% decline over ten years or three generations). The species has an large range, and hence does not approach the thresholds for Near Threatened under the range size criterion (EoO <30,000 km2, AoO <3,000 km2). The population size is large, and hence does not approach the thresholds for Near Threatened under the population size criterion (<15,000 mature individuals with a continuing decline estimated to be >10% in ten years or three generations).",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

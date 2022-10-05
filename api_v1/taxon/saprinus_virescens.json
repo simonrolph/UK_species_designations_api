@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Saprinus virescens"
+    ],
+    "recommended_authority": [
+        "(Paykull, 1798)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000022834"
+    ],
+    "designations": [
+        {
+            "designated_name": "Saprinus virescens",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Saprinus virescens",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "comments": "Dramatic decline evidenced by an 83% decrease in occupied hectads between the two main recording periods (pre-1990 and post-1990). In the 30-year period between 1986 and 2015, this decline appears to have ceased as the hectad count increases slightly in the latter 15 year period, from 5 to 7 hectads. However, if we look at the last 10-year period, there is only one record/one hectad. This strongly suggests that although the species is likely to be under-recorded along with most species in the Histeridae, the decline is continuing. The species satisfies designation in IUCN Category Near Threatened as it is undergoing continuing decline but just falls wide of the threshold for the number of modern locations. Looking at older data in 10-year blocks gives the following hectad total counts: 1896-1905 (3), 1906-1915 (3), 1916-1925 (5), 1926-1935 (8), 1936-1945 (3), 1946-1955 (8), 1956-1965 (6), 1966-1975 (2), 1976-1985 (0), 1986-1995 (0), 1996-2005 (11), 2006-2015 (1). There is no clear linear pattern of decline, so the data does not support analysis for IUCN Category A2. The data does suggest possible significant periodic fluctuation in population, but further research would need to be conducted to prove this as conclusive because, as for all Histerid species, the current dataset is based on random observations and not on standardised sampling. 119 records.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

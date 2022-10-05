@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Euheptaulacus villosus"
+    ],
+    "recommended_authority": [
+        "(Gyllenhal in Schönherr, 1806)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001718137"
+    ],
+    "designations": [
+        {
+            "designated_name": "Euheptaulacus villosus",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Although a historical decline is evident from the data with a 57% decrease in hectads between the pre-1990 and post-1990 recording periods, no continuation of decline is apparent in the recent 32-year period. The species has a wide but fragmented distribution with only 19 recorded hectads since 1990, a requirement for unimproved grassland and possible threats from the use of endectocides and irregularity in dung continuity. Its association with rabbit dung as a food source will, however minimise impacts from both of these threats. Whilst IUCN Categories do not apply, the species is close to a regional designation of Near Threatened.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Euheptaulacus villosus",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Thalassarche melanophris"
+    ],
+    "recommended_authority": [
+        "(Temminck, 1828)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000533971"
+    ],
+    "designations": [
+        {
+            "designated_name": "Diomedea melanophris",
+            "common_name": "Black-Browed Albatross",
+            "source": "Convention on Migratory Species",
+            "source_description": "The Convention on the Conservation of Migratory Species of Wild Animals (Bonn Convention or CMS) was adopted in Bonn, Germany in 1979 and came into force in 1985. Contracting Parties work together to conserve migratory species and their habitats by providing strict protection for endangered migratory species (listed in Appendix 1 of the Convention), concluding multilateral Agreements for the conservation and management of migratory species which require or would benefit from international cooperation (listed in Appendix 2), and by undertaking co-operative research activities",
+            "date_designated": "1997-01-01",
+            "reporting_category": "Convention on Migratory Species",
+            "designation": "Appendix 2",
+            "designation_abbreviation": "CMS_A2",
+            "designation_description": "Migratory species having an unfavourable conservation status for which Range States are encouraged to conclude international agreements for their benefit.",
+            "reporting_category_sort_order": "C1"
+        }
+    ]
+}
+

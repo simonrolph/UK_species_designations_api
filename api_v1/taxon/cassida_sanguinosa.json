@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Cassida sanguinosa"
+    ],
+    "recommended_authority": [
+        "Suffrian, 1844"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011341"
+    ],
+    "designations": [
+        {
+            "designated_name": "Cassida sanguinosa",
+            "source": "A review of the scarce and threatened beetles of Great Britain: The leaf beetles and their allies",
+            "source_description": "The leaf beetles and their allies: Chrysomelidae, Megalopodidae and Orsodacnidae. D S Hubble. October 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6548461654638592",
+            "date_designated": "2014-10-24",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "RedList_GB_post2001-DD",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat or Lower Risk. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that a threatened category is appropriate.",
+            "iucn_version": "2001",
+            "comments": "Most records post-1980 and may be expanding, but still known from only a small number of sites in S England",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Cassida sanguinosa",
+            "source": "A review of the scarce and threatened beetles of Great Britain: The leaf beetles and their allies",
+            "source_description": "The leaf beetles and their allies: Chrysomelidae, Megalopodidae and Orsodacnidae. D S Hubble. October 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6548461654638592",
+            "date_designated": "2014-10-24",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

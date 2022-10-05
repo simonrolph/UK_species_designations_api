@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Oxycera fallenii"
+    ],
+    "recommended_authority": [
+        "Staeger, 1844"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007810"
+    ],
+    "designations": [
+        {
+            "designated_name": "Oxycera fallenii",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "The species was recognised in Britain only in 1997 although it was recorded in Ireland in the early 20th century. The only accepted records indicated a tiny population in the North York Moors, currently at two sites in two adjacent hectads. While the species appears to meet the criteria for Critically Endangered, a lesser status of Endangered has been applied to take account of its recent addition to the fauna, doubt over several records and the low level of recording in upland England.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Oxycera fallenii",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "comments": "The species was recognised in Britain only in 1997 although it was recorded in Ireland in the early 20th century. The only accepted records indicated a tiny population in the North York Moors, currently at two sites in two adjacent hectads. While the species appears to meet the criteria for Critically Endangered, a lesser status of Endangered has been applied to take account of its recent addition to the fauna, doubt over several records and the low level of recording in upland England.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

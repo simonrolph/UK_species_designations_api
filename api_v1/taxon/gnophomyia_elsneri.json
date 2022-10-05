@@ -1,0 +1,62 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Gnophomyia elsneri"
+    ],
+    "recommended_authority": [
+        "Star�, 1983"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000008179"
+    ],
+    "designations": [
+        {
+            "designated_name": "Gnophomyia elsneri",
+            "source": "A review of the scarce and threatened flies of Great Britain - Part 1 (Falk, S.J.)",
+            "source_description": "Falk, S J.  Research & survey in nature conservation, No. 39.  Published by JNCC, 1991.  Updates relevant information in the RDB Insects (1987) using the old IUCN categories and criteria.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Pub92_Review_of_scarce_&_threatened_flies_of_Great_Britain_(Part-1)_PRINT.pdf",
+            "date_designated": "1991-01-01",
+            "reporting_category": "Red Listing based on pre 1994 IUCN guidelines",
+            "designation": "Endangered",
+            "designation_abbreviation": "RedList_GB_Pre94-EN",
+            "designation_description": "Taxa in danger of extinction and whose survival is unlikely if the causal factors continue operating. Superseded by new IUCN categories in 1994, but still applicable to lists that have not been reviewed since 1994.",
+            "iucn_version": "pre 1994",
+            "comments": "pre 1994 IUCN criteria",
+            "reporting_category_sort_order": "Fa"
+        },
+        {
+            "designated_name": "Gnophomyia elsneri",
+            "source": "Natural Environment and Rural Communities Act 2006 - Species of Principal Importance in England (section 41)",
+            "source_description": "Sections 41 (England) of the Natural Environment and Rural Communities Act 2006 require the listing of species of principal importance for the purpose of conserving biodiversity and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "date_designated": "2008-11-01",
+            "reporting_category": "Biodiversity Lists - England",
+            "designation": "England NERC S.41",
+            "designation_abbreviation": "England_NERC_S.41",
+            "designation_description": "Species “of principal importance for the purpose of conserving biodiversity” covered under section 41 (England) of the NERC Act (2006) and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "reporting_category_sort_order": "Hb"
+        },
+        {
+            "designated_name": "Gnophomyia elsneri",
+            "common_name": "royal cranefly",
+            "source": "UK list of Priority Habitats and Species",
+            "source_description": "Starting in 2005, the old UK BAP priorities were reviewed and a new list called the UK List of Priority Species and Habitats was published in 2007 after adoption by the Governments of all four UK administrations. The species and habitats on this list help guide conservation actions being taken by the four countries in the UK as part of the UK contribution to the Convention on Biological Diversity.",
+            "date_designated": "2007-08-28",
+            "reporting_category": "Biodiversity Action Plan UK list of priority species",
+            "designation": "Priority Species",
+            "designation_abbreviation": "BAP-2007",
+            "designation_description": "The UK List of Priority Species and Habitats contains 1150 species and 65 habitats that have been listed as priorities for conservation action under the UK Biodiversity Action Plan (UK BAP).",
+            "criteria_description": "Threat",
+            "comments": "not on former UK BAP list",
+            "reporting_category_sort_order": "Ha"
+        }
+    ]
+}
+

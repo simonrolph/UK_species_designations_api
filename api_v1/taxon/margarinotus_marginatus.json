@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Margarinotus marginatus"
+    ],
+    "recommended_authority": [
+        "(Erichson, 1834)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000151103"
+    ],
+    "designations": [
+        {
+            "designated_name": "Margarinotus marginatus",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "The reduction in hectads in the main and later count periods infers that this species has declined historically and is also undergoing current ongoing decline, but it is important to factor in the habitat of the species in underground mammal nests and runs and the fact that few present-day Coleopterists investigate mole fortresses or deep litter in rabbit burrows. For this reason, the species is undoubtedly under-recorded and is likely to be much more widespread and frequent than the data suggests. Because the ongoing decline appears to be linear (but is probably assuming this pattern completely randomly), IUCN Category A2 criteria were applied. Using a 23% decline measured over the 30-year period 1986-2015, the application gave an adjusted 10-year decline of 8% which is well below the 30+% threshold required for IUCN Vulnerable. 101 records.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Margarinotus marginatus",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

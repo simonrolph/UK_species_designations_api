@@ -1,0 +1,51 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Geotrupes mutator"
+    ],
+    "recommended_authority": [
+        "(Marsham, 1802)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011457"
+    ],
+    "designations": [
+        {
+            "designated_name": "Geotrupes mutator",
+            "common_name": "Violet Dor Beetle",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Geotrupes mutator",
+            "common_name": "Violet Dor Beetle",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "comments": "Only known from 11 modern hectads. Historical decline inferred from 62% reduction in hectads (AoO) between the two main date ranges, though no recent decline proven as there have been no targeted surveys to rediscover the species at former locations. A trend of increase in recorded hectads between the later date periods may be partially due to increased survey effort by one recorder in south-west England, but the hectad count post-1990 is high enough to remove this species from the IUCN Vulnerable category where it was placed in the provisional assessment. Some of its current sites are protected. The species may be particularly sensitive to improvements in pasture and the use of endectocides in addition to the general threat of grazing regime changes resulting in reduced dung availability.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

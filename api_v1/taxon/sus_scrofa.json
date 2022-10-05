@@ -1,0 +1,38 @@
+{
+    "category": [
+        "Mammal"
+    ],
+    "taxon_group": [
+        "terrestrial mammal"
+    ],
+    "recommended_taxon_name": [
+        "Sus scrofa"
+    ],
+    "recommended_authority": [
+        "Linnaeus, 1758"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000005142"
+    ],
+    "designations": [
+        {
+            "designated_name": "Sus scrofa",
+            "common_name": "Wild boar",
+            "source": "A Review of the Population and Conservation Status of British Mammals: Technical Summary (June 2018)",
+            "source_description": "The first comprehensive review of the status of British mammal populations for over 20 years. The population size, range size, temporal trends and future prospects of Britain’s 58 terrestrial mammals are assessed. Island races and feral mammals are excluded from the main review. The objective of the review was to produce the most accurate assessment possible of population size, geographical range, and conservation trends since 1995. Based on IUCN Red List criteria and guidelines.",
+            "url_source": "http://publications.naturalengland.org.uk/ & http:",
+            "date_designated": "2018-06-13",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "RedList_GB_post2001-DD",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat or Lower Risk. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that a threatened category is appropriate.",
+            "iucn_version": "2001",
+            "comments": "England [DD] Scotland [DD] Wales [DD]. A reduction",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

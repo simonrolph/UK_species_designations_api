@@ -1,0 +1,52 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - orthopteran"
+    ],
+    "recommended_taxon_name": [
+        "Chorthippus vagans"
+    ],
+    "recommended_authority": [
+        "(Eversmann, 1848)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001387288"
+    ],
+    "designations": [
+        {
+            "designated_name": "Chorthippus vagans",
+            "common_name": "Heath Grasshopper",
+            "source": "A review of the Orthoptera (grasshoppers and crickets) and allied species of Great Britain",
+            "source_description": "An update the threat status of grasshoppers, crickets and allied species  from work originally undertaken in 1987, 1992 and 1994 using the IUCN methodology for assessing threat. P.G.Sutton. November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5368778738106368",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "comments": "Continued loss of heathland habitat to building projects e.g. housing estates, and associated problems e.g. deliberate arson, have continued to have an effect on this species. However, many colonies are present on protected heathland sites, offering stability to this rare orthopteran. It remains to be seen whether or not this species will respond positively to climatic amelioration and begin to colonise the wider range of habitats that it occupies on the Continent.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Chorthippus vagans",
+            "common_name": "Heath Grasshopper",
+            "source": "A review of the Orthoptera (grasshoppers and crickets) and allied species of Great Britain",
+            "source_description": "An update the threat status of grasshoppers, crickets and allied species  from work originally undertaken in 1987, 1992 and 1994 using the IUCN methodology for assessing threat. P.G.Sutton. November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5368778738106368",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Continued loss of heathland habitat to building projects e.g. housing estates, and associated problems e.g. deliberate arson, have continued to have an effect on this species. However, many colonies are present on protected heathland sites, offering stability to this rare orthopteran. It remains to be seen whether or not this species will respond positively to climatic amelioration and begin to colonise the wider range of habitats that it occupies on the Continent.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

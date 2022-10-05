@@ -1,0 +1,51 @@
+{
+    "category": [
+        "Non-vascular plant"
+    ],
+    "taxon_group": [
+        "moss"
+    ],
+    "recommended_taxon_name": [
+        "Bryum torquescens"
+    ],
+    "recommended_authority": [
+        "Bruch & Schimp."
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000309518"
+    ],
+    "designations": [
+        {
+            "designated_name": "Bryum torquescens",
+            "common_name": "twisting thread-moss",
+            "source": "Northern Ireland Priority Species List, March 2010",
+            "source_description": "Northern Ireland Priority Species List - March 2010. A list of threatened species requiring conservation action in Northern Ireland. Selection criteria- 1. Listed as a UK Priority Species. 2. Rapid decline (2% per year). 3. Decline (1% year) with Northern Ireland being a stronghold (S) consisting of either >50% Irish population or >20% UK population/range or with the Irish or UK population restricted (R) to Northern Ireland or with the Irish or UK population restricted (R) to Northern Ireland i.e. Decline + S or R. 4. Rare (confined to a small population of one or two sites in Northern Ireland) with Northern Ireland being a stronghold (S) consisting of either >50% Irish population or >20% UK population/range or with the Irish or UK population restricted (R) to Northern Ireland i.e. Rare + S or R. 5. At least 20% of international population of species or well-recognised subspecies occurring in Northern Ireland. 6. Irish Red Data Book (RDB) species classed as critically endangered (CR), endangered (EN) or vulnerable (VU). 7. Red-listed species in either Birds of Conservation Concern in Ireland (BOCCI) or the UK Birds of Conservation Concern (UK BOCC) lists.",
+            "date_designated": "2010-03-01",
+            "reporting_category": "Biodiversity Lists - Northern Ireland",
+            "designation": "Priority Species (Northern Ireland)",
+            "designation_abbreviation": "NI_Priority",
+            "designation_description": "The Northern Ireland Priority List of threatened species requiring conservation action in Northern Ireland. Criteria have been developed to ensure that Priority Species have been chosen using a scientific basis (See http-//www.habitas.org.uk/priority/criteria.html). The list is designed to assist those involved in the conservation of biodiversity by guiding decisions on where to target action and invest resources.",
+            "criteria_description": "6",
+            "reporting_category_sort_order": "He"
+        },
+        {
+            "designated_name": "Bryum torquescens",
+            "common_name": "Twisting Thread-moss",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Watching brief only; Criterion: S4 - <6 Scottish 10km sqs",
+            "comments": "Terrestrial/Freshwater Species.",
+            "reporting_category_sort_order": "Hc"
+        }
+    ]
+}
+

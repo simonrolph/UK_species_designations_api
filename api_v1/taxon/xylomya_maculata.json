@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Xylomya maculata"
+    ],
+    "recommended_authority": [
+        "(Meigen, 1804)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0100006018"
+    ],
+    "designations": [
+        {
+            "designated_name": "Xylomya maculata",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Xylomya maculata has been recorded from only three hectads since 1990, each within the three clusters of known sites, but this level of recording represents a decline of 67% since earlier records. The overall distribution has not changed (no extinction in any of the three main clusters) but the area of occupancy is small and is estimated generously from the distribution map to be less than 5000km2 but more realistically less than 2000km2. Even within apparently suitable huge areas such as the New Forest and Epping Forest, it has been recorded from small patches, which suggests that the fly has some particular requirements that are not obvious. The larval habitat of rotholes in old trees is a moderately scarce, and is susceptible to mismanagement in some of the forest and parks with public access where old trees may be seen as a danger. However, the adult is elusive, and a moderately large proportion of records are from reared larvae, so there a strong possibility that the species is underrecorded.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Xylomya maculata",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "comments": "Xylomya maculata has been recorded from only three hectads since 1990, each within the three clusters of known sites, but this level of recording represents a decline of 67% since earlier records. The overall distribution has not changed (no extinction in any of the three main clusters) but the area of occupancy is small and is estimated generously from the distribution map to be less than 5000km2 but more realistically less than 2000km2. Even within apparently suitable huge areas such as the New Forest and Epping Forest, it has been recorded from small patches, which suggests that the fly has some particular requirements that are not obvious. The larval habitat of rotholes in old trees is a moderately scarce, and is susceptible to mismanagement in some of the forest and parks with public access where old trees may be seen as a danger. However, the adult is elusive, and a moderately large proportion of records are from reared larvae, so there a strong possibility that the species is underrecorded.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

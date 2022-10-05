@@ -1,0 +1,62 @@
+{
+    "category": [
+        "Mammal"
+    ],
+    "taxon_group": [
+        "marine mammal"
+    ],
+    "recommended_taxon_name": [
+        "Pagophilus groenlandicus"
+    ],
+    "recommended_authority": [
+        "(Erxleben, 1777)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000005138"
+    ],
+    "designations": [
+        {
+            "designated_name": "Phoca groenlandica",
+            "source": "Bern Convention",
+            "source_description": "The Convention on the Conservation of European Wildlife and Natural Habitats (the Bern Convention) was adopted in Bern, Switzerland in 1979, and came into force in 1982. The principal aims of the Convention are to ensure conservation and protection of wild plant and animal species and their natural habitats (listed in Appendices I and II of the Convention), to increase cooperation between contracting parties, and to ensure the protection of certain fauna species (listed in Appendix 3) imposing regulations on any exploitation. To this end the Convention imposes legal obligations on contracting parties, protecting over 500 wild plant species and more than 1000 wild animal species.",
+            "date_designated": "1982-01-01",
+            "reporting_category": "Bern Convention",
+            "designation": "Appendix 3",
+            "designation_abbreviation": "Bern-A3",
+            "designation_description": "Special protection through 'appropriate and necessary legislative and administrative measures', of the listed wild fauna species.",
+            "comments": "probably vagrant",
+            "reporting_category_sort_order": "A"
+        },
+        {
+            "designated_name": "Phoca groenlandica",
+            "common_name": "Harp seal",
+            "source": "Habitats Directive",
+            "source_description": "In 1992 the European Community adopted Council Directive 92/43/EEC on the Conservation of natural habitats and of wild fauna and flora (EC Habitats Directive). This is the means by which the Community meets its obligations as a signatory of the Convention on the Conservation of European Wildlife and Natural Habitats (Bern Convention). The provisions of the Directive requires Member States to introduce a range of measures including the protection of species listed in the Annexes; to undertake surveillance of habitats and species and produce a report every six years on the implementation of the Directive. The 169 habitats listed in Annex I of the Directive and the 623 species listed in Annex II, are to be protected by means of a network of sites. Each Member State is required to prepare and propose a national list of sites, which will be evaluated in order to form a European network of Sites of Community Importance (SCIs). These will eventually be designated by Member States as Special Areas of Conservation (SACs), and along with Special Protection Areas (SPAs) classified under the EC Birds Directive, form a network of protected areas known as Natura 2000.",
+            "url_source": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:01992L0043-20070101&from=EN",
+            "date_designated": "1992-01-01",
+            "reporting_category": "Habitats Directive",
+            "designation": "Annex 4",
+            "designation_abbreviation": "HabDir-A4",
+            "designation_description": "Animal and plant species of Community interest (i.e. endangered, vulnerable, rare or endemic in the European Community) in need of strict protection. They are protected from killing, disturbance or the destruction of them or their habitat. Note that the contents of this annex have been updated in April 2003 following the Treaty of Accession.",
+            "comments": "It was incorrectly place in Annex V",
+            "reporting_category_sort_order": "D"
+        },
+        {
+            "designated_name": "Phoca groenlandica",
+            "common_name": "Harp seal",
+            "source": "The Conservation of Habitats and Species Regulations 2010",
+            "source_description": "The Conservation of Habitats and Species Regulations 2010 (abbreviated to the Habitats Regulations) consolidate all the various amendments made to the Conservation (Natural Habitats, &c.) Regulations 1994 in respect of England and Wales. The 1994 Regulations transposed the EC Habitats Directive into national law.  In Scotland the Habitats Directive is transposed through a combination of the Habitats Regulations 2010 (in relation to reserved matters) and the 1994 Regulations. Schedule 2- European protected species of animals, Schedule 3- Animals which may not be taken or killed in certain ways, Schedule 4- European protected species of plants.",
+            "url_source": "https://www.legislation.gov.uk/uksi/2010/490/schedule/2/made",
+            "date_designated": "1994-10-30",
+            "reporting_category": "The Conservation of Habitats and Species Regulations 2010",
+            "designation": "Schedule 4",
+            "designation_abbreviation": "HabReg-Sch4",
+            "designation_description": "Schedule 4- Animals which may not be taken or killed in certain ways",
+            "reporting_category_sort_order": "K"
+        }
+    ]
+}
+

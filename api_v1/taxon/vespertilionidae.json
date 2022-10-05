@@ -1,0 +1,101 @@
+{
+    "category": [
+        "Mammal"
+    ],
+    "taxon_group": [
+        "terrestrial mammal"
+    ],
+    "recommended_taxon_name": [
+        "Vespertilionidae"
+    ],
+    "recommended_authority": [
+        "Gray, 1821"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000376162"
+    ],
+    "designations": [
+        {
+            "designated_name": "Vespertilionidae",
+            "common_name": "Bats – all species",
+            "source": "Wildlife and Countryside Act Schedules 1, 5 and 8 (protected birds, animals and plants)",
+            "source_description": "Protected Birds, Animals and Plants are listed in Schedules 1, 5 and 8 respectively of the Wildlife and Countryside Act.Schedule 1. The Act makes it an offence (with exception to species listed in Schedule 2) to intentionally kill, injure or take any wild bird or their eggs or nests. Special penalties are available for offences related to birds listed on Schedule 1, for which there are additional offences of disturbing these birds at their nests, or their dependent young. Schedule 5. The Act makes it an offence (subject to exceptions) to intentionally kill, injure, or take, possess, or trade in any wild animal listed in Schedule 5, and prohibits interference with places used for shelter or protection, or intentionally disturbing animals occupying such places. The Act also prohibits certain methods of killing, injuring, or taking wild animals.Schedule 8. The Act makes it an offence (subject to exceptions) to pick, uproot, trade in, or possess (for the purposes of trade) any wild plant listed in Schedule 8, and prohibits the unauthorised intentional uprooting of such plants.There is a statutory five-yearly review of Schedules 5 and 8 (protected wild animals and plants respectively).",
+            "url_source": "http://www.legislation.gov.uk/all?title=Wildlife%20and%20Countryside%20Act%201981",
+            "date_designated": "1981-01-01",
+            "reporting_category": "Wildlife and Countryside Act 1981",
+            "designation": "Schedule 5 Section 9.4b",
+            "designation_abbreviation": "WACA-Sch5_sect9.4b",
+            "designation_description": "Section 9.4 Animals which are protected from intentional disturbance while occupying a structure or place used for shelter or protection.",
+            "comments": "Conservation of Habitats and Species Regulations 2010 - Sch. 2 (Full protection)",
+            "reporting_category_sort_order": "I"
+        },
+        {
+            "designated_name": "Vespertilionidae",
+            "common_name": "Bats – all species",
+            "source": "Wildlife and Countryside Act Schedules 1, 5 and 8 (protected birds, animals and plants)",
+            "source_description": "Protected Birds, Animals and Plants are listed in Schedules 1, 5 and 8 respectively of the Wildlife and Countryside Act.Schedule 1. The Act makes it an offence (with exception to species listed in Schedule 2) to intentionally kill, injure or take any wild bird or their eggs or nests. Special penalties are available for offences related to birds listed on Schedule 1, for which there are additional offences of disturbing these birds at their nests, or their dependent young. Schedule 5. The Act makes it an offence (subject to exceptions) to intentionally kill, injure, or take, possess, or trade in any wild animal listed in Schedule 5, and prohibits interference with places used for shelter or protection, or intentionally disturbing animals occupying such places. The Act also prohibits certain methods of killing, injuring, or taking wild animals.Schedule 8. The Act makes it an offence (subject to exceptions) to pick, uproot, trade in, or possess (for the purposes of trade) any wild plant listed in Schedule 8, and prohibits the unauthorised intentional uprooting of such plants.There is a statutory five-yearly review of Schedules 5 and 8 (protected wild animals and plants respectively).",
+            "url_source": "http://www.legislation.gov.uk/all?title=Wildlife%20and%20Countryside%20Act%201981",
+            "date_designated": "1981-01-01",
+            "reporting_category": "Wildlife and Countryside Act 1981",
+            "designation": "Schedule 5 Section 9.5a",
+            "designation_abbreviation": "WACA-Sch5_sect9.5a",
+            "designation_description": "Section 9.5 Animals which are protected from being sold, offered for sale or being held or transported for sale either live or dead, whole or part.",
+            "comments": "Conservation of Habitats and Species Regulations 2010 - Sch. 2 (Full protection)",
+            "reporting_category_sort_order": "I"
+        },
+        {
+            "designated_name": "Vespertilionidae",
+            "common_name": "Bats – all species",
+            "source": "Wildlife and Countryside Act Schedules 1, 5 and 8 (protected birds, animals and plants)",
+            "source_description": "Protected Birds, Animals and Plants are listed in Schedules 1, 5 and 8 respectively of the Wildlife and Countryside Act.Schedule 1. The Act makes it an offence (with exception to species listed in Schedule 2) to intentionally kill, injure or take any wild bird or their eggs or nests. Special penalties are available for offences related to birds listed on Schedule 1, for which there are additional offences of disturbing these birds at their nests, or their dependent young. Schedule 5. The Act makes it an offence (subject to exceptions) to intentionally kill, injure, or take, possess, or trade in any wild animal listed in Schedule 5, and prohibits interference with places used for shelter or protection, or intentionally disturbing animals occupying such places. The Act also prohibits certain methods of killing, injuring, or taking wild animals.Schedule 8. The Act makes it an offence (subject to exceptions) to pick, uproot, trade in, or possess (for the purposes of trade) any wild plant listed in Schedule 8, and prohibits the unauthorised intentional uprooting of such plants.There is a statutory five-yearly review of Schedules 5 and 8 (protected wild animals and plants respectively).",
+            "url_source": "http://www.legislation.gov.uk/all?title=Wildlife%20and%20Countryside%20Act%201981",
+            "date_designated": "1981-01-01",
+            "reporting_category": "Wildlife and Countryside Act 1981",
+            "designation": "Schedule 5 Section 9.4c",
+            "designation_abbreviation": "WACA-Sch5Sect9.4c",
+            "designation_description": "Animals which are protected from their access to any structure or place which they use for shelter or protection being obstructed.",
+            "comments": "Conservation of Habitats and Species Regulations 2010 - Sch. 2 (Full protection)",
+            "reporting_category_sort_order": "I"
+        },
+        {
+            "designated_name": "Vespertilionidae",
+            "common_name": "Bats",
+            "source": "Convention on Migratory Species",
+            "source_description": "The Convention on the Conservation of Migratory Species of Wild Animals (Bonn Convention or CMS) was adopted in Bonn, Germany in 1979 and came into force in 1985. Contracting Parties work together to conserve migratory species and their habitats by providing strict protection for endangered migratory species (listed in Appendix 1 of the Convention), concluding multilateral Agreements for the conservation and management of migratory species which require or would benefit from international cooperation (listed in Appendix 2), and by undertaking co-operative research activities",
+            "date_designated": "1985-01-01",
+            "reporting_category": "Convention on Migratory Species",
+            "designation": "Appendix 2",
+            "designation_abbreviation": "CMS_A2",
+            "designation_description": "Migratory species having an unfavourable conservation status for which Range States are encouraged to conclude international agreements for their benefit.",
+            "reporting_category_sort_order": "C1"
+        },
+        {
+            "designated_name": "Vespertilionidae",
+            "source": "The Conservation (Nature Habitats, etc.) Regulations (Northern Ireland) 1995, amended 2004",
+            "source_description": "The Conservation (Nature Habitats, etc.) Regulations (Northern Ireland) 1995. Schedule 2- European Protected Species of Animals (amended 2004), Schedule 3- Animals which may not be taken or killed in certain ways, Schedule 4- European Protected Species of Plants",
+            "date_designated": "1995-01-01",
+            "reporting_category": "The Conservation (Nature Habitats, etc.) Regulations (NI) 1995",
+            "designation": "Schedule 2",
+            "designation_abbreviation": "ConsRegsNI-Sch2",
+            "designation_description": "Schedule 2- European protected species of animals.",
+            "reporting_category_sort_order": "L"
+        },
+        {
+            "designated_name": "Vespertilionidae",
+            "common_name": "Vesper Bats",
+            "source": "The Conservation of Habitats and Species Regulations 2010",
+            "source_description": "The Conservation of Habitats and Species Regulations 2010 (abbreviated to the Habitats Regulations) consolidate all the various amendments made to the Conservation (Natural Habitats, &c.) Regulations 1994 in respect of England and Wales. The 1994 Regulations transposed the EC Habitats Directive into national law.  In Scotland the Habitats Directive is transposed through a combination of the Habitats Regulations 2010 (in relation to reserved matters) and the 1994 Regulations. Schedule 2- European protected species of animals, Schedule 3- Animals which may not be taken or killed in certain ways, Schedule 4- European protected species of plants.",
+            "url_source": "https://www.legislation.gov.uk/uksi/2010/490/schedule/2/made",
+            "date_designated": "1994-10-30",
+            "reporting_category": "The Conservation of Habitats and Species Regulations 2010",
+            "designation": "Schedule 2",
+            "designation_abbreviation": "HabReg-Sch2",
+            "designation_description": "Schedule 2- European protected species of animals.",
+            "reporting_category_sort_order": "K"
+        }
+    ]
+}
+

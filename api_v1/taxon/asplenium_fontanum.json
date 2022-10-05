@@ -1,0 +1,52 @@
+{
+    "category": [
+        "Vascular plant"
+    ],
+    "taxon_group": [
+        "fern"
+    ],
+    "recommended_taxon_name": [
+        "Asplenium fontanum"
+    ],
+    "recommended_authority": [
+        "(L.) Bernh."
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000002044"
+    ],
+    "designations": [
+        {
+            "designated_name": "Asplenium fontanum",
+            "source": "The Vascular Plant Red Data List for Great Britain, revised February 2019",
+            "source_description": "Leach, S.J. 2019 (in prep) The Vascular Plant Red Data List for Great Britain: a summary of amendments in years 12 and 13 (2017-2018) of the annual amendments process. BSBI News 141",
+            "url_source": "https://bsbi.org/taxon-lists",
+            "date_designated": "2010-01-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Regionally Extinct",
+            "designation_abbreviation": "RedList_GB_post2001-RE",
+            "designation_description": "Category for a taxon when there is no reasonable doubt that the last individual potentially capble of reproduction within the region has died or has disappeared from the wild in the region, or when, if it is a former visiting taxon, the last individual has died or disappeared in the wild from the region. The setting of any time limit for listing under RE is left to the discretion of the regional Red List authority, but should not normally pre-date 1500 AD.",
+            "iucn_version": "2001",
+            "comments": "Included in the forthcoming checklist of the British Pteridological Society as 'native', and currently regarded as an extinct 'failed colonist' from S. Europe (though Stace (2010) claims neophyte). Extinct: last record c.1923",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Asplenium fontanum",
+            "common_name": "Smooth Rock-spleenwort",
+            "source": "A Vascular Plant Red List for England",
+            "source_description": "A vascular plant Red List present for the first time the current state of England's flora measuredagainst standardised IUCN criteria. P.A. Stroh et al. 2014.",
+            "url_source": "http://www.bsbi.org.uk/England_Red_List_1.pdf",
+            "date_designated": "2014-11-18",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Extinct",
+            "designation_abbreviation": "RedList_GB_post2001-EX",
+            "designation_description": "A taxon is Extinct in Great Britain when there is no reasonable doubt that the last individual in Great Britain has died. A taxon is presumed extinct when exhaustive surveys in known and/or expected habitat, at appropriate times (diurnal, seasonal, annual), throughout its historical range have failed to record an individual. Surveys should be over a time scale appropriate to the taxon's life cycle and life form.",
+            "iucn_version": "2001",
+            "criteria_description": "Last recorded in North Hampshire in 1869.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

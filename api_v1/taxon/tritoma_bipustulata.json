@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Tritoma bipustulata"
+    ],
+    "recommended_authority": [
+        "Fabricius, 1775"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020153670"
+    ],
+    "designations": [
+        {
+            "designated_name": "Tritoma bipustulata",
+            "source": "A review of the scarce and threatened beetles of Great Britain Part 1 (Hyman, P.S. revised and updated by M.S. Parsons)",
+            "source_description": "Hyman, P S revised and updated by Parsons, M S.  UK nature conservation, No. 3.  Published by JNCC, 1992.  Along with Part 2, updates relevant information in the RDB Insects (1987) using the old IUCN categories and criteria (pre 1994).",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Pub92_Review_of_Scarce_&_Threatened_Coleoptera_of_Great_Britain_Part-1_(1)_PRINT.pdf",
+            "date_designated": "1992-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Notable A",
+            "designation_abbreviation": "Notable-A",
+            "designation_description": "Taxa which do not fall within RDB categories but which are none-the-less uncommon in Great Britain and thought to occur in 30 or fewer 10km squares of the National Grid or, for less well-recorded groups, within seven or fewer vice-counties. Superseded by Nationally Scarce, and therefore no longer in use.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Tritoma bipustulata",
+            "source": "The IUCN Red List of Threatened Species (2010)",
+            "source_description": "The IUCN Red List of Threatened Species provides taxonomic, conservation status and distribution information on taxa that have been globally evaluated using the IUCN Red List Categories and Criteria. This system is designed to determine the relative risk of extinction, and the main purpose of the IUCN Red List is to catalogue and highlight those taxa that are facing a higher risk of global extinction (i.e. those listed as Critically Endangered, Endangered and Vulnerable). The IUCN Red List also includes information on taxa that are categorized as Extinct or Extinct in the Wild; on taxa that cannot be evaluated because of insufficient information (i.e. are Data Deficient); and on taxa that are either close to meeting the threatened thresholds or that would be threatened were it not for an ongoing taxon-specific conservation programme (i.e. are Near Threatened).",
+            "date_designated": "2009-01-01",
+            "reporting_category": "Global Red list status",
+            "designation": "Lower risk - least concern",
+            "designation_abbreviation": "RedList_Global_post2001_LC",
+            "designation_description": "A taxon is Least Concern when it has been evaluated against the criteria and does not qualify for Critically Endangered, Endangered, Vulnerable or Near Threatened. Widespread and abundant taxa are included in this category.",
+            "iucn_version": "2001",
+            "criteria_description": "ver 2001",
+            "comments": "Population trend= 'stable'",
+            "reporting_category_sort_order": "F"
+        }
+    ]
+}
+

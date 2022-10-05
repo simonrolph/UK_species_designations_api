@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Vascular plant"
+    ],
+    "taxon_group": [
+        "flowering plant"
+    ],
+    "recommended_taxon_name": [
+        "Hieracium praethulense"
+    ],
+    "recommended_authority": [
+        "Pugsley"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000840761"
+    ],
+    "designations": [
+        {
+            "designated_name": "Hieracium praethulense",
+            "common_name": "a hawkweed",
+            "source": "The Vascular Plant Red Data List for Great Britain - 2006 Cheffings, C. and Farrell, L. (Editors) and A tool for assessing the current conservation status of vascular plants on SSSIs in England- May 2006, ENRR 690 (Leach & Rusbridge)",
+            "source_description": "Produced as part of the JNCC Species Status Assessment project, to assess the status of vascular plants throughout Great Britain. IMPORTANT- the Vascular Plant Red Data List for Great Britain has recently been revised (2006). For the first time, all native and archaeophyte taxa have been analysed, not just those that had already been identified as rare or scarce. This analysis has been made possible by the publication of the New Atlas of the British and Irish Flora (Preston et al., 2002), which has allowed comparisons to be made with the Atlas of the British Flora (Perring & Walters, 1962) for all taxa. This work satisfies the commitment made in Plant Diversity Challenge- The UK's response to the Global Strategy for Plant Conservation (JNCC, 2004) to assess all vascular plants in the UK using IUCN criteria. It will also be used to inform future priority setting in the Biodiversity Action Plan (BAP) process. The bulk of the report is, of course, the Red List itself, but it contains much more than this. There are sections on data sources, the criteria used, endemics, international responsibility and difficult groups. Throughout the project the Working Group and others have identified individual taxa or groups of species where further distributional data or taxonomic research are required before proper threat assessments can be made. Many such taxa do not appear in the new Red List but, for now, are listed in the so-called 'Waiting List' in section 8. More generally, the Working Group recognised that much more population data are required in order to apply some of the IUCN criteria. Our discussions included wider aspects of Red List interpretation and how the list might be used (for example, when reviewing the list of taxa included in the UK Biodiversity Action Plan). There have been three editions of the Red Data Book for vascular plants in Great Britain (Perring & Farrell, 1977, 1983; Wigginton, 1999). These were all based on the distributional data provided in the first plant atlas, with additional information from targeted surveys looking at rare and scarce taxa. The huge quantity of new distributional information provided by the New Atlas, meant that a thorough revision of the conservation status of all vascular plants was appropriate. The IUCN categories assigned in this report supersede those given in Wigginton (1999) or in Cheffings (2004). In this report, the terms 'Red List' and 'Red Data List' have been used synonymously, to refer to the list of all taxa that have been analysed according to IUCN criteria.  This includes threatened taxa as well as those that are 'Least Concern'.  This is a change in usage compared to the past, when a taxon that was 'on the Red List' was considered to be threatened.  In this report, a taxon that is 'on the Red List' is not necessarily threatened, but has been assigned an IUCN category. This report has been produced by a working group with representation from a range of interested organisations. The organisations represented were- Scottish Natural Heritage, the Joint Nature Conservation Committee, the Biological Records Centre (within the Centre for Ecology and Hydrology), the Botanical Society of the British Isles, the Countryside Council for Wales, English Nature, the Natural History Museum, Plantlife International and the Royal Botanic Garden Edinburgh.",
+            "url_source": "https://hub.jncc.gov.uk/assets/cc1e96f8-b105-4dd0-bd87-4a4f60449907",
+            "date_designated": "2007-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Rare. Excludes Red Listed taxa",
+            "designation_abbreviation": "NR-excludes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Excludes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

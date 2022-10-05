@@ -1,0 +1,38 @@
+{
+    "category": [
+        "Non-vascular plant"
+    ],
+    "taxon_group": [
+        "alga"
+    ],
+    "recommended_taxon_name": [
+        "Staurastrum elongatum"
+    ],
+    "recommended_authority": [
+        "J.Bark."
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000606478"
+    ],
+    "designations": [
+        {
+            "designated_name": "Staurastrum elongatum",
+            "common_name": "a Desmid alga",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Watching brief only; Criterion: S3 - Rare in the UK (<16 10km sqs); S4 - <6 Scottish 10km sqs",
+            "comments": "Terrestrial/Freshwater Species.",
+            "reporting_category_sort_order": "Hc"
+        }
+    ]
+}
+

@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "spider (Araneae)"
+    ],
+    "recommended_taxon_name": [
+        "Phlegra fasciata"
+    ],
+    "recommended_authority": [
+        "(Hahn, 1826)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000008786"
+    ],
+    "designations": [
+        {
+            "designated_name": "Phlegra fasciata",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Phlegra fasciata",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "criteria_description": "B2ab(ii,iv)",
+            "comments": "The apparent decline on its dry, southern coastal sites islikely to be real, but specimens found at two locations on the Gower peninsula in 1994 may indicate a more widespread occurrence on limestone cliffs in that area. Threats: Erosion caused by high public use, particularly the use of motor vehicles on shingle, and possibly holiday development threaten the rather fragile habitats of this species. Dungeness has been extensively damaged by gravel extraction, which has causing significant alteration of the hydrology, and thereby ecology, in addition to the obvious loss of shingle area to gravel-pits. There are plans for a new power station at Dungeness.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

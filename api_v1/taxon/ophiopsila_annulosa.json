@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "echinoderm"
+    ],
+    "recommended_taxon_name": [
+        "Ophiopsila annulosa"
+    ],
+    "recommended_authority": [
+        "(M. Sars, 1859)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000176869"
+    ],
+    "designations": [
+        {
+            "designated_name": "Ophiopsila annulosa",
+            "common_name": "Brittlestar",
+            "source": "Rare marine benthic flora and fauna in Great Britain- the development of criteria for assessment",
+            "source_description": "Sanderson, W G.  JNCC Report, No. 240.  Published by JNCC, 1996.  Provisional list of rare and scarce marine species.  [not red list]",
+            "date_designated": "1996-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally scarce marine species",
+            "designation_abbreviation": "Marine-NS",
+            "designation_description": "Species which occur in nine to 55 10km X 10km grid squares containing sea (or water of marine saline influence) within the three mile territorial limit.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Ophiopsila annulosa",
+            "common_name": "Brittlestar",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Watching brief only; Criterion: M2a - Rare mobile species in Scottish Waters",
+            "comments": "Marine Species.",
+            "reporting_category_sort_order": "Hc"
+        }
+    ]
+}
+

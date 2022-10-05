@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Rhagio strigosus"
+    ],
+    "recommended_authority": [
+        "(Meigen, 1804)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007865"
+    ],
+    "designations": [
+        {
+            "designated_name": "Rhagio strigosus",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Rhagio strigosus has been recorded from seven hectads since 1990. Over half of these have pre-1990 records, indicating that the species has a stable but tiny population in these squares. There has been no obvious decline and, when the possibly incorrect outlying records are excluded, the population appears to have maintained itself far better than many other rare species.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Rhagio strigosus",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "comments": "Rhagio strigosus has been recorded from seven hectads since 1990. Over half of these have pre-1990 records, indicating that the species has a stable but tiny population in these squares. There has been no obvious decline and, when the possibly incorrect outlying records are excluded, the population appears to have maintained itself far better than many other rare species.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

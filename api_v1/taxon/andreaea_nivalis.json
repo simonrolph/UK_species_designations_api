@@ -1,0 +1,52 @@
+{
+    "category": [
+        "Non-vascular plant"
+    ],
+    "taxon_group": [
+        "moss"
+    ],
+    "recommended_taxon_name": [
+        "Andreaea nivalis"
+    ],
+    "recommended_authority": [
+        "Hook."
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000036122"
+    ],
+    "designations": [
+        {
+            "designated_name": "Andreaea nivalis",
+            "common_name": "Snow Rock-moss",
+            "source": "UK list of Priority Habitats and Species",
+            "source_description": "Starting in 2005, the old UK BAP priorities were reviewed and a new list called the UK List of Priority Species and Habitats was published in 2007 after adoption by the Governments of all four UK administrations. The species and habitats on this list help guide conservation actions being taken by the four countries in the UK as part of the UK contribution to the Convention on Biological Diversity.",
+            "date_designated": "2007-08-28",
+            "reporting_category": "Biodiversity Action Plan UK list of priority species",
+            "designation": "Priority Species",
+            "designation_abbreviation": "BAP-2007",
+            "designation_description": "The UK List of Priority Species and Habitats contains 1150 species and 65 habitats that have been listed as priorities for conservation action under the UK Biodiversity Action Plan (UK BAP).",
+            "criteria_description": "Other",
+            "comments": "not on former UK BAP list",
+            "reporting_category_sort_order": "Ha"
+        },
+        {
+            "designated_name": "Andreaea nivalis",
+            "common_name": "Snow Rock-moss",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Conservation action needed; Avoid negative impacts; Criterion: S3 - Rare in the UK (<16 10km sqs)",
+            "comments": "Terrestrial/Freshwater Species.",
+            "reporting_category_sort_order": "Hc"
+        }
+    ]
+}
+

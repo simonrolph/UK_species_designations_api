@@ -1,0 +1,48 @@
+{
+    "category": [
+        "Non-vascular plant"
+    ],
+    "taxon_group": [
+        "lichen"
+    ],
+    "recommended_taxon_name": [
+        "Vezdaea retigera"
+    ],
+    "recommended_authority": [
+        "Poelt & Döbbeler"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001501749"
+    ],
+    "designations": [
+        {
+            "designated_name": "Vezdaea retigera",
+            "source": "A Conservation Evaluation of British Lichens and Lichenicolous Fungi (2012)",
+            "source_description": "Woods, R.G. & Coppins, B. J. 2012. A Conservation Evaluation of British Lichens and Lichenicolous Fungi. Species Status 13. Joint Nature Conservation Committee, Peterborough.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Lichens_web_Edits%2020%20Aug.pdf",
+            "date_designated": "2012-01-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Vezdaea retigera",
+            "source": "A Conservation Evaluation of British Lichens and Lichenicolous Fungi (2012)",
+            "source_description": "Woods, R.G. & Coppins, B. J. 2012. A Conservation Evaluation of British Lichens and Lichenicolous Fungi. Species Status 13. Joint Nature Conservation Committee, Peterborough.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Lichens_web_Edits%2020%20Aug.pdf",
+            "date_designated": "2012-01-01",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

@@ -1,0 +1,38 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Falco columbarius subaesalon"
+    ],
+    "recommended_authority": [
+        "Brehm, CL, 1827"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021003443"
+    ],
+    "designations": [
+        {
+            "designated_name": "Falco columbarius subaesalon",
+            "common_name": "Merlin",
+            "source": "The risk of extinction for birds in Great Britain Sep 2017 British Birds 110: 502-517.",
+            "source_description": "The first formal Red List Category for birds based on IUCN criteria and guidelines. This assessment (No 34 in the Species Status series) is not an alternative to BoCC and does not replace or supersede it. It is recommended to use the BoCC status as the starting point for identifying which birds are most deserving of conservation action.  This assessment focusses on regular breeding and over-wintering birds of Great Britain, thus excluding birds in the Isle of Man, Channel Islands and northern Ireland. It includes 289 species and 68 subspecies on the British list and excludes non-natives, vagrants and scarce migrants. For species that have substantial and at least partially distinct breeding and non-breeding populations in GB (defined as having a population in the non-breeding season that is more than twice the size of the breeding population), notably waterbirds, the breeding and wintering populations are assessed separately. Therefore a species is assigned an IUCN Red List category for its breeding and wintering populations. Some notable bird subspecies, all of those for which Britain is of international importance, i.e. more than 20% of the northwest European flyway (wildfowl), East Atlantic flyway (waders) or European (all others) population were also assessed. These are national assessments determining the status of birds in Great Britain, however influences at regional level have also been considered if there is significant immigration of individuals from outside GB likely to breed which could rescue populations from extinction. For non-breeding taxa the assessment considers if conditions both inside and outside the region are deteriorating. Subsequently 22 species have been downgraded to consider this contribution.",
+            "url_source": "https://britishbirds.co.uk/article/risk-extinction-birds-great-britain/",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "Bird_RedList_GB_post2001-DD_NonBreeding",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat or Lower Risk. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that a threatened category is appropriate.",
+            "iucn_version": "2001",
+            "comments": "The status of non-breeding Merlin (ssp. subaesalon) was assessed as being Data Deficient in Great Britain. A proportion of the GB wintering population are thought to be this subspecies; however, there is no data on the population size or trend. The ssp breeds in Iceland, where it numbers between 1000 and 1200 pairs. The Iceland trend is currently unknown.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

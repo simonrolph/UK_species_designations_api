@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Diastictus vulneratus"
+    ],
+    "recommended_authority": [
+        "(Sturm, 1805)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011520"
+    ],
+    "designations": [
+        {
+            "designated_name": "Diastictus vulneratus",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Diastictus vulneratus",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "D2",
+            "comments": "Despite recent pitfall trapping programmes at both Weeting Heath and Stanford, the species has not been rediscovered at these sites. At Cranwich, the site where it has most recently been found and where it has been found most frequently, it is actually very difficult to find (pers obs.) and is evidently at low population levels and vulnerable to changes in the nature of the grassland. Grazing or mechanical scarification is required at Breckland sites to create a sand and short turf mosaic rather than allowing site deterioration to succession to rank grassland. Succession and a change in sward height from short to tall would effect an increase in soil RH and a temperature drop, neither of which suit this thermophilic beetle. Recent decline is suspected but not proven. On the basis of there being fewer than 5 modern locations and plausible threats in the form of habitat deterioration at at least two of its current sites, a designation of VU D2 is advised.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - mayfly (Ephemeroptera)"
+    ],
+    "recommended_taxon_name": [
+        "Ephemera lineata"
+    ],
+    "recommended_authority": [
+        "Eaton, 1870"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000010898"
+    ],
+    "designations": [
+        {
+            "designated_name": "Ephemera lineata",
+            "source": "A review of the status of the mayflies (Ephemeroptera) of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of mayflies from work originally undertaken in date 1990, using the IUCN methodology for assessing threat.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/4635857668538368?category=4707656804597760",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "D2",
+            "comments": "Despite a recent increase in Area of Occupancy this species is still restricted to only two river catchments.  In the River Wye it remains restricted to 1 hectad however in the River Thames there has been a recent increase in the number of hectads recorded",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Ephemera lineata",
+            "source": "A review of the status of the mayflies (Ephemeroptera) of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of mayflies from work originally undertaken in date 1990, using the IUCN methodology for assessing threat.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/4635857668538368?category=4707656804597760",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

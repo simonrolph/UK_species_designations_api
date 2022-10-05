@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Aphodius consputus"
+    ],
+    "recommended_authority": [
+        "Creutzer, 1799"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011471"
+    ],
+    "designations": [
+        {
+            "designated_name": "Aphodius consputus",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Since 1990, almost entirely restricted to the south-eastern tip of England. The species is however likely to be under recorded, partly because it is winter-active, when less fieldwork is undertaken and partly because Coleopterists have returned to 'known localities' in search of specimens rather than surveying for the species at new sites. It is difficult to prove continuing decline under such circumstances, although this is suspected, at least in certain parts of its range. This species is particularly susceptible to reduction of dung availability as a result of winter shedding of livestock. An additional threat is the widespread application of endectocides.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Aphodius consputus",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

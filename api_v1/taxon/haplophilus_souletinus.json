@@ -1,0 +1,52 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "centipede"
+    ],
+    "recommended_taxon_name": [
+        "Haplophilus souletinus"
+    ],
+    "recommended_authority": [
+        "(Brölemann, 1907)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021131341"
+    ],
+    "designations": [
+        {
+            "designated_name": "Haplophilus souletinus",
+            "source": "A review of the millipedes (Diplopoda), centipedes (Chilopoda) and woodlice (Isopoda) of Great Britain",
+            "source_description": "This report was commissioned to update the national threat status of millipedes, centipedes and woodlice. It covers all millipedes, centipedes and woodlice, identifying those that are rare and/or under threat as well as non threatened and non-native species. Paul Lee. November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/4924476719366144",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "criteria_description": "D2",
+            "comments": "Eason (1964) considered this species may have been introduced but in recent surveys (Barber, 2013) found the species to be well established in 6  semi-natural sites around Falmouth but absent from synanthropic sites. It may have been confused with the much commer and very similar Haplophilus subterraneus in the past.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Haplophilus souletinus",
+            "source": "A review of the millipedes (Diplopoda), centipedes (Chilopoda) and woodlice (Isopoda) of Great Britain",
+            "source_description": "This report was commissioned to update the national threat status of millipedes, centipedes and woodlice. It covers all millipedes, centipedes and woodlice, identifying those that are rare and/or under threat as well as non threatened and non-native species. Paul Lee. November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/4924476719366144",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "criteria_description": "D2",
+            "comments": "Eason (1964) considered this species may have been introduced but in recent surveys (Barber, 2013) found the species to be well established in 6  semi-natural sites around Falmouth but absent from synanthropic sites. It may have been confused with the much commer and very similar Haplophilus subterraneus in the past.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

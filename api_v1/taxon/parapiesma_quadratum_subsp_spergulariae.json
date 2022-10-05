@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Parapiesma quadratum subsp. spergulariae"
+    ],
+    "recommended_authority": [
+        "Woodroffe, 1966"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020977075"
+    ],
+    "designations": [
+        {
+            "designated_name": "Piesma quadratum spergulariae",
+            "source": "A review of the scarce and threatened Hemiptera of Great Britain (Kirby, P.)",
+            "source_description": "Kirby, P.  UK nature conservation, No. 2.  Published by JNCC, 1992.  Updates relevant information in the RDB Insects (1987) using the old IUCN categories and criteria (pre 1994).",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Pub92_Review_of_scarce_and_threatened_hemiptera_of_Great_Britain_PRINT.pdf",
+            "date_designated": "1992-01-01",
+            "reporting_category": "Red Listing based on pre 1994 IUCN guidelines",
+            "designation": "Rare",
+            "designation_abbreviation": "RedList_GB_Pre94-R",
+            "designation_description": "Taxa with small populations that are not at present Endangered or Vulnerable, but are at risk. (In GB, this was interpreted as species which exist in fifteen or fewer 10km squares). Superseded by new IUCN categories in 1994, but still applicable to lists that have not been reviewed since 1994.",
+            "iucn_version": "pre 1994",
+            "comments": "pre 1994 IUCN criteria",
+            "reporting_category_sort_order": "Fa"
+        }
+    ]
+}
+

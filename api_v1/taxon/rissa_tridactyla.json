@@ -1,0 +1,79 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Rissa tridactyla"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1758)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000000039"
+    ],
+    "designations": [
+        {
+            "designated_name": "Rissa tridactyla",
+            "common_name": "Black-legged kittiwake",
+            "source": "OSPAR List of Threatened and/or Declining Species and Habitats, 2008",
+            "source_description": "OSPAR List of Threatened and/or Declining Species and Habitats as agreed at the OSPAR Convention for the Protection of the Marine Environment of the North-East Atlantic, 2008. The agreement replaces that of 2004-6. (Reference Number- 2008-6). OSPAR Area Key- I - the Arctic- the OSPAR maritime area north of latitude 62 Degrees N, but also including Iceland and the Faeroes; II - the Greater North Sea- the North Sea, the English Channel, the Skagerrak and the Kattegat to the limits of the OSPAR maritime area, bounded on the north by latitude 62 Degrees N, on the west by longitude 5 Degrees W and the east coast of Great Britain, and on the south by latitude 48 Degrees N; III - the Celtic Seas- the area bounded by, on the east, longitude 5 Degrees W and the west coast of Great Britain and on the west by the 200 metre isobath (depth contour) to the west of 6W along the west coasts of Scotland and Ireland; IV - the Bay of Biscay/Golfe de Gascogne and Iberian coasts- the area south of latitude 48N, east of 11 Degrees W and north of latitude 36 Degrees N (the southern boundary of the OSPAR maritime area); V - the Wider Atlantic- the remainder of the OSPAR maritime area.",
+            "date_designated": "2008-01-01",
+            "reporting_category": "OSPAR",
+            "designation": "OSPAR",
+            "designation_abbreviation": "OSPAR",
+            "designation_description": "OSPAR Convention for the Protection of the Marine Environment of the North-East Atlantic. OSPAR List of Threatened and/or Declining Species and Habitats.",
+            "criteria_description": "Threatened and/or declining species within the OSPAR Region",
+            "comments": "OSPAR Regions where the species occurs= I, II, III, IV, V.  OSPAR Regions where the species is under threat and/or in decline= I, II",
+            "reporting_category_sort_order": "C2"
+        },
+        {
+            "designated_name": "Rissa tridactyla",
+            "common_name": "Kittiwake",
+            "source": "Birds of Conservation Concern 5: the red list for birds (Red/Amber list and not based on IUCN criteria)",
+            "source_description": "Commonly referred to as the UK Red List for birds, this is the fifth review of the status of birds in the UK, Channel Islands and Isle of Man, and updates the last assessment in 2015. Using standardised criteria, 245 species with breeding, passage or wintering populations in the UK were assessed by experts from a range of bird NGOs and assigned to the Red, Amber or Green lists of conservation concern. December 2021.",
+            "url_source": "https://www.bto.org/our-science/publications/birds-conservation-concern",
+            "date_designated": "2021-01-01",
+            "reporting_category": "Red data categories  - birds (not based on IUCN criteria)",
+            "designation": "Bird Population Status - red",
+            "designation_abbreviation": "Bird-Red",
+            "designation_description": "Red list species are those that are Globally Threatened according to IUCN criteria; those whose population or range has declined rapidly in recent years; and those that have declined historically and not shown a substantial recent recovery.",
+            "reporting_category_sort_order": "Ga"
+        },
+        {
+            "designated_name": "Rissa tridactyla",
+            "common_name": "Black-legged Kittiwake",
+            "source": "Agreement on the Conservation of African-Eurasian Migratory Waterbirds (AEWA)",
+            "source_description": "Agreement on the Conservation of African-Eurasian Migratory Waterbirds (AEWA) as adopted by the 4th Session of the Meeting of the Parties to AEWA, September 2008. Published by the UNEP/AEWA Secretariat, UN-Premises, Hermann-Ehlers-Str. 10, D-53113 Bonn, Germany",
+            "date_designated": "2008-09-01",
+            "reporting_category": "Convention on Migratory Species",
+            "designation": "AEWA Annex II",
+            "designation_abbreviation": "CMS_AEWA-A2",
+            "designation_description": "Conservation of migratory waterbirds, giving special attention to endangered species as well as to those with an unfavourable conservation status.",
+            "criteria_description": "Species of birds that are ecologically dependent on wetlands for at least part of their annual cycle, have a range which lies entirely or partly within the Agreement Area",
+            "reporting_category_sort_order": "C1"
+        },
+        {
+            "designated_name": "Rissa tridactyla",
+            "common_name": "Kittiwake",
+            "source": "The risk of extinction for birds in Great Britain Sep 2017 British Birds 110: 502-517.",
+            "source_description": "The first formal Red List Category for birds based on IUCN criteria and guidelines. This assessment (No 34 in the Species Status series) is not an alternative to BoCC and does not replace or supersede it. It is recommended to use the BoCC status as the starting point for identifying which birds are most deserving of conservation action.  This assessment focusses on regular breeding and over-wintering birds of Great Britain, thus excluding birds in the Isle of Man, Channel Islands and northern Ireland. It includes 289 species and 68 subspecies on the British list and excludes non-natives, vagrants and scarce migrants. For species that have substantial and at least partially distinct breeding and non-breeding populations in GB (defined as having a population in the non-breeding season that is more than twice the size of the breeding population), notably waterbirds, the breeding and wintering populations are assessed separately. Therefore a species is assigned an IUCN Red List category for its breeding and wintering populations. Some notable bird subspecies, all of those for which Britain is of international importance, i.e. more than 20% of the northwest European flyway (wildfowl), East Atlantic flyway (waders) or European (all others) population were also assessed. These are national assessments determining the status of birds in Great Britain, however influences at regional level have also been considered if there is significant immigration of individuals from outside GB likely to breed which could rescue populations from extinction. For non-breeding taxa the assessment considers if conditions both inside and outside the region are deteriorating. Subsequently 22 species have been downgraded to consider this contribution.",
+            "url_source": "https://britishbirds.co.uk/article/risk-extinction-birds-great-britain/",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Critically Endangered",
+            "designation_abbreviation": "Bird_RedList_GB_post2001-CR_Breeding",
+            "designation_description": "A taxon is Critically Endangered when it is facing an extremely high risk of extinction in the wild in the immediate future, as defined by any of the criteria A to E.",
+            "iucn_version": "2001",
+            "criteria_description": "A4a",
+            "comments": "The status of breeding Kittiwake was assessed as being Critically Endangered in Great Britain under criterion A4a, due to an observed, estimated, inferred, projected or suspected population decline, where the time period includes both the past and future (1985 to 2024), of at least 80% (81%) over 3 generations (39 years) using a Lowess log smoothing.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

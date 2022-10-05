@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Limnoxenus niger"
+    ],
+    "recommended_authority": [
+        "(Zschach, 1788)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007706"
+    ],
+    "designations": [
+        {
+            "designated_name": "Limnoxenus niger",
+            "source": "A review of the scarce and threatened Coleoptera of Great Britain Part (3)- Water beetles of Great Britain",
+            "source_description": "Foster, G.N. 2010. A review of the scarce and threatened Coleoptera of Great Britain Part (3)- Water beetles of Great Britain. Species Status 1. Joint Nature Conservation Committee, Peterborough.",
+            "url_source": "https://hub.jncc.gov.uk/assets/e80beaf2-456c-4178-8f91-16c2ef01368d",
+            "date_designated": "2010-01-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

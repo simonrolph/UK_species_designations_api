@@ -1,0 +1,51 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Medetera excellens"
+    ],
+    "recommended_authority": [
+        "Frey, 1909"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000012671"
+    ],
+    "designations": [
+        {
+            "designated_name": "Medetera excellens Frey",
+            "source": "Falk, S.J. & Crossley, R. 2005.  A review of the scarce and threatened flies of Great Britain. Part 3- Empidoidea.  Species Status 3- 1-136.  Joint Nature Conservation Committee, Peterborough.",
+            "source_description": "The first account of threatened British Diptera was included in Shirt (1987). This listed 827 Diptera, 270 as Endangered, 226 as Vulnerable, 328 as Rare and 3 as Appendix (extinct). Data sheets were included for 82 species (35 Endangered, and 47 Vulnerable), of which two were Empidoidea (Syneches muscarius (F.) and Poecilobothrus ducalis (Loew)). This was followed by the publication of A review of the scarce and threatened flies of Great Britain (Part 1) (Falk 1991). This presented species accounts of threatened species from the better-known families of British Diptera, together with a list of all British flies provisionally assigned to Red Data Book and Nationally Notable (now termed Nationally Scarce) categories.This present volume deals with the Superfamily Empidoidea as defined by Chvála (1983), which total 673 British species in the latest Diptera check list (Chandler 1998a), now increased to 677 species (as of March 2003; Stubbs (2003)). The Empidoidea comprise five families (Atelestidae, Dolichopodidae, Empididae, Hybotidae, and Microphoridae), the species included representing approximately 10% of our Diptera fauna. The remaining families of Diptera outside of the Empidoidea that were not dealt with by Falk (1991) are reviewed in three further parts within the JNCC Species Status Review series.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/pub05_speciesstatus_empidoideav3_v44web.pdf",
+            "date_designated": "2005-05-01",
+            "reporting_category": "Red Listing based on 1994 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post94-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "1994",
+            "reporting_category_sort_order": "Fb"
+        },
+        {
+            "designated_name": "Medetera excellens",
+            "common_name": "a dolichopodid fly",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Watching brief only; Criterion: S3 - Rare in the UK (<16 10km sqs); S4 - <6 Scottish 10km sqs",
+            "comments": "Terrestrial/Freshwater Species.",
+            "reporting_category_sort_order": "Hc"
+        }
+    ]
+}
+

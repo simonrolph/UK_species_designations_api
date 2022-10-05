@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Aphodius arenarius"
+    ],
+    "recommended_authority": [
+        "(Olivier, 1789)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021232891"
+    ],
+    "designations": [
+        {
+            "designated_name": "Aphodius arenarius",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Aphodius arenarius",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "comments": "Since 1990, only known with certainty from the Carmarthenshire coast, Wales, from The Brecks in Norfolk and from  East Kent (including the Kent Downs) – seven sites in total and five hectads. Possibly under recorded. There are plausible threats but little if any indication of continuing decline. Between the two main recording periods, there has been a reduction of some 77% AoO in terms of hectads occupied. However, the more recent recording period has seen no change in the hectad count (unless potentially unreliable records are considered which would again suggest a decline from 7 to 3 hectads). One of the five post-2000 sites at Brandon may face future development and has possibly been altered recently, representing a potential 20% loss of the currently extant regional population. Conversely, the species is not under threat at Weeting Heath NR, Norfolk, where sympathetic management is in place, nor at Cranwich Camp, Norfolk where grazing and topsoil scraping have recently been established. The dune system population in Carmarthenshire may be threatened by coastal erosion or vegetative succession. Due to the possibility of under recording, an AoO which currently encompasses 6 or more modern locations and no definite proof of continuing decline, despite the presence of plausible threat, a non-IUCN designation of near-Threatened is advised. Hectad counts in parenthesis in this spreadsheet indicate maxima if uncertain dates and potentially unreliable records are included. The final analysis has used only non-parenthesis counts.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

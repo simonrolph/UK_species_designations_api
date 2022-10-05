@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Thereva cinifera"
+    ],
+    "recommended_authority": [
+        "Meigen, 1830"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0100005797"
+    ],
+    "designations": [
+        {
+            "designated_name": "Thereva cinifera",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "The recent recognition of this species in Britain (1992), the widely spaced localities and the two types of habitat suggest that Thereva cinifera may be more widespread.  It has been confused with similar species of both these habitats so, although it is undoubtedly rare, it may not be threatened. It has been recorded from only five hectads since 1990 but the few records may reflect its recent addition to the British list. A status of Near Threatened seems appropriate, although this may be too conservative and a higher threat category may be considered in future.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Thereva cinifera",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "comments": "The recent recognition of this species in Britain (1992), the widely spaced localities and the two types of habitat suggest that Thereva cinifera may be more widespread.  It has been confused with similar species of both these habitats so, although it is undoubtedly rare, it may not be threatened. It has been recorded from only five hectads since 1990 but the few records may reflect its recent addition to the British list. A status of Near Threatened seems appropriate, although this may be too conservative and a higher threat category may be considered in future.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

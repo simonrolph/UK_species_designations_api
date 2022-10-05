@@ -1,0 +1,47 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Haliaeetus leucocephalus"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1766)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000532899"
+    ],
+    "designations": [
+        {
+            "designated_name": "Accipitridae",
+            "common_name": "Bald Eagle",
+            "source": "Convention on Migratory Species",
+            "source_description": "The Convention on the Conservation of Migratory Species of Wild Animals (Bonn Convention or CMS) was adopted in Bonn, Germany in 1979 and came into force in 1985. Contracting Parties work together to conserve migratory species and their habitats by providing strict protection for endangered migratory species (listed in Appendix 1 of the Convention), concluding multilateral Agreements for the conservation and management of migratory species which require or would benefit from international cooperation (listed in Appendix 2), and by undertaking co-operative research activities",
+            "date_designated": "1979-01-01",
+            "reporting_category": "Convention on Migratory Species",
+            "designation": "Appendix 2",
+            "designation_abbreviation": "CMS_A2",
+            "designation_description": "Migratory species having an unfavourable conservation status for which Range States are encouraged to conclude international agreements for their benefit.",
+            "reporting_category_sort_order": "C1"
+        },
+        {
+            "designated_name": "Haliaeetus",
+            "common_name": "Bald Eagle",
+            "source": "CITES UK Species only",
+            "source_description": "The Washington Convention on International Trade in Endangered Species of Wild Fauna and Flora, more commonly known as CITES, aims to protect certain plants and animals by regulating and monitoring their international trade to prevent it reaching unsustainable levels. The Convention entered into force in 1975, and the UK became a Party in 1976.",
+            "date_designated": "1997-01-01",
+            "reporting_category": "EC Cites",
+            "designation": "Annex A",
+            "designation_abbreviation": "ECCITES-A",
+            "designation_description": "All CITES Appendix I species. Some CITES Appendix II and III species, for which the EU has adopted stricter domestic measures. Some non-CITES species.",
+            "reporting_category_sort_order": "E"
+        }
+    ]
+}
+

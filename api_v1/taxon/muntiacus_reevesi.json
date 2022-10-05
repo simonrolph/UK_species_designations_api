@@ -1,0 +1,64 @@
+{
+    "category": [
+        "Mammal"
+    ],
+    "taxon_group": [
+        "terrestrial mammal"
+    ],
+    "recommended_taxon_name": [
+        "Muntiacus reevesi"
+    ],
+    "recommended_authority": [
+        "(Ogilby, 1839)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000080204"
+    ],
+    "designations": [
+        {
+            "designated_name": "Muntiacus reevesi",
+            "source": "Bern Convention",
+            "source_description": "The Convention on the Conservation of European Wildlife and Natural Habitats (the Bern Convention) was adopted in Bern, Switzerland in 1979, and came into force in 1982. The principal aims of the Convention are to ensure conservation and protection of wild plant and animal species and their natural habitats (listed in Appendices I and II of the Convention), to increase cooperation between contracting parties, and to ensure the protection of certain fauna species (listed in Appendix 3) imposing regulations on any exploitation. To this end the Convention imposes legal obligations on contracting parties, protecting over 500 wild plant species and more than 1000 wild animal species.",
+            "date_designated": "1982-01-01",
+            "reporting_category": "Bern Convention",
+            "designation": "Appendix 3",
+            "designation_abbreviation": "Bern-A3",
+            "designation_description": "Special protection through 'appropriate and necessary legislative and administrative measures', of the listed wild fauna species.",
+            "comments": "established non-natural range includes GB species (not requiring protection in Britain)",
+            "reporting_category_sort_order": "A"
+        },
+        {
+            "designated_name": "Muntiacus reevesi",
+            "common_name": "Reeves' Muntjac deer",
+            "source": "A Review of the Population and Conservation Status of British Mammals: Technical Summary (June 2018)",
+            "source_description": "The first comprehensive review of the status of British mammal populations for over 20 years. The population size, range size, temporal trends and future prospects of Britain’s 58 terrestrial mammals are assessed. Island races and feral mammals are excluded from the main review. The objective of the review was to produce the most accurate assessment possible of population size, geographical range, and conservation trends since 1995. Based on IUCN Red List criteria and guidelines.",
+            "url_source": "http://publications.naturalengland.org.uk/ & http:",
+            "date_designated": "2018-06-13",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Not Evaluated",
+            "designation_abbreviation": "RedList_GB_post2001-NE",
+            "designation_description": "A taxon is Not Evaluated when it is has not yet been evaluated against the criteria",
+            "iucn_version": "2001",
+            "comments": "Species is non-native.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Muntiacus reevesi",
+            "common_name": "Reeves' Muntjac deer",
+            "source": "The IUCN Red List of Threatened Species (2018)",
+            "source_description": "The IUCN Red List of Threatened Species provides taxonomic, conservation status and distribution information on taxa that have been globally evaluated using the IUCN Red List Categories and Criteria. This system is designed to determine the relative risk of extinction, and the main purpose of the IUCN Red List is to catalogue and highlight those taxa that are facing a higher risk of global extinction (i.e. those listed as Critically Endangered, Endangered and Vulnerable). The IUCN Red List also includes information on taxa that are categorized as Extinct or Extinct in the Wild; on taxa that cannot be evaluated because of insufficient information (i.e. are Data Deficient); and on taxa that are either close to meeting the threatened thresholds or that would be threatened were it not for an ongoing taxon-specific conservation programme (i.e. are Near Threatened).",
+            "date_designated": "2016-03-31",
+            "reporting_category": "Global Red list status",
+            "designation": "Lower risk - least concern",
+            "designation_abbreviation": "RedList_Global_post2001_LC",
+            "designation_description": "A taxon is Least Concern when it has been evaluated against the criteria and does not qualify for Critically Endangered, Endangered, Vulnerable or Near Threatened. Widespread and abundant taxa are included in this category.",
+            "iucn_version": "2001",
+            "comments": "Population trend: Decreasing. The species has been considered Least Concern by previous assessments however the supporting justification for this is rather weak. For the 2016 reassessment Least Concern is again used, however with reservations; the species might well be better considered either Near Threatened or less likely Vulnerable on the basis of presumed declines that are likely to have taken place. Status assessment is complicated, the species has a relatively wide range in China, and threats faced by the species there vary very significantly between regions. In Taiwan and some better-managed reserves in mainland China for instance the populations appears to be stable, but in other parts of mainland China declines have probably been severe mainly due to hunting pressure; habitat loss potentially could be a more serious threat in some regions. The assessment of status is further complicated by presumed wide overlap with the Northern Red Muntjac M. vaginalis and quite possibly also animals in the M. rooseveltorum species complex. In addition, it should be noted that some of the reason for the relative lack of concern for this species may stem from its abundance in the UK rather than from its status in its native range in China and Taiwan. This species should be re-assessed should additional information on its status become available.",
+            "reporting_category_sort_order": "F"
+        }
+    ]
+}
+

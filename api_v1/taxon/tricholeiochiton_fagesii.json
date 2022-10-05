@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - caddis fly (Trichoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Tricholeiochiton fagesii"
+    ],
+    "recommended_authority": [
+        "(Guinard, 1879)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000008374"
+    ],
+    "designations": [
+        {
+            "designated_name": "Tricholeiochiton fagesii",
+            "source": "A review of the status of the caddis flies (Trichoptera) of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of caddis from work originally undertaken in 1987 and 1991 respectively, using the IUCN methodology for assessing threat.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5436150266200064?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "comments": "Not present in >100 hectads.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Tricholeiochiton fagesii",
+            "source": "A review of the status of the caddis flies (Trichoptera) of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of caddis from work originally undertaken in 1987 and 1991 respectively, using the IUCN methodology for assessing threat.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5436150266200064?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "This is a widespread species but with few scattered records. New sites are being found quite often but it is thought likely it will always be considered rare. Most records are as the unmistakable larva.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

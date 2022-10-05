@@ -1,0 +1,65 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Botanophila fonsecai"
+    ],
+    "recommended_authority": [
+        "Ackland, 1989"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000030467"
+    ],
+    "designations": [
+        {
+            "designated_name": "Botanophila fonsecai",
+            "common_name": "Fonseca's Seed Fly",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2007-06-01",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Conservation action needed; Criterion: S1 - on UKBAP list; S3 - Rare in the UK (<16 10km sqs); S4 - <6 Scottish 10km sqs; S6a - Endemic to Scotland",
+            "comments": "Terrestrial/Freshwater Species. Added to UK BAP list in 2007. Criteria: Threat, Other, Other",
+            "reporting_category_sort_order": "Hc"
+        },
+        {
+            "designated_name": "Botanophila fonsecai",
+            "common_name": "Fonseca's Seed Fly",
+            "source": "UK list of Priority Habitats and Species",
+            "source_description": "Starting in 2005, the old UK BAP priorities were reviewed and a new list called the UK List of Priority Species and Habitats was published in 2007 after adoption by the Governments of all four UK administrations. The species and habitats on this list help guide conservation actions being taken by the four countries in the UK as part of the UK contribution to the Convention on Biological Diversity.",
+            "date_designated": "2007-08-28",
+            "reporting_category": "Biodiversity Action Plan UK list of priority species",
+            "designation": "Priority Species",
+            "designation_abbreviation": "BAP-2007",
+            "designation_description": "The UK List of Priority Species and Habitats contains 1150 species and 65 habitats that have been listed as priorities for conservation action under the UK Biodiversity Action Plan (UK BAP).",
+            "criteria_description": "Threat,Other,Other",
+            "comments": "not on former UK BAP list",
+            "reporting_category_sort_order": "Ha"
+        },
+        {
+            "designated_name": "Botanophila fonsecai",
+            "source": "A Provisional Assessment of the Status of Calypterate flies in the UK",
+            "source_description": "This report was originally commissioned to update the threat status of some calypterate fly families. It is based on text originally submitted in 2005-12, but subsequently updated a number of times, most recently in late 2016. It provides a valuable repository of information on many species and should act as  a springboard to further survey and work",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5145257026519040?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "RedList_GB_post2001-DD",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat or Lower Risk. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that a threatened category is appropriate.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

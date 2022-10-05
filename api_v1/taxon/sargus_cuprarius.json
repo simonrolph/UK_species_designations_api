@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Sargus cuprarius"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1758)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007830"
+    ],
+    "designations": [
+        {
+            "designated_name": "Sargus cuprarius",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "RedList_GB_post2001-DD",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat or Lower Risk. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that a threatened category is appropriate.",
+            "iucn_version": "2001",
+            "comments": "Records indicate a once very widespread species across much of England with isolated records in Wales and Scotland, and which has undergone a huge decline and contraction in range. However, there are few reliably identified species, making the data impossible to interpret. The species may be Near Threatened or under greater threat, as there are no records since the publication in 2001 of Stubbs & Drake.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Sargus cuprarius",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Records indicate a once very widespread species across much of England with isolated records in Wales and Scotland, and which has undergone a huge decline and contraction in range. However, there are few reliably identified species, making the data impossible to interpret. The species may be Near Threatened or under greater threat, as there are no records since the publication in 2001 of Stubbs & Drake.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - stonefly (Plecoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Isoperla obscura"
+    ],
+    "recommended_authority": [
+        "(Zetterstedt, 1840)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000022440"
+    ],
+    "designations": [
+        {
+            "designated_name": "Isoperla obscura",
+            "source": "A review of the scarce and threatened stoneflies (Plecoptera) of Great Britain",
+            "source_description": "A review of the scarce and threatened stoneflies (Plecoptera) of Great Britain. Craig R. Macadam. 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5404611030548480",
+            "date_designated": "2015-02-12",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Regionally Extinct",
+            "designation_abbreviation": "RedList_GB_post2001-RE",
+            "designation_description": "Category for a taxon when there is no reasonable doubt that the last individual potentially capble of reproduction within the region has died or has disappeared from the wild in the region, or when, if it is a former visiting taxon, the last individual has died or disappeared in the wild from the region. The setting of any time limit for listing under RE is left to the discretion of the regional Red List authority, but should not normally pre-date 1500 AD.",
+            "iucn_version": "2001",
+            "criteria_description": "The last record of this species is from 1920.  Widespread sampling of suitable watercourses by the Environment Agency and its predecessor organisations has not resulted in any further records.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Non-vascular plant"
+    ],
+    "taxon_group": [
+        "stonewort"
+    ],
+    "recommended_taxon_name": [
+        "Nitella confervacea"
+    ],
+    "recommended_authority": [
+        "(Bréb.) A.Braun ex Leonh."
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000461040"
+    ],
+    "designations": [
+        {
+            "designated_name": "Nitella confervacea",
+            "common_name": "least stonewort",
+            "source": "Review of the status of charophytes (stoneworts) - N Stewart (unpublished)",
+            "source_description": "The charophytes, or stoneworts, form a class of the green algae. They have recently been assessed by N Stewart, using the current IUCN criteria, a publication will appear shortly.",
+            "date_designated": "2004-01-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

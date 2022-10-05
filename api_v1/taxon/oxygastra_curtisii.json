@@ -1,0 +1,64 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - dragonfly (Odonata)"
+    ],
+    "recommended_taxon_name": [
+        "Oxygastra curtisii"
+    ],
+    "recommended_authority": [
+        "(Dale, 1834)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000005636"
+    ],
+    "designations": [
+        {
+            "designated_name": "Oxygastra curtisii",
+            "common_name": "Orange-Spotted Emerald",
+            "source": "Bern Convention",
+            "source_description": "The Convention on the Conservation of European Wildlife and Natural Habitats (the Bern Convention) was adopted in Bern, Switzerland in 1979, and came into force in 1982. The principal aims of the Convention are to ensure conservation and protection of wild plant and animal species and their natural habitats (listed in Appendices I and II of the Convention), to increase cooperation between contracting parties, and to ensure the protection of certain fauna species (listed in Appendix 3) imposing regulations on any exploitation. To this end the Convention imposes legal obligations on contracting parties, protecting over 500 wild plant species and more than 1000 wild animal species.",
+            "date_designated": "1988-01-01",
+            "reporting_category": "Bern Convention",
+            "designation": "Appendix 2",
+            "designation_abbreviation": "Bern-A2",
+            "designation_description": "Special protection (`appropriate and necessary legislative and administrative measures`) for the animal taxa listed, includingall forms of deliberate capture and keeping and deliberate killing; the deliberate damage to or destruction of breeding or resting sites; the deliberate disturbance of wild fauna, particularly during the period of breeding, rearing and hibernation, insofar as disturbance would be significant in relation to the objectives of this Convention; the deliberate destruction or taking of eggs from the wild or keeping these eggs even if empty; the possession of and internal trade in these animals, alive or dead, including stuffed animals and any readily recognisable part or derivative thereof, where this would contribute to the effectiveness of the provisions of this article.",
+            "reporting_category_sort_order": "A"
+        },
+        {
+            "designated_name": "Oxygastra curtisii",
+            "common_name": "Orange-spotted Emerald",
+            "source": "The IUCN Red List of Threatened Species (2010)",
+            "source_description": "The IUCN Red List of Threatened Species provides taxonomic, conservation status and distribution information on taxa that have been globally evaluated using the IUCN Red List Categories and Criteria. This system is designed to determine the relative risk of extinction, and the main purpose of the IUCN Red List is to catalogue and highlight those taxa that are facing a higher risk of global extinction (i.e. those listed as Critically Endangered, Endangered and Vulnerable). The IUCN Red List also includes information on taxa that are categorized as Extinct or Extinct in the Wild; on taxa that cannot be evaluated because of insufficient information (i.e. are Data Deficient); and on taxa that are either close to meeting the threatened thresholds or that would be threatened were it not for an ongoing taxon-specific conservation programme (i.e. are Near Threatened).",
+            "date_designated": "2006-01-01",
+            "reporting_category": "Global Red list status",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_Global_post2001_NT",
+            "designation_description": "A taxon is Near Threatened when it has been evaluated against the criteria but does not qualify for Critically Endangered, Endangered or Vulnerable now, but is close to qualifying for or is likely to qualify for a threatened category in the near future.",
+            "iucn_version": "2001",
+            "criteria_description": "ver 2001",
+            "comments": "Population trend= 'stable'",
+            "reporting_category_sort_order": "F"
+        },
+        {
+            "designated_name": "Oxygastra curtisii",
+            "source": "The Odonata Red Data List for Great Britain -  2008 (Caroline Daguet, Dr Graham French and Dr Pam Taylor - Eds)",
+            "source_description": "This report has been produced as part of the JNCC Species Status Assessment project, assigning conservation status to British flora and fauna using internationally-approved IUCN Red Data Book criteria and categories (JNCC, 2006). Within this project, the remit of the present report is to assess the status of Odonata throughout Great Britain, using the updated IUCN Red Data Book criteria and categories. The previous assessment of the conservation status of British Odonata using IUCN criteria and categories is in Shirt, 1987. This lists four species as Endangered, two as Vulnerable and three as Rare. Three of the Endangered species were regarded as extinct in Britain.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/pub08_speciesstatus11.pdf",
+            "date_designated": "2008-10-29",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Regionally Extinct",
+            "designation_abbreviation": "RedList_GB_post2001-RE",
+            "designation_description": "Category for a taxon when there is no reasonable doubt that the last individual potentially capble of reproduction within the region has died or has disappeared from the wild in the region, or when, if it is a former visiting taxon, the last individual has died or disappeared in the wild from the region. The setting of any time limit for listing under RE is left to the discretion of the regional Red List authority, but should not normally pre-date 1500 AD.",
+            "iucn_version": "2001",
+            "comments": "Extinct in Britain since 1963",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

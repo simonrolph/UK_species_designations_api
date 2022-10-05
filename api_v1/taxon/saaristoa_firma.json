@@ -1,0 +1,101 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "spider (Araneae)"
+    ],
+    "recommended_taxon_name": [
+        "Saaristoa firma"
+    ],
+    "recommended_authority": [
+        "(O.P.-Cambridge, 1905)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000009188"
+    ],
+    "designations": [
+        {
+            "designated_name": "Saaristoa firma",
+            "common_name": "Triangle Hammock-spider",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2007-06-01",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Watching brief only; Criterion: S1 - on UKBAP list; S3 - Rare in the UK (<16 10km sqs)",
+            "comments": "Terrestrial/Freshwater Species. Added to UK BAP list in 2007. Criteria: Decline",
+            "reporting_category_sort_order": "Hc"
+        },
+        {
+            "designated_name": "Saaristoa firma",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Saaristoa firma",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "The apparent decline in this species of damp situations in heathand, woodland and scrub on peat soils is thought to result, at least in part, from the lack of recent surveys of Welsh peatlands. Threats: Given the relatively broad habitat requirements of this species, the apparent recent decline is difficult to explain. However, drainage of wetlands may have contributed.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Saaristoa firma",
+            "source": "Natural Environment and Rural Communities Act 2006 - Species of Principal Importance in England (section 41)",
+            "source_description": "Sections 41 (England) of the Natural Environment and Rural Communities Act 2006 require the listing of species of principal importance for the purpose of conserving biodiversity and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "date_designated": "2008-11-01",
+            "reporting_category": "Biodiversity Lists - England",
+            "designation": "England NERC S.41",
+            "designation_abbreviation": "England_NERC_S.41",
+            "designation_description": "Species “of principal importance for the purpose of conserving biodiversity” covered under section 41 (England) of the NERC Act (2006) and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "reporting_category_sort_order": "Hb"
+        },
+        {
+            "designated_name": "Saaristoa firma",
+            "source": "Environment (Wales) Act 2016 - Species of Principal Importance in Wales (section 7)",
+            "source_description": "Section 7 of the Environment (Wales) Act 2016 requires the publication of a list of biodiversity of principle importance, to support the biodiversity duty on public bodies under section 6 of the Act.",
+            "url_source": "http://www.biodiversitywales.org.uk/Environment-Wales-Bill",
+            "date_designated": "2016-05-21",
+            "reporting_category": "Biodiversity Lists - Wales",
+            "designation": "Env (Wales) Act S7",
+            "designation_abbreviation": "Env (Wales) Act S7",
+            "designation_description": "Species of principal importance for the purpose of conserving biodiversity covered under Section 7 of the Environment (Wales) Act 2016 and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "reporting_category_sort_order": "Hd"
+        },
+        {
+            "designated_name": "Saaristoa firma",
+            "common_name": "a money spider",
+            "source": "UK list of Priority Habitats and Species",
+            "source_description": "Starting in 2005, the old UK BAP priorities were reviewed and a new list called the UK List of Priority Species and Habitats was published in 2007 after adoption by the Governments of all four UK administrations. The species and habitats on this list help guide conservation actions being taken by the four countries in the UK as part of the UK contribution to the Convention on Biological Diversity.",
+            "date_designated": "2007-08-28",
+            "reporting_category": "Biodiversity Action Plan UK list of priority species",
+            "designation": "Priority Species",
+            "designation_abbreviation": "BAP-2007",
+            "designation_description": "The UK List of Priority Species and Habitats contains 1150 species and 65 habitats that have been listed as priorities for conservation action under the UK Biodiversity Action Plan (UK BAP).",
+            "criteria_description": "Decl",
+            "comments": "not on former UK BAP list",
+            "reporting_category_sort_order": "Ha"
+        }
+    ]
+}
+

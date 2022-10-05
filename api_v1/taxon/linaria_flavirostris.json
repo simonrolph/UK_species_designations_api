@@ -1,0 +1,88 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Linaria flavirostris"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1758)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021004297"
+    ],
+    "designations": [
+        {
+            "designated_name": "Carduelis flavirostris",
+            "common_name": "Twite",
+            "source": "Bern Convention",
+            "source_description": "The Convention on the Conservation of European Wildlife and Natural Habitats (the Bern Convention) was adopted in Bern, Switzerland in 1979, and came into force in 1982. The principal aims of the Convention are to ensure conservation and protection of wild plant and animal species and their natural habitats (listed in Appendices I and II of the Convention), to increase cooperation between contracting parties, and to ensure the protection of certain fauna species (listed in Appendix 3) imposing regulations on any exploitation. To this end the Convention imposes legal obligations on contracting parties, protecting over 500 wild plant species and more than 1000 wild animal species.",
+            "date_designated": "1979-01-01",
+            "reporting_category": "Bern Convention",
+            "designation": "Appendix 2",
+            "designation_abbreviation": "Bern-A2",
+            "designation_description": "Special protection (`appropriate and necessary legislative and administrative measures`) for the animal taxa listed, includingall forms of deliberate capture and keeping and deliberate killing; the deliberate damage to or destruction of breeding or resting sites; the deliberate disturbance of wild fauna, particularly during the period of breeding, rearing and hibernation, insofar as disturbance would be significant in relation to the objectives of this Convention; the deliberate destruction or taking of eggs from the wild or keeping these eggs even if empty; the possession of and internal trade in these animals, alive or dead, including stuffed animals and any readily recognisable part or derivative thereof, where this would contribute to the effectiveness of the provisions of this article.",
+            "reporting_category_sort_order": "A"
+        },
+        {
+            "designated_name": "Carduelis flavirostris",
+            "common_name": "Twite",
+            "source": "Wildlife (Northern Ireland) Order (1985)",
+            "source_description": "The principle legislation for wildlife protection in Northern Ireland",
+            "date_designated": "1985-01-01",
+            "reporting_category": "The Wildlife (Northern Ireland) Order 1985",
+            "designation": "Schedule 1 Part 1",
+            "designation_abbreviation": "W(NI)O-Sch1_part1",
+            "designation_description": "Birds which are protected by special penalties at all times.",
+            "reporting_category_sort_order": "J"
+        },
+        {
+            "designated_name": "Linaria flavirostris",
+            "common_name": "Twite",
+            "source": "Birds of Conservation Concern 5: the red list for birds (Red/Amber list and not based on IUCN criteria)",
+            "source_description": "Commonly referred to as the UK Red List for birds, this is the fifth review of the status of birds in the UK, Channel Islands and Isle of Man, and updates the last assessment in 2015. Using standardised criteria, 245 species with breeding, passage or wintering populations in the UK were assessed by experts from a range of bird NGOs and assigned to the Red, Amber or Green lists of conservation concern. December 2021.",
+            "url_source": "https://www.bto.org/our-science/publications/birds-conservation-concern",
+            "date_designated": "2021-01-01",
+            "reporting_category": "Red data categories  - birds (not based on IUCN criteria)",
+            "designation": "Bird Population Status - red",
+            "designation_abbreviation": "Bird-Red",
+            "designation_description": "Red list species are those that are Globally Threatened according to IUCN criteria; those whose population or range has declined rapidly in recent years; and those that have declined historically and not shown a substantial recent recovery.",
+            "reporting_category_sort_order": "Ga"
+        },
+        {
+            "designated_name": "Carduelis flavirostris",
+            "common_name": "twite",
+            "source": "Northern Ireland Priority Species List, March 2010",
+            "source_description": "Northern Ireland Priority Species List - March 2010. A list of threatened species requiring conservation action in Northern Ireland. Selection criteria- 1. Listed as a UK Priority Species. 2. Rapid decline (2% per year). 3. Decline (1% year) with Northern Ireland being a stronghold (S) consisting of either >50% Irish population or >20% UK population/range or with the Irish or UK population restricted (R) to Northern Ireland or with the Irish or UK population restricted (R) to Northern Ireland i.e. Decline + S or R. 4. Rare (confined to a small population of one or two sites in Northern Ireland) with Northern Ireland being a stronghold (S) consisting of either >50% Irish population or >20% UK population/range or with the Irish or UK population restricted (R) to Northern Ireland i.e. Rare + S or R. 5. At least 20% of international population of species or well-recognised subspecies occurring in Northern Ireland. 6. Irish Red Data Book (RDB) species classed as critically endangered (CR), endangered (EN) or vulnerable (VU). 7. Red-listed species in either Birds of Conservation Concern in Ireland (BOCCI) or the UK Birds of Conservation Concern (UK BOCC) lists.",
+            "date_designated": "2010-03-01",
+            "reporting_category": "Biodiversity Lists - Northern Ireland",
+            "designation": "Priority Species (Northern Ireland)",
+            "designation_abbreviation": "NI_Priority",
+            "designation_description": "The Northern Ireland Priority List of threatened species requiring conservation action in Northern Ireland. Criteria have been developed to ensure that Priority Species have been chosen using a scientific basis (See http-//www.habitas.org.uk/priority/criteria.html). The list is designed to assist those involved in the conservation of biodiversity by guiding decisions on where to target action and invest resources.",
+            "criteria_description": "1",
+            "reporting_category_sort_order": "He"
+        },
+        {
+            "designated_name": "Linaria flavirostris",
+            "common_name": "Twite",
+            "source": "The risk of extinction for birds in Great Britain Sep 2017 British Birds 110: 502-517.",
+            "source_description": "The first formal Red List Category for birds based on IUCN criteria and guidelines. This assessment (No 34 in the Species Status series) is not an alternative to BoCC and does not replace or supersede it. It is recommended to use the BoCC status as the starting point for identifying which birds are most deserving of conservation action.  This assessment focusses on regular breeding and over-wintering birds of Great Britain, thus excluding birds in the Isle of Man, Channel Islands and northern Ireland. It includes 289 species and 68 subspecies on the British list and excludes non-natives, vagrants and scarce migrants. For species that have substantial and at least partially distinct breeding and non-breeding populations in GB (defined as having a population in the non-breeding season that is more than twice the size of the breeding population), notably waterbirds, the breeding and wintering populations are assessed separately. Therefore a species is assigned an IUCN Red List category for its breeding and wintering populations. Some notable bird subspecies, all of those for which Britain is of international importance, i.e. more than 20% of the northwest European flyway (wildfowl), East Atlantic flyway (waders) or European (all others) population were also assessed. These are national assessments determining the status of birds in Great Britain, however influences at regional level have also been considered if there is significant immigration of individuals from outside GB likely to breed which could rescue populations from extinction. For non-breeding taxa the assessment considers if conditions both inside and outside the region are deteriorating. Subsequently 22 species have been downgraded to consider this contribution.",
+            "url_source": "https://britishbirds.co.uk/article/risk-extinction-birds-great-britain/",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least Concern",
+            "designation_abbreviation": "Bird_RedList_GB_post2001-LC_Breeding",
+            "designation_description": "A Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "The status of breeding Twite was assessed as being of Least Concern in Great Britain. The population trend does not appear to approach the thresholds for Near Threatened under the population trend criterion (>20% decline over ten years or three generations). The species has an large range, and hence does not approach the thresholds for Near Threatened under the range size criterion (EoO <30,000 km2, AoO <3,000 km2). The population size is large, and hence does not approach the thresholds for Near Threatened under the population size criterion (<15,000 mature individuals with a continuing decline estimated to be >10% in ten years or three generations).",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

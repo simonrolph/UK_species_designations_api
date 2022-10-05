@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Dyschirius nitidus"
+    ],
+    "recommended_authority": [
+        "(Dejean, 1825)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007178"
+    ],
+    "designations": [
+        {
+            "designated_name": "Dyschirius nitidus",
+            "source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)",
+            "source_description": "This report was commissioned to update the national status of ground beetles using IUCN methodology for assessing threat. It covers all species of Carabidae in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6270849377107968?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "criteria_description": "B2b(ii)",
+            "comments": "Though research has yet to be completed and published, it seems fairly certain that two species (Dyschirius chalceus Erichson and the true Dyschirius nitidus) occur in Britain but have been confounded under the single name D. nitidus. The aggregate of chalceus + nitidus meets the area requirements under criterion B2 for Endangered (AOO <500 km2) and Vulnerable (AOO <2,000 km2) and is declining. The aggregate is regarded as a habitat-specialist of relatively small, relatively isolated, early-successional, and often ephemeral, habitat patches which could expose it to an increased extinction risk. If there was good evidence to show that its range was severely fragmented and/or that it was undergoing extreme fluctuations, it would be assessed as Endangered. No formal assessment can be made at this stage of the segregate species but it is likely that both would be Threatened.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Dyschirius nitidus",
+            "source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)",
+            "source_description": "This report was commissioned to update the national status of ground beetles using IUCN methodology for assessing threat. It covers all species of Carabidae in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6270849377107968?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

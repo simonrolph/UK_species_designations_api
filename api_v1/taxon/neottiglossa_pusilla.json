@@ -1,0 +1,38 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Neottiglossa pusilla"
+    ],
+    "recommended_authority": [
+        "(Gmelin, 1790)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020309512"
+    ],
+    "designations": [
+        {
+            "designated_name": "Neottiglossa pusilla",
+            "common_name": "Small Grass Shieldbug",
+            "source": "A review of the Hemiptera of Great Britain: The shieldbugs and allied families",
+            "source_description": "This report was commissioned to update the national status of shield bugs using IUCN methodology for assessing threat. It covers all species of Coreoidea, Pentatomoidea & Pyrrhocoroidea in Great Britain, identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5027762327781376?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Likely to be present in >100 hectads with targetted recording, hence not regarded as NS",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

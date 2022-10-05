@@ -1,0 +1,38 @@
+{
+    "category": [
+        "Vascular plant"
+    ],
+    "taxon_group": [
+        "flowering plant"
+    ],
+    "recommended_taxon_name": [
+        "Hieracium salticola"
+    ],
+    "recommended_authority": [
+        "(Sudre) P.D. Sell & C. West"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000459593"
+    ],
+    "designations": [
+        {
+            "designated_name": "Hieracium salticola",
+            "common_name": "Bluish-leaved Hawkweed",
+            "source": "A Vascular Plant Red List for England",
+            "source_description": "A vascular plant Red List present for the first time the current state of England's flora measuredagainst standardised IUCN criteria. P.A. Stroh et al. 2014.",
+            "url_source": "http://www.bsbi.org.uk/England_Red_List_1.pdf",
+            "date_designated": "2014-11-18",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_ENG_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "criteria_description": "Possibly native in parts of S. E. England; locally frequent in some urban areas.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

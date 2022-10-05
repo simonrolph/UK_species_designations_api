@@ -1,0 +1,53 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Odontoscelis (Odontoscelis) fuliginosa"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1761)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020309545"
+    ],
+    "designations": [
+        {
+            "designated_name": "Odontoscelis fuliginosa",
+            "common_name": "Greater-streaked Shieldbug",
+            "source": "A review of the Hemiptera of Great Britain: The shieldbugs and allied families",
+            "source_description": "This report was commissioned to update the national status of shield bugs using IUCN methodology for assessing threat. It covers all species of Coreoidea, Pentatomoidea & Pyrrhocoroidea in Great Britain, identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5027762327781376?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Seems to have disappeared from many historic sites, such as the coasts of Cornwall, Hampshire (Isle of Wight), Norfolk and Suffolk. However, interpretation of any range contraction is confounded by historic confusion with the similar O. lineola; all records from the breckland areas of East Anglia are considered to refer to this species (there is a misidentified specimen of lineola in Liverpool Museum). All modern records are from two strongholds; the Sandwich Bay/Deal area of Kent and sand dune systems on the south coast of Pembrokeshire",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Odontoscelis fuliginosa",
+            "common_name": "Greater-streaked Shieldbug",
+            "source": "A review of the Hemiptera of Great Britain: The shieldbugs and allied families",
+            "source_description": "This report was commissioned to update the national status of shield bugs using IUCN methodology for assessing threat. It covers all species of Coreoidea, Pentatomoidea & Pyrrhocoroidea in Great Britain, identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5027762327781376?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "B2a bii biv",
+            "comments": "Seems to have disappeared from many historic sites, such as the coasts of Cornwall, Hampshire (Isle of Wight), Norfolk and Suffolk. However, interpretation of any range contraction is confounded by historic confusion with the similar O. lineola; all records from the breckland areas of East Anglia are considered to refer to this species (there is a misidentified specimen of lineola in Liverpool Museum). All modern records are from two strongholds; the Sandwich Bay/Deal area of Kent and sand dune systems on the south coast of Pembrokeshire",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

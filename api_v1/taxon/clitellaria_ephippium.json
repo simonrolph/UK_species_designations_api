@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Clitellaria ephippium"
+    ],
+    "recommended_authority": [
+        "(Fabricius, 1775)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007803"
+    ],
+    "designations": [
+        {
+            "designated_name": "Clitellaria ephippium",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Regionally Extinct",
+            "designation_abbreviation": "RedList_GB_post2001-RE",
+            "designation_description": "Category for a taxon when there is no reasonable doubt that the last individual potentially capble of reproduction within the region has died or has disappeared from the wild in the region, or when, if it is a former visiting taxon, the last individual has died or disappeared in the wild from the region. The setting of any time limit for listing under RE is left to the discretion of the regional Red List authority, but should not normally pre-date 1500 AD.",
+            "iucn_version": "2001",
+            "comments": "One unconfirmed 19th century record from Kent.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "mollusc"
+    ],
+    "recommended_taxon_name": [
+        "Boettgerilla pallens"
+    ],
+    "recommended_authority": [
+        "Simroth, 1912"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000006725"
+    ],
+    "designations": [
+        {
+            "designated_name": "Boettgerilla pallens",
+            "source": "A review of the Non-Marine Mollusca of Great Britain",
+            "source_description": "A review of the Non-Marine Mollusca of Great Britain: Species Status No. 17. NRW Evidence Report No: 14, 84pp, Natural Resources Wales, Bangor. M.B. Seddon, I.J. Killeen & A.P. Fowles. March 2014",
+            "url_source": "https://naturalresources.wales/media/678807/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf",
+            "date_designated": "2014-03-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Not Applicable",
+            "designation_abbreviation": "RedList_GB_post2001-NA",
+            "designation_description": "A taxon that occurs in the region but has been excluded from the regional Red List for a specific reason",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

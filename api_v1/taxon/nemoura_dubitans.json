@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - stonefly (Plecoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Nemoura dubitans"
+    ],
+    "recommended_authority": [
+        "Morton, 1894"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000022422"
+    ],
+    "designations": [
+        {
+            "designated_name": "Nemoura dubitans",
+            "source": "A review of the scarce and threatened stoneflies (Plecoptera) of Great Britain",
+            "source_description": "A review of the scarce and threatened stoneflies (Plecoptera) of Great Britain. Craig R. Macadam. 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5404611030548480",
+            "date_designated": "2015-02-12",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "criteria_description": "This species lives in seepages flowing through marshes.  Whilst this is an often overlooked and undersurveyed habitat this species appears to be genuinely rare with only 14 modern records.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Nemoura dubitans",
+            "source": "A review of the scarce and threatened stoneflies (Plecoptera) of Great Britain",
+            "source_description": "A review of the scarce and threatened stoneflies (Plecoptera) of Great Britain. Craig R. Macadam. 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5404611030548480",
+            "date_designated": "2015-02-12",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "criteria_description": "This species lives in seepages flowing through marshes.  Whilst this is an often overlooked and undersurveyed habitat this species appears to be genuinely rare with only 14 modern records.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

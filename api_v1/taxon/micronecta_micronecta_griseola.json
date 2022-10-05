@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Micronecta (Micronecta) griseola"
+    ],
+    "recommended_authority": [
+        "Horváth, 1899"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020309456"
+    ],
+    "designations": [
+        {
+            "designated_name": "Micronecta griseola",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "RedList_GB_post2001-DD",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat or Lower Risk. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that a threatened category is appropriate.",
+            "iucn_version": "2001",
+            "comments": "First recorded from R. Great Ouse at Felmersham (Beds). Very similar to M. minutissima and may have been overlooked in the past - or could be a recent colonist (Brooke & Nau 2003). It is certainly more common than records suggest as, according to B. Nau, it is present in a high proportion of rivers sites checked in Bedfordshire and surrounding counties (pers. comm.). If a recent colonist then status of NA may be appropriate (see K.Alexander, 2014) but if an overlooked native DD would be the best assessment. It is likely, however, that even if M. griseola is a recent colonist this represents a natural extension of range and, as in the case of Sigara iactans, it should be regarded as 'native'.  A status of DD is considered  appropriate.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Micronecta griseola",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "First recorded from R. Great Ouse at Felmersham (Beds). Very similar to M. minutissima and may have been overlooked in the past - or could be a recent colonist (Brooke & Nau 2003). It is certainly more common than records suggest as, according to B. Nau, it is present in a high proportion of rivers sites checked in Bedfordshire and surrounding counties (pers. comm.). If a recent colonist then status of NA may be appropriate (see K.Alexander, 2014) but if an overlooked native DD would be the best assessment. It is likely, however, that even if M. griseola is a recent colonist this represents a natural extension of range and, as in the case of Sigara iactans, it should be regarded as 'native'.  A status of DD is considered  appropriate.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

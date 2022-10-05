@@ -1,0 +1,51 @@
+{
+    "category": [
+        "Vascular plant"
+    ],
+    "taxon_group": [
+        "flowering plant"
+    ],
+    "recommended_taxon_name": [
+        "Pilosella peleteriana subsp. tenuiscapa"
+    ],
+    "recommended_authority": [
+        "(Pugsley) P.D. Sell & C. West"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000461679"
+    ],
+    "designations": [
+        {
+            "designated_name": "Pilosella peleteriana subsp. tenuiscapa",
+            "source": "The Vascular Plant Red Data List for Great Britain, revised February 2019",
+            "source_description": "Leach, S.J. 2019 (in prep) The Vascular Plant Red Data List for Great Britain: a summary of amendments in years 12 and 13 (2017-2018) of the annual amendments process. BSBI News 141",
+            "url_source": "https://bsbi.org/taxon-lists",
+            "date_designated": "2014-01-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "D2",
+            "comments": "See Walker (2013)",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Pilosella peleteriana subsp. tenuiscapa",
+            "source": "A Vascular Plant Red List for England",
+            "source_description": "A vascular plant Red List present for the first time the current state of England's flora measuredagainst standardised IUCN criteria. P.A. Stroh et al. 2014.",
+            "url_source": "http://www.bsbi.org.uk/England_Red_List_1.pdf",
+            "date_designated": "2014-11-18",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Waiting List",
+            "designation_abbreviation": "WL",
+            "designation_description": "Occasionally, potential new native taxa that may have arrived via natural dispersal are kept on a Waiting List (WL) until such time as doubts over their native/alien status are resolved.",
+            "criteria_description": "Insufficient mapping data.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

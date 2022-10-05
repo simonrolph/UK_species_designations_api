@@ -1,0 +1,48 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Heringia verrucula"
+    ],
+    "recommended_authority": [
+        "(Collin, 1931)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0100003451"
+    ],
+    "designations": [
+        {
+            "designated_name": "Neocnemodon verrucula",
+            "source": "A review of the scarce and threatened flies of Great Britain - Part 1 (Falk, S.J.)",
+            "source_description": "Falk, S J.  Research & survey in nature conservation, No. 39.  Published by JNCC, 1991.  Updates relevant information in the RDB Insects (1987) using the old IUCN categories and criteria.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Pub92_Review_of_scarce_&_threatened_flies_of_Great_Britain_(Part-1)_PRINT.pdf",
+            "date_designated": "1991-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Notable",
+            "designation_abbreviation": "Notable",
+            "designation_description": "Species which are estimated to occur within the range of 16 to 100 10km squares. (subdivision into Notable A and Notable B is not always possible because there may be insufficient information available). Superseded by Nationally Scarce, and therefore no longer in use.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Heringia verrucula (Collin, 1931)",
+            "source": "A review of the scarce and threatened flies of Great Britain.",
+            "source_description": "A review of the scarce and threatened flies of Great Britain. Part 6: Hoverflies, family Syrphidae. S.G. Ball, R.K.A. Morris (2014). ISSN 1473-0154.",
+            "url_source": "http://jncc.defra.gov.uk/page-6907",
+            "date_designated": "2014-11-26",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "RedList_GB_post2001-DD",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat or Lower Risk. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that a threatened category is appropriate.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

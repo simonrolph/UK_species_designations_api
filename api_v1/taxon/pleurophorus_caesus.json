@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Pleurophorus caesus"
+    ],
+    "recommended_authority": [
+        "(Creutzer in Panzer, 1796)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011521"
+    ],
+    "designations": [
+        {
+            "designated_name": "Pleurophorus caesus",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Regionally Extinct",
+            "designation_abbreviation": "RedList_GB_post2001-RE",
+            "designation_description": "Category for a taxon when there is no reasonable doubt that the last individual potentially capble of reproduction within the region has died or has disappeared from the wild in the region, or when, if it is a former visiting taxon, the last individual has died or disappeared in the wild from the region. The setting of any time limit for listing under RE is left to the discretion of the regional Red List authority, but should not normally pre-date 1500 AD.",
+            "iucn_version": "2001",
+            "comments": "Described by Fowler (1890) as 'somewhat doubtful as British' and stated by Stephens to be ' a rare species at least towards the eastern parts of Britain; in the western it appears to be more abundant'. 'Localities given are near Bristol, and Pentire Point, Cornwall. Hyman (1992) gives Glamorgan as a locality, and also recorded historically (1890) from the Scilly Isles. Recently imported on celery; Huntingdon, Cambridgeshire in 1997. The species has been reported as a pest of crops in the USA where it was introduced in 1871. If it was ever indigenous to Britain, which is doubtful, it is certainly extinct now.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

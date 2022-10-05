@@ -1,0 +1,62 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Malachius aeneus"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1758)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000024399"
+    ],
+    "designations": [
+        {
+            "designated_name": "Malachius aeneus",
+            "source": "Natural Environment and Rural Communities Act 2006 - Species of Principal Importance in England (section 41)",
+            "source_description": "Sections 41 (England) of the Natural Environment and Rural Communities Act 2006 require the listing of species of principal importance for the purpose of conserving biodiversity and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "date_designated": "2008-11-01",
+            "reporting_category": "Biodiversity Lists - England",
+            "designation": "England NERC S.41",
+            "designation_abbreviation": "England_NERC_S.41",
+            "designation_description": "Species “of principal importance for the purpose of conserving biodiversity” covered under section 41 (England) of the NERC Act (2006) and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "reporting_category_sort_order": "Hb"
+        },
+        {
+            "designated_name": "Malachius aeneus",
+            "common_name": "Scarlet malachite beetle",
+            "source": "A review of the beetles of Great Britain: The Soldier Beetles and their allies",
+            "source_description": "A review of the beetles of Great Britain. The soldier beetles and their allies.  Buprestidae, Cantharidae, Cleridae, Dasytidae, Drilidae, Lampyridae, Lycidae, Lymexylidae, Malachiidae, Phloiophilidae and Trogossitidae.  K.N.A. Alexander January 2014",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6314340407836672?category=30001",
+            "date_designated": "2014-01-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Malachius aeneus",
+            "common_name": "Scarlet Malachite Beetle",
+            "source": "UK list of Priority Habitats and Species",
+            "source_description": "Starting in 2005, the old UK BAP priorities were reviewed and a new list called the UK List of Priority Species and Habitats was published in 2007 after adoption by the Governments of all four UK administrations. The species and habitats on this list help guide conservation actions being taken by the four countries in the UK as part of the UK contribution to the Convention on Biological Diversity.",
+            "date_designated": "2007-08-28",
+            "reporting_category": "Biodiversity Action Plan UK list of priority species",
+            "designation": "Priority Species",
+            "designation_abbreviation": "BAP-2007",
+            "designation_description": "The UK List of Priority Species and Habitats contains 1150 species and 65 habitats that have been listed as priorities for conservation action under the UK Biodiversity Action Plan (UK BAP).",
+            "criteria_description": "Other",
+            "comments": "status on former BAP list- Species Action Plan",
+            "reporting_category_sort_order": "Ha"
+        }
+    ]
+}
+

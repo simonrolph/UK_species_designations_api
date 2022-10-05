@@ -1,0 +1,52 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - moth"
+    ],
+    "recommended_taxon_name": [
+        "Zygaena lonicerae jocelynae"
+    ],
+    "recommended_authority": [
+        "Tremewan, 1962"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021143443"
+    ],
+    "designations": [
+        {
+            "designated_name": "Zygaena lonicerae subspecies jocelynae",
+            "common_name": "Talisker Burnet Moth",
+            "source": "Wildlife and Countryside Act Schedules 1, 5 and 8 (protected birds, animals and plants)",
+            "source_description": "Protected Birds, Animals and Plants are listed in Schedules 1, 5 and 8 respectively of the Wildlife and Countryside Act.Schedule 1. The Act makes it an offence (with exception to species listed in Schedule 2) to intentionally kill, injure or take any wild bird or their eggs or nests. Special penalties are available for offences related to birds listed on Schedule 1, for which there are additional offences of disturbing these birds at their nests, or their dependent young. Schedule 5. The Act makes it an offence (subject to exceptions) to intentionally kill, injure, or take, possess, or trade in any wild animal listed in Schedule 5, and prohibits interference with places used for shelter or protection, or intentionally disturbing animals occupying such places. The Act also prohibits certain methods of killing, injuring, or taking wild animals.Schedule 8. The Act makes it an offence (subject to exceptions) to pick, uproot, trade in, or possess (for the purposes of trade) any wild plant listed in Schedule 8, and prohibits the unauthorised intentional uprooting of such plants.There is a statutory five-yearly review of Schedules 5 and 8 (protected wild animals and plants respectively).",
+            "url_source": "http://www.legislation.gov.uk/all?title=Wildlife%20and%20Countryside%20Act%201981",
+            "date_designated": "2005-11-01",
+            "reporting_category": "Wildlife and Countryside Act 1981",
+            "designation": "Schedule 5 Section 9.5a",
+            "designation_abbreviation": "WACA-Sch5_sect9.5a",
+            "designation_description": "Section 9.5 Animals which are protected from being sold, offered for sale or being held or transported for sale either live or dead, whole or part.",
+            "comments": "Added 2011. Vulnerable and highly localised. Will provide protection in Scotland. Protection against sale in England and Wales will support protection in Scotland. http://www.legislation.gov.uk/uksi/2",
+            "reporting_category_sort_order": "I"
+        },
+        {
+            "designated_name": "Zygaena lonicerae subsp. jocelynae",
+            "common_name": "Narrow-bordered Five-spot Burnet",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Watching brief only; Criterion: S3 - Rare in the UK (<16 10km sqs); S4 - <6 Scottish 10km sqs; S6b - endemic sub-species/ race",
+            "comments": "Terrestrial/Freshwater Species.",
+            "reporting_category_sort_order": "Hc"
+        }
+    ]
+}
+

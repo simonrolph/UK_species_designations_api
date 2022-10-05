@@ -1,0 +1,51 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Zabrachia tenella"
+    ],
+    "recommended_authority": [
+        "(Jaennicke, 1866)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000159204"
+    ],
+    "designations": [
+        {
+            "designated_name": "Zabrachia tenella",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Endangered",
+            "designation_abbreviation": "RedList_GB_post2001-EN",
+            "designation_description": "A taxon is Endangered when it is not Critically endangered but is facing a very high risk of extinction in the wild in the near future.",
+            "iucn_version": "2001",
+            "criteria_description": "B2ab(ii,iv)",
+            "comments": "Zabrachia tenella has undergone a marked decline (78%) and contraction of its range since 1990 (starting well before 1990). The reason cannot be that it is more difficult to find than many other Stratiomyidae since the difficulty would have been similar at all times. The current small number of hectads (5) coupled with this decline suggest that it status should be Endangered. This marks a considerable upgrading in status from Nationally Scarce (Falk, 1991); the species was not mentioned in Shirt (1987).",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Zabrachia tenella",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Zabrachia tenella has undergone a marked decline (78%) and contraction of its range since 1990 (starting well before 1990). The reason cannot be that it is more difficult to find than many other Stratiomyidae since the difficulty would have been similar at all times. The current small number of hectads (5) coupled with this decline suggest that it status should be Endangered. This marks a considerable upgrading in status from Nationally Scarce (Falk, 1991); the species was not mentioned in Shirt (1987).",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

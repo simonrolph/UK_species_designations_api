@@ -1,0 +1,52 @@
+{
+    "category": [
+        "Vascular plant"
+    ],
+    "taxon_group": [
+        "flowering plant"
+    ],
+    "recommended_taxon_name": [
+        "Otanthus maritimus"
+    ],
+    "recommended_authority": [
+        "(L.) Hoffmanns. & Link"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000461412"
+    ],
+    "designations": [
+        {
+            "designated_name": "Achillea maritima (Otanthus maritimus)",
+            "common_name": "Cottonweed",
+            "source": "A Vascular Plant Red List for England",
+            "source_description": "A vascular plant Red List present for the first time the current state of England's flora measuredagainst standardised IUCN criteria. P.A. Stroh et al. 2014.",
+            "url_source": "http://www.bsbi.org.uk/England_Red_List_1.pdf",
+            "date_designated": "2014-11-18",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Extinct",
+            "designation_abbreviation": "RedList_GB_post2001-EX",
+            "designation_description": "A taxon is Extinct in Great Britain when there is no reasonable doubt that the last individual in Great Britain has died. A taxon is presumed extinct when exhaustive surveys in known and/or expected habitat, at appropriate times (diurnal, seasonal, annual), throughout its historical range have failed to record an individual. Surveys should be over a time scale appropriate to the taxon's life cycle and life form.",
+            "iucn_version": "2001",
+            "criteria_description": "Last record on the Scilly Isles in 1936.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Otanthus maritimus",
+            "common_name": "Cottonweed",
+            "source": "UK list of Priority Habitats and Species",
+            "source_description": "Starting in 2005, the old UK BAP priorities were reviewed and a new list called the UK List of Priority Species and Habitats was published in 2007 after adoption by the Governments of all four UK administrations. The species and habitats on this list help guide conservation actions being taken by the four countries in the UK as part of the UK contribution to the Convention on Biological Diversity.",
+            "date_designated": "2007-08-28",
+            "reporting_category": "Biodiversity Action Plan UK list of priority species",
+            "designation": "Priority Species",
+            "designation_abbreviation": "BAP-2007",
+            "designation_description": "The UK List of Priority Species and Habitats contains 1150 species and 65 habitats that have been listed as priorities for conservation action under the UK Biodiversity Action Plan (UK BAP).",
+            "criteria_description": "Other",
+            "comments": "not on former UK BAP list",
+            "reporting_category_sort_order": "Ha"
+        }
+    ]
+}
+

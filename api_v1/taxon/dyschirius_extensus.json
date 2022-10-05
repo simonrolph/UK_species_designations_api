@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Dyschirius extensus"
+    ],
+    "recommended_authority": [
+        "Putzeys, 1846"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007174"
+    ],
+    "designations": [
+        {
+            "designated_name": "Dyschirius extensus",
+            "source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)",
+            "source_description": "This report was commissioned to update the national status of ground beetles using IUCN methodology for assessing threat. It covers all species of Carabidae in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6270849377107968?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Dyschirius extensus",
+            "source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)",
+            "source_description": "This report was commissioned to update the national status of ground beetles using IUCN methodology for assessing threat. It covers all species of Carabidae in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6270849377107968?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Critically Endangered (possibly extinct)",
+            "designation_abbreviation": "RedList_GB_post2001-CR(PE)",
+            "designation_description": "A taxon is Critically Endangered when the best available evidence indicates that it meets any of the criteria A to E for Critically Endangered (see Section V), and it is therefore considered to be facing an extremely high risk of extinction in the wild.  Possibly extinct indicates that there is a small chance that the taxon may still be extant, and hence  should not be listed as Extinct until local or unconfirmed reports have been discounted, and adequate surveys have failed to find any individuals.",
+            "iucn_version": "2001",
+            "criteria_description": "D",
+            "comments": "The species is probably extinct in Britain: a population size estimate of zero individuals can be made with reasonable confidence (D). Nevertheless, there remains a chance that this species may yet be rediscovered in Britain, as demonstrated by Dawson’s (1856) comments on the original capture: “It was captured (I would observe) not in a new and unexplored locality, but on a spot of damp ground frequently and carefully searched in previous years, by myself and others, and one which I had indicated to Mr. Syme as being a favourite resort of the Dyschirii. In the very same hollow and beneath the very stones which had in those previous years been found to yield a good harvest of insects (though not perhaps at that precise season), this new British Dyschirius unexpectedly made its appearance. And I seize upon this fact as offering a fresh inducement to Entomologists by no means to relax their efforts in the examination of known and frequented localities, under the impression that their stores of species must have been exhausted, nor to confine their labours to one or two particular seasons of the year, since even in such places, as it is seen, novelties may eventually turn up to reward their assiduity”.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

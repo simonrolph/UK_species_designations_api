@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - moth"
+    ],
+    "recommended_taxon_name": [
+        "Lygephila craccae"
+    ],
+    "recommended_authority": [
+        "([Denis & Schiffermüller], 1775)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021144436"
+    ],
+    "designations": [
+        {
+            "designated_name": "Lygephila craccae",
+            "common_name": "Scarce Blackneck",
+            "source": "Red Data Book of Insects",
+            "source_description": "Edited by Shirt, D B.  Published by NCC, 1987.  Updates the National Reviews of Orthoptera (1983),  and Macrolepidoptera (1984), using the old IUCN categories and criteria.  Partially updated by subsequent reviews.",
+            "date_designated": "1987-01-01",
+            "reporting_category": "Red Listing based on pre 1994 IUCN guidelines",
+            "designation": "Rare",
+            "designation_abbreviation": "RedList_GB_Pre94-R",
+            "designation_description": "Taxa with small populations that are not at present Endangered or Vulnerable, but are at risk. (In GB, this was interpreted as species which exist in fifteen or fewer 10km squares). Superseded by new IUCN categories in 1994, but still applicable to lists that have not been reviewed since 1994.",
+            "iucn_version": "pre 1994",
+            "comments": "pre 1994 IUCN criteria",
+            "reporting_category_sort_order": "Fa"
+        }
+    ]
+}
+

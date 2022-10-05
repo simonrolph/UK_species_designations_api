@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Mirosternomorphus heali"
+    ],
+    "recommended_authority": [
+        "Bercedo & Arnáiz, 2010"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021179428"
+    ],
+    "designations": [
+        {
+            "designated_name": "Mirosternomorphus heali",
+            "source": "A review of the status of the beetles of Great Britain: The wood-boring beetles, spider beetles, woodworm, false powder-post beetles, hide beetles and their allies - Derodontidoidea (Derodontidae) and Bostrichoidea (Dermestidae, Bostrichidae and Ptinidae)",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Derodontidae, Dermestidae, Bostrichidae and Ptinidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5841907969687552?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Mirosternomorphus heali",
+            "source": "A review of the status of the beetles of Great Britain: The wood-boring beetles, spider beetles, woodworm, false powder-post beetles, hide beetles and their allies - Derodontidoidea (Derodontidae) and Bostrichoidea (Dermestidae, Bostrichidae and Ptinidae)",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Derodontidae, Dermestidae, Bostrichidae and Ptinidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5841907969687552?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "criteria_description": "D2",
+            "comments": "A single known population globally suggests Vulnerable (D2) as the most applicable IUCN category but there is no plausible threat to the one known site; presumably Near Threatened must be the correct status, and if correct globally then should be applied regionally. However, advice from the IUCN Global Species Programme (Caroline Pollock) is that a global assessment is only possible for species within their natural range, or outside their natural range if they have been translocated for conservation purposes. This seems an anomalous situation – that Red List status is dependent on human intention rather than actual threat - and the recommendation for this project remains ‘Near Threatened’.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

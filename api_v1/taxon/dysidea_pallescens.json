@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "sponge (Porifera)"
+    ],
+    "recommended_taxon_name": [
+        "Dysidea pallescens"
+    ],
+    "recommended_authority": [
+        "(Schmidt, 1862)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020752349"
+    ],
+    "designations": [
+        {
+            "designated_name": "Dysidea pallescens",
+            "common_name": "Sponge",
+            "source": "Rare marine benthic flora and fauna in Great Britain- the development of criteria for assessment",
+            "source_description": "Sanderson, W G.  JNCC Report, No. 240.  Published by JNCC, 1996.  Provisional list of rare and scarce marine species.  [not red list]",
+            "date_designated": "1996-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally rare marine species",
+            "designation_abbreviation": "Marine-NR",
+            "designation_description": "Species which occur in eight or fewer 10km X 10km grid squares containing sea (or water of marine saline influence) within the three mile territorial limit.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

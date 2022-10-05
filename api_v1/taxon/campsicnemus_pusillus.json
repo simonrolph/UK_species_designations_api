@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Campsicnemus pusillus"
+    ],
+    "recommended_authority": [
+        "(Meigen, 1824)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000012799"
+    ],
+    "designations": [
+        {
+            "designated_name": "Campsicnemus pusillus",
+            "source": "A review of the scarce and threatened flies of Great Britain - Part 1 (Falk, S.J.)",
+            "source_description": "Falk, S J.  Research & survey in nature conservation, No. 39.  Published by JNCC, 1991.  Updates relevant information in the RDB Insects (1987) using the old IUCN categories and criteria.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Pub92_Review_of_scarce_&_threatened_flies_of_Great_Britain_(Part-1)_PRINT.pdf",
+            "date_designated": "1991-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Notable",
+            "designation_abbreviation": "Notable",
+            "designation_description": "Species which are estimated to occur within the range of 16 to 100 10km squares. (subdivision into Notable A and Notable B is not always possible because there may be insufficient information available). Superseded by Nationally Scarce, and therefore no longer in use.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

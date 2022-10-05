@@ -1,0 +1,61 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "mollusc"
+    ],
+    "recommended_taxon_name": [
+        "Gyraulus (Torquis) laevis"
+    ],
+    "recommended_authority": [
+        "(Alder, 1838)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001702026"
+    ],
+    "designations": [
+        {
+            "designated_name": "Gyraulus laevis",
+            "common_name": "smooth ram’s horn",
+            "source": "Northern Ireland Priority Species List, March 2010",
+            "source_description": "Northern Ireland Priority Species List - March 2010. A list of threatened species requiring conservation action in Northern Ireland. Selection criteria- 1. Listed as a UK Priority Species. 2. Rapid decline (2% per year). 3. Decline (1% year) with Northern Ireland being a stronghold (S) consisting of either >50% Irish population or >20% UK population/range or with the Irish or UK population restricted (R) to Northern Ireland or with the Irish or UK population restricted (R) to Northern Ireland i.e. Decline + S or R. 4. Rare (confined to a small population of one or two sites in Northern Ireland) with Northern Ireland being a stronghold (S) consisting of either >50% Irish population or >20% UK population/range or with the Irish or UK population restricted (R) to Northern Ireland i.e. Rare + S or R. 5. At least 20% of international population of species or well-recognised subspecies occurring in Northern Ireland. 6. Irish Red Data Book (RDB) species classed as critically endangered (CR), endangered (EN) or vulnerable (VU). 7. Red-listed species in either Birds of Conservation Concern in Ireland (BOCCI) or the UK Birds of Conservation Concern (UK BOCC) lists.",
+            "date_designated": "2010-03-01",
+            "reporting_category": "Biodiversity Lists - Northern Ireland",
+            "designation": "Priority Species (Northern Ireland)",
+            "designation_abbreviation": "NI_Priority",
+            "designation_description": "The Northern Ireland Priority List of threatened species requiring conservation action in Northern Ireland. Criteria have been developed to ensure that Priority Species have been chosen using a scientific basis (See http-//www.habitas.org.uk/priority/criteria.html). The list is designed to assist those involved in the conservation of biodiversity by guiding decisions on where to target action and invest resources.",
+            "criteria_description": "6",
+            "reporting_category_sort_order": "He"
+        },
+        {
+            "designated_name": "Gyraulus laevis",
+            "source": "A review of the Non-Marine Mollusca of Great Britain",
+            "source_description": "A review of the Non-Marine Mollusca of Great Britain: Species Status No. 17. NRW Evidence Report No: 14, 84pp, Natural Resources Wales, Bangor. M.B. Seddon, I.J. Killeen & A.P. Fowles. March 2014",
+            "url_source": "https://naturalresources.wales/media/678807/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf",
+            "date_designated": "2014-03-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Gyraulus laevis",
+            "source": "A review of the Non-Marine Mollusca of Great Britain",
+            "source_description": "A review of the Non-Marine Mollusca of Great Britain: Species Status No. 17. NRW Evidence Report No: 14, 84pp, Natural Resources Wales, Bangor. M.B. Seddon, I.J. Killeen & A.P. Fowles. March 2014",
+            "url_source": "https://naturalresources.wales/media/678807/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf",
+            "date_designated": "2014-03-01",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

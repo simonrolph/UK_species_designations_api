@@ -1,0 +1,52 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Microvelia (Microvelia) buenoi"
+    ],
+    "recommended_authority": [
+        "Drake, 1920"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020309464"
+    ],
+    "designations": [
+        {
+            "designated_name": "Microvelia buenoi",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "criteria_description": "B2a",
+            "comments": "Little change since Huxley (2003) who recorded 5 hectads for M. buenoi between 1970 and 2001, 4 in Norfolk and 1 in Cambridgeshire. There are a few recent additional Norfolk records but no significant change in range or habitat. The species has a known AOO of <1000km2 and specific habitat requirements which could be threatened by lowering of water tables and unsympathetic management (Kirby 1992), satisfying IUCN criteria for a status of VU. However, as the species that can be easily overlooked and there is no evidence of serious threat or decline it is assessed NT.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Microvelia buenoi",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "criteria_description": "B2a",
+            "comments": "Little change since Huxley (2003) who recorded 5 hectads for M. buenoi between 1970 and 2001, 4 in Norfolk and 1 in Cambridgeshire. There are a few recent additional Norfolk records but no significant change in range or habitat. The species has a known AOO of <1000km2 and specific habitat requirements which could be threatened by lowering of water tables and unsympathetic management (Kirby 1992), satisfying IUCN criteria for a status of VU. However, as the species that can be easily overlooked and there is no evidence of serious threat or decline it is assessed NT.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

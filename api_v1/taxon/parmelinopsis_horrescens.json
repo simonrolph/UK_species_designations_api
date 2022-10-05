@@ -1,0 +1,60 @@
+{
+    "category": [
+        "Non-vascular plant"
+    ],
+    "taxon_group": [
+        "lichen"
+    ],
+    "recommended_taxon_name": [
+        "Parmelinopsis horrescens"
+    ],
+    "recommended_authority": [
+        "(Taylor) Elix & Hale"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000153257"
+    ],
+    "designations": [
+        {
+            "designated_name": "Parmelinopsis horrescens",
+            "source": "A Conservation Evaluation of British Lichens and Lichenicolous Fungi (2012)",
+            "source_description": "Woods, R.G. & Coppins, B. J. 2012. A Conservation Evaluation of British Lichens and Lichenicolous Fungi. Species Status 13. Joint Nature Conservation Committee, Peterborough.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Lichens_web_Edits%2020%20Aug.pdf",
+            "date_designated": "2012-01-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Parmelinopsis horrescens",
+            "source": "A Conservation Evaluation of British Lichens and Lichenicolous Fungi (2012)",
+            "source_description": "Woods, R.G. & Coppins, B. J. 2012. A Conservation Evaluation of British Lichens and Lichenicolous Fungi. Species Status 13. Joint Nature Conservation Committee, Peterborough.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Lichens_web_Edits%2020%20Aug.pdf",
+            "date_designated": "2012-01-01",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Parmelinopsis horrescens",
+            "source": "Environment (Wales) Act 2016 - Species of Principal Importance in Wales (section 7)",
+            "source_description": "Section 7 of the Environment (Wales) Act 2016 requires the publication of a list of biodiversity of principle importance, to support the biodiversity duty on public bodies under section 6 of the Act.",
+            "url_source": "http://www.biodiversitywales.org.uk/Environment-Wales-Bill",
+            "date_designated": "2016-05-21",
+            "reporting_category": "Biodiversity Lists - Wales",
+            "designation": "Env (Wales) Act S7",
+            "designation_abbreviation": "Env (Wales) Act S7",
+            "designation_description": "Species of principal importance for the purpose of conserving biodiversity covered under Section 7 of the Environment (Wales) Act 2016 and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "reporting_category_sort_order": "Hd"
+        }
+    ]
+}
+

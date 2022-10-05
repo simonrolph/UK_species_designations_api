@@ -1,0 +1,52 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Pachycoleus waltli"
+    ],
+    "recommended_authority": [
+        "Fieber, 1860"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020442444"
+    ],
+    "designations": [
+        {
+            "designated_name": "Cryptostemma waltli",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "criteria_description": "B2a",
+            "comments": "Since 1990 recorded from 5 sites, 2 in Anglesey, 1 in Gloucestershire, 1 in Cambridgeshire (P. Kirby 1996) and 1 in Roxburghshire (from moss by Northhouse Burn, S. Hewitt 2002). The species was recorded from only 2 sites in Wales (in Cardiganshire and Pembrokeshire, both coastal) in the late 1980's during the Welsh Peatland Invertebrate Survey (Howe 2004). A small cryptic species which is very dependent on wet conditions and usually flightless, so vulnerable to local extinction as a result of drought, drainage and loss of Sphagnum. C. waltli may be under-recorded in the west and the uplands of Britain (B. Nau, pers. comm.), although all records to date are from lowland sites. It is often associated with Hebrus spp (Southwood & Leston 1959), which have been recorded in 143 hectads throughout much of GB, including a number of sites in the Welsh, English and Scottish uplands. Although C. waltli may be present in upland Sphagnum bog this is, nevertheless, a habitat that is under threat from air pollution, forestry, agriculture and climate change. A high percentage of monitored invertebrate species in upland habitats have declined (State of Nature report). The sites where it does occur are well established and stable, supporting other rare species. It appears to be absent from many apparently suitable sites (P.Kirby, pers. comm.). On the basis of known AOO (<500 km2), restricted number of locations and the vulnerability of the habitat IUCN criteria are satisfied for a status of VU, but in view of probable under-recording a precautionary status of NT, rather than DD, is considered appropriate.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Cryptostemma waltli",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "criteria_description": "B2a",
+            "comments": "Since 1990 recorded from 5 sites, 2 in Anglesey, 1 in Gloucestershire, 1 in Cambridgeshire (P. Kirby 1996) and 1 in Roxburghshire (from moss by Northhouse Burn, S. Hewitt 2002). The species was recorded from only 2 sites in Wales (in Cardiganshire and Pembrokeshire, both coastal) in the late 1980's during the Welsh Peatland Invertebrate Survey (Howe 2004). A small cryptic species which is very dependent on wet conditions and usually flightless, so vulnerable to local extinction as a result of drought, drainage and loss of Sphagnum. C. waltli may be under-recorded in the west and the uplands of Britain (B. Nau, pers. comm.), although all records to date are from lowland sites. It is often associated with Hebrus spp (Southwood & Leston 1959), which have been recorded in 143 hectads throughout much of GB, including a number of sites in the Welsh, English and Scottish uplands. Although C. waltli may be present in upland Sphagnum bog this is, nevertheless, a habitat that is under threat from air pollution, forestry, agriculture and climate change. A high percentage of monitored invertebrate species in upland habitats have declined (State of Nature report). The sites where it does occur are well established and stable, supporting other rare species. It appears to be absent from many apparently suitable sites (P.Kirby, pers. comm.). On the basis of known AOO (<500 km2), restricted number of locations and the vulnerability of the habitat IUCN criteria are satisfied for a status of VU, but in view of probable under-recording a precautionary status of NT, rather than DD, is considered appropriate.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

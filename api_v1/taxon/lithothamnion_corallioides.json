@@ -1,0 +1,100 @@
+{
+    "category": [
+        "Non-vascular plant"
+    ],
+    "taxon_group": [
+        "alga"
+    ],
+    "recommended_taxon_name": [
+        "Lithothamnion corallioides"
+    ],
+    "recommended_authority": [
+        "(P.L.Crouan & H.M.Crouan) P.L.Crouan & H.M.Crouan, 1867"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021059581"
+    ],
+    "designations": [
+        {
+            "designated_name": "Lithothamnium coralloides",
+            "common_name": "Maerl",
+            "source": "Habitats Directive",
+            "source_description": "In 1992 the European Community adopted Council Directive 92/43/EEC on the Conservation of natural habitats and of wild fauna and flora (EC Habitats Directive). This is the means by which the Community meets its obligations as a signatory of the Convention on the Conservation of European Wildlife and Natural Habitats (Bern Convention). The provisions of the Directive requires Member States to introduce a range of measures including the protection of species listed in the Annexes; to undertake surveillance of habitats and species and produce a report every six years on the implementation of the Directive. The 169 habitats listed in Annex I of the Directive and the 623 species listed in Annex II, are to be protected by means of a network of sites. Each Member State is required to prepare and propose a national list of sites, which will be evaluated in order to form a European network of Sites of Community Importance (SCIs). These will eventually be designated by Member States as Special Areas of Conservation (SACs), and along with Special Protection Areas (SPAs) classified under the EC Birds Directive, form a network of protected areas known as Natura 2000.",
+            "url_source": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:01992L0043-20070101&from=EN",
+            "date_designated": "1992-01-01",
+            "reporting_category": "Habitats Directive",
+            "designation": "Annex 5",
+            "designation_abbreviation": "HabDir-A5",
+            "designation_description": "Animal and plant species of Community interest whose taking in the wild and exploitation may be subject to management measures.",
+            "reporting_category_sort_order": "D"
+        },
+        {
+            "designated_name": "Lithothamnion corallioides",
+            "common_name": "Maerl",
+            "source": "Rare marine benthic flora and fauna in Great Britain- the development of criteria for assessment",
+            "source_description": "Sanderson, W G.  JNCC Report, No. 240.  Published by JNCC, 1996.  Provisional list of rare and scarce marine species.  [not red list]",
+            "date_designated": "1996-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally scarce marine species",
+            "designation_abbreviation": "Marine-NS",
+            "designation_description": "Species which occur in nine to 55 10km X 10km grid squares containing sea (or water of marine saline influence) within the three mile territorial limit.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Lithothamnion corallioides",
+            "source": "Natural Environment and Rural Communities Act 2006 - Species of Principal Importance in England (section 41)",
+            "source_description": "Sections 41 (England) of the Natural Environment and Rural Communities Act 2006 require the listing of species of principal importance for the purpose of conserving biodiversity and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "date_designated": "2008-11-01",
+            "reporting_category": "Biodiversity Lists - England",
+            "designation": "England NERC S.41",
+            "designation_abbreviation": "England_NERC_S.41",
+            "designation_description": "Species “of principal importance for the purpose of conserving biodiversity” covered under section 41 (England) of the NERC Act (2006) and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "reporting_category_sort_order": "Hb"
+        },
+        {
+            "designated_name": "Lithothamnion corallinoides",
+            "source": "Environment (Wales) Act 2016 - Species of Principal Importance in Wales (section 7)",
+            "source_description": "Section 7 of the Environment (Wales) Act 2016 requires the publication of a list of biodiversity of principle importance, to support the biodiversity duty on public bodies under section 6 of the Act.",
+            "url_source": "http://www.biodiversitywales.org.uk/Environment-Wales-Bill",
+            "date_designated": "2016-05-21",
+            "reporting_category": "Biodiversity Lists - Wales",
+            "designation": "Env (Wales) Act S7",
+            "designation_abbreviation": "Env (Wales) Act S7",
+            "designation_description": "Species of principal importance for the purpose of conserving biodiversity covered under Section 7 of the Environment (Wales) Act 2016 and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "reporting_category_sort_order": "Hd"
+        },
+        {
+            "designated_name": "Lithothamnion corallioides",
+            "common_name": "Coral Ma�rl",
+            "source": "UK list of Priority Habitats and Species",
+            "source_description": "Starting in 2005, the old UK BAP priorities were reviewed and a new list called the UK List of Priority Species and Habitats was published in 2007 after adoption by the Governments of all four UK administrations. The species and habitats on this list help guide conservation actions being taken by the four countries in the UK as part of the UK contribution to the Convention on Biological Diversity.",
+            "date_designated": "2007-08-28",
+            "reporting_category": "Biodiversity Action Plan UK list of priority species",
+            "designation": "Priority Species",
+            "designation_abbreviation": "BAP-2007",
+            "designation_description": "The UK List of Priority Species and Habitats contains 1150 species and 65 habitats that have been listed as priorities for conservation action under the UK Biodiversity Action Plan (UK BAP).",
+            "criteria_description": "Threat,Resp_threat,Other",
+            "comments": "not on former UK BAP list",
+            "reporting_category_sort_order": "Ha"
+        },
+        {
+            "designated_name": "Lithothamnion corallioides",
+            "common_name": "Coral Maërl",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Avoid negative impacts; Criterion: M1 - on UKBAP list",
+            "comments": "Marine Species. Added to UK BAP list in 2007. Criteria: Threat, International responsibility/ threat, Other",
+            "reporting_category_sort_order": "Hc"
+        }
+    ]
+}
+

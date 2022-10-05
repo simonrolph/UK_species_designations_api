@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Oxycera leonina"
+    ],
+    "recommended_authority": [
+        "(Panzer, [1798])"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007812"
+    ],
+    "designations": [
+        {
+            "designated_name": "Oxycera leonina",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Oxycera leonina has been recorded from only two pairs of closely adjacent sites: East Walton Common and Lynford Meadows, Norfolk (VC28), and Gromford Meadow SSSI and Farnham, which are in the same river catchment, Suffolk (VC25). The population at East Walton Common is stable and the fly has been recorded here over several years since its discovery in 1989, the first British occurrence. Adults have been found on tree foliage, mainly that of alder Alnus and sallow Salix, by small streams, a ditch and a sluggish river. Three sites are at the junction of wet peat and dry sand and this may be significant for the larvae, which are probably amphibious or even terrestrial, and may develop on wet or damp shaded peat (Stubbs, 1998).",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Oxycera leonina",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "comments": "Oxycera leonina has been recorded from only two pairs of closely adjacent sites: East Walton Common and Lynford Meadows, Norfolk (VC28), and Gromford Meadow SSSI and Farnham, which are in the same river catchment, Suffolk (VC25). The population at East Walton Common is stable and the fly has been recorded here over several years since its discovery in 1989, the first British occurrence. Adults have been found on tree foliage, mainly that of alder Alnus and sallow Salix, by small streams, a ditch and a sluggish river. Three sites are at the junction of wet peat and dry sand and this may be significant for the larvae, which are probably amphibious or even terrestrial, and may develop on wet or damp shaded peat (Stubbs, 1998).",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

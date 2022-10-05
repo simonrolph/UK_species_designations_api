@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Cymindis axillaris"
+    ],
+    "recommended_authority": [
+        "(Fabricius, 1794)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007484"
+    ],
+    "designations": [
+        {
+            "designated_name": "Cymindis axillaris",
+            "source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)",
+            "source_description": "This report was commissioned to update the national status of ground beetles using IUCN methodology for assessing threat. It covers all species of Carabidae in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6270849377107968?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Cymindis axillaris",
+            "source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)",
+            "source_description": "This report was commissioned to update the national status of ground beetles using IUCN methodology for assessing threat. It covers all species of Carabidae in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6270849377107968?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "criteria_description": "B2b(ii)",
+            "comments": "Recorded from only 11 hectads in the post-1980 period, compared to 23 in the earlier period. There is clear evidence of a decline in AOO (though seemingly without a corresponding decrease in EOO). The decline in AOO seems to be continuing into the modern period since the Ground Beetle Recording Scheme database currently only holds post-2000 records for Landguard Point and two localities on the Isle of Portland. It is near to the 'Number of locations' threshold for Vulnerable (B2a) and thus Near Threatened.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

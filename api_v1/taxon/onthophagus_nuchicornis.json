@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Onthophagus nuchicornis"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1758)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011525"
+    ],
+    "designations": [
+        {
+            "designated_name": "Onthophagus nuchicornis",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Onthophagus nuchicornis",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "B2ab(ii,iv,v)",
+            "comments": "This species has been the subject of intensive target surveys at its North Devon, Breckland and Welsh sites by Darren Mann in the last ten years. The hectad counts over the last thirty-two year date period, appear to indicate that the population has remained more-or-less static. However, due to the survey work carried out by Darren Mann, we can detect an evident continuing decline within the last 15 years; a decline which is not obvious from the hectad counts. Mann constructed a graph of survey time spent vs specimens found during recent targeted surveys and found that in recent consecutive years, the graph shows that survey time has increased whilst the number of specimens found has decreased. Of the nine locations from which this species has been recorded since 2000, it has disappeared from two since 2005. These are Pennard/Penmaen Burrows, Glamorgan and Foxhole Heath in West Suffolk. At Crymlyn Burrows in Glamorgan the species has apparently been absent since 1996. In the Suffolk Brecks of East Anglia, where the species was, until 2005 relatively easily found at a handful of sites, a total of some 60 hours of survey in peak season in 2015 located just one solitary female. Within its now restricted range it can only be said to occur with certainty at eight sites: Morfa Harlech, Northam Burrows, Kenfig Burrows, Whiteford Burrows, Merthyr Mawr, Camber Sands, Greatstone and Lakenheath. Decline is undoubtedly continuing in England and Wales. Plausible threats include cessation of grazing, the use of endectocides and changes in land use and development.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

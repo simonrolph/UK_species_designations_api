@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Aloconota planifrons"
+    ],
+    "recommended_authority": [
+        "(Waterhouse, G.R., 1864)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000023781"
+    ],
+    "designations": [
+        {
+            "designated_name": "Aloconota planifrons",
+            "source": "A review of the scarce and threatened beetles of Great Britain Part 2 (Hyman, P.S. revised and updated by M.S. Parsons.)",
+            "source_description": "Hyman, P S revised and updated by Parsons, M S.  UK nature conservation, No. 12.  Published by JNCC, 1994.  Along with Part 1, updates relevant information in the RDB Insects (1987) using the old IUCN categories and criteria (pre 1994).",
+            "url_source": "http://jncc.defra.gov.uk/PDF/Pub92_Review_of_Scarce_&_Threatened_Coleoptera_of_Great_Britain_Part-1_(2)_PRINT.pdf",
+            "date_designated": "1994-01-01",
+            "reporting_category": "Red Listing based on pre 1994 IUCN guidelines",
+            "designation": "IUCN (pre 1994) - Insufficiently known",
+            "designation_abbreviation": "RedList_GB_Pre94-Insu",
+            "designation_description": "Taxa that are suspected but not definitely known to belong to any of the above categories (i.e. Endangered, Vulnerable, Rare), because of the lack of information. Superseded by new IUCN categories in 1994, so no longer in use.",
+            "iucn_version": "pre 1994",
+            "reporting_category_sort_order": "Fa"
+        },
+        {
+            "designated_name": "Aloconota planifrons",
+            "common_name": "a rove beetle",
+            "source": "Northern Ireland Priority Species List, March 2010",
+            "source_description": "Northern Ireland Priority Species List - March 2010. A list of threatened species requiring conservation action in Northern Ireland. Selection criteria- 1. Listed as a UK Priority Species. 2. Rapid decline (2% per year). 3. Decline (1% year) with Northern Ireland being a stronghold (S) consisting of either >50% Irish population or >20% UK population/range or with the Irish or UK population restricted (R) to Northern Ireland or with the Irish or UK population restricted (R) to Northern Ireland i.e. Decline + S or R. 4. Rare (confined to a small population of one or two sites in Northern Ireland) with Northern Ireland being a stronghold (S) consisting of either >50% Irish population or >20% UK population/range or with the Irish or UK population restricted (R) to Northern Ireland i.e. Rare + S or R. 5. At least 20% of international population of species or well-recognised subspecies occurring in Northern Ireland. 6. Irish Red Data Book (RDB) species classed as critically endangered (CR), endangered (EN) or vulnerable (VU). 7. Red-listed species in either Birds of Conservation Concern in Ireland (BOCCI) or the UK Birds of Conservation Concern (UK BOCC) lists.",
+            "date_designated": "2010-03-01",
+            "reporting_category": "Biodiversity Lists - Northern Ireland",
+            "designation": "Priority Species (Northern Ireland)",
+            "designation_abbreviation": "NI_Priority",
+            "designation_description": "The Northern Ireland Priority List of threatened species requiring conservation action in Northern Ireland. Criteria have been developed to ensure that Priority Species have been chosen using a scientific basis (See http-//www.habitas.org.uk/priority/criteria.html). The list is designed to assist those involved in the conservation of biodiversity by guiding decisions on where to target action and invest resources.",
+            "criteria_description": "4",
+            "reporting_category_sort_order": "He"
+        }
+    ]
+}
+

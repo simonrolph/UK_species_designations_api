@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - moth"
+    ],
+    "recommended_taxon_name": [
+        "Scrobipalpula diffluella"
+    ],
+    "recommended_authority": [
+        "(Frey, 1870)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000504156"
+    ],
+    "designations": [
+        {
+            "designated_name": "Scrobipalpula psilella",
+            "source": "A review of the scarce and threatened Ethmiidae, Gelechiidae and Stathmopodidae moths of Great Britain (Parsons, M.S.)",
+            "source_description": "Parsons, M S.  UK nature conservation series, No. 16.  Published by JNCC, 1995.  Along with the review of pyralid moths (1993), updates the provisional review of Microlepidoptera (1984) using the old IUCN categories and criteria (pre 1994).",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Pub95_Review_of_scarce_&_threatened_ethmiine_PRINT.pdf",
+            "date_designated": "1995-01-01",
+            "reporting_category": "Red Listing based on pre 1994 IUCN guidelines",
+            "designation": "IUCN (pre 1994) - Indeterminate",
+            "designation_abbreviation": "RedList_GB_Pre94-Inde",
+            "designation_description": "Taxa not seen since 1970 but require further survey before they can be declared extinctknown to be Extinct, Endangered, Vulnerable or Rare, but where there is not enough information to say which of these categories is appropriate. Superseded by new IUCN categories in 1994, so no longer in use.",
+            "iucn_version": "pre 1994",
+            "reporting_category_sort_order": "Fa"
+        }
+    ]
+}
+

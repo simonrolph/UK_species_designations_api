@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Phaonia scutellata"
+    ],
+    "recommended_authority": [
+        "(Zetterstedt, 1845)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000030816"
+    ],
+    "designations": [
+        {
+            "designated_name": "Phaonia scutellata",
+            "source": "A Provisional Assessment of the Status of Calypterate flies in the UK",
+            "source_description": "This report was originally commissioned to update the threat status of some calypterate fly families. It is based on text originally submitted in 2005-12, but subsequently updated a number of times, most recently in late 2016. It provides a valuable repository of information on many species and should act as  a springboard to further survey and work",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5145257026519040?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Extinct",
+            "designation_abbreviation": "RedList_GB_post2001-EX",
+            "designation_description": "A taxon is Extinct in Great Britain when there is no reasonable doubt that the last individual in Great Britain has died. A taxon is presumed extinct when exhaustive surveys in known and/or expected habitat, at appropriate times (diurnal, seasonal, annual), throughout its historical range have failed to record an individual. Surveys should be over a time scale appropriate to the taxon's life cycle and life form.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

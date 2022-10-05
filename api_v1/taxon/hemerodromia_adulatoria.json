@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Hemerodromia adulatoria"
+    ],
+    "recommended_authority": [
+        "Collin, 1927"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000012534"
+    ],
+    "designations": [
+        {
+            "designated_name": "Hemerodromia adulatoria Collin",
+            "source": "Falk, S.J. & Crossley, R. 2005.  A review of the scarce and threatened flies of Great Britain. Part 3- Empidoidea.  Species Status 3- 1-136.  Joint Nature Conservation Committee, Peterborough.",
+            "source_description": "The first account of threatened British Diptera was included in Shirt (1987). This listed 827 Diptera, 270 as Endangered, 226 as Vulnerable, 328 as Rare and 3 as Appendix (extinct). Data sheets were included for 82 species (35 Endangered, and 47 Vulnerable), of which two were Empidoidea (Syneches muscarius (F.) and Poecilobothrus ducalis (Loew)). This was followed by the publication of A review of the scarce and threatened flies of Great Britain (Part 1) (Falk 1991). This presented species accounts of threatened species from the better-known families of British Diptera, together with a list of all British flies provisionally assigned to Red Data Book and Nationally Notable (now termed Nationally Scarce) categories.This present volume deals with the Superfamily Empidoidea as defined by Chvála (1983), which total 673 British species in the latest Diptera check list (Chandler 1998a), now increased to 677 species (as of March 2003; Stubbs (2003)). The Empidoidea comprise five families (Atelestidae, Dolichopodidae, Empididae, Hybotidae, and Microphoridae), the species included representing approximately 10% of our Diptera fauna. The remaining families of Diptera outside of the Empidoidea that were not dealt with by Falk (1991) are reviewed in three further parts within the JNCC Species Status Review series.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/pub05_speciesstatus_empidoideav3_v44web.pdf",
+            "date_designated": "2005-05-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Scarce. Excludes Red Listed taxa",
+            "designation_abbreviation": "NS-excludes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Excludes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

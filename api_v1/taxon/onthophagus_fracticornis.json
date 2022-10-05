@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Onthophagus fracticornis"
+    ],
+    "recommended_authority": [
+        "(Preyssler, 1790)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011524"
+    ],
+    "designations": [
+        {
+            "designated_name": "Onthophagus fracticornis",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Onthophagus fracticornis",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "D2",
+            "comments": "The species may be locally extinct in Wales and Cornwall. For example, at Castell Coch (Glamorgan), the site is no longer grazed – DJMann recently surveyed Garth Hill, a suitable site nearby which is grazed and failed to find the species there. The regional status of this species in England may look healthy, until it is realised that four of the nine post-2000 Somerset sites (Wavering Down, Old Quarry Farm, Crook Peak and Compton Hill) are all one location and relate to the same hill formation. The grazing in this National Trust location is currently unintentionally sympathetic to the species requirements, but should there be any change in the grazing regime or an introduction of avermectins, the species could be lost from all four sub-locations within the time-frame of a single season – a very plausible threat to the future survival of the region's population. The Wavering Down colony is the strongest (pers obs) and the other 'satellite' populations are likely to depend on the health of this core population. DJMann surveyed 16 'sites' in suitable habitat for this species over a 5-year period (2009 – 2013) and only found fracticornis at 6 of them; further evidence that even in suitable habitat, the species is highly localised and restricted.  Consequently, the species is very vulnerable in its Somerset stronghold. To summarise, there is no evidence of recent decline, although this is highly likely, particularly in Wales, there are only 5 post-1990 locations (each centred around a hill formation), the combined grazed pasture for all locations (true AoO) is probably less than 20 square kilometres although based on the prescriptive IUCN tetrad count, the AoO would be 36 square kilometres (9 tetrads) and there are very real threats to the population such that it could be wiped out  by a few changes in grazing regimes or the application of endectocides on these few hillsides. A clear cut designation of IUCN Category VU D2 is advised.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

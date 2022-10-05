@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Fish"
+    ],
+    "taxon_group": [
+        "bony fish (Actinopterygii)"
+    ],
+    "recommended_taxon_name": [
+        "Pomatoschistus minutus"
+    ],
+    "recommended_authority": [
+        "(Pallas, 1770)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000188635"
+    ],
+    "designations": [
+        {
+            "designated_name": "Pomatoschistus minutus",
+            "source": "Bern Convention",
+            "source_description": "The Convention on the Conservation of European Wildlife and Natural Habitats (the Bern Convention) was adopted in Bern, Switzerland in 1979, and came into force in 1982. The principal aims of the Convention are to ensure conservation and protection of wild plant and animal species and their natural habitats (listed in Appendices I and II of the Convention), to increase cooperation between contracting parties, and to ensure the protection of certain fauna species (listed in Appendix 3) imposing regulations on any exploitation. To this end the Convention imposes legal obligations on contracting parties, protecting over 500 wild plant species and more than 1000 wild animal species.",
+            "date_designated": "1982-01-01",
+            "reporting_category": "Bern Convention",
+            "designation": "Appendix 3",
+            "designation_abbreviation": "Bern-A3",
+            "designation_description": "Special protection through 'appropriate and necessary legislative and administrative measures', of the listed wild fauna species.",
+            "comments": "natural range includes GB",
+            "reporting_category_sort_order": "A"
+        }
+    ]
+}
+

@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "spider (Araneae)"
+    ],
+    "recommended_taxon_name": [
+        "Gongylidiellum murcidum"
+    ],
+    "recommended_authority": [
+        "Simon, 1884"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000009075"
+    ],
+    "designations": [
+        {
+            "designated_name": "Gongylidiellum murcidum",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Gongylidiellum murcidum",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "B2ab(ii,iv)",
+            "comments": "This wetland species has been recorded at 10 locations since 1993, most recently in 2011. It has exhibited a substantial decline in AOO. There appears to have been a contraction in range, with no records from Scotland since 1988. It is normally found in wet moss and litter in fens and wetwoodland where the main threats are drainage of fens and loss of wet, deciduous woodland through drainage or removal of trees. Threats: The most serious threat is from the drainage of fens and wet woodland.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

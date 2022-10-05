@@ -1,0 +1,51 @@
+{
+    "category": [
+        "Mammal"
+    ],
+    "taxon_group": [
+        "terrestrial mammal"
+    ],
+    "recommended_taxon_name": [
+        "Castor fiber"
+    ],
+    "recommended_authority": [
+        "Linnaeus, 1758"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000005107"
+    ],
+    "designations": [
+        {
+            "designated_name": "Castor fiber",
+            "source": "Bern Convention",
+            "source_description": "The Convention on the Conservation of European Wildlife and Natural Habitats (the Bern Convention) was adopted in Bern, Switzerland in 1979, and came into force in 1982. The principal aims of the Convention are to ensure conservation and protection of wild plant and animal species and their natural habitats (listed in Appendices I and II of the Convention), to increase cooperation between contracting parties, and to ensure the protection of certain fauna species (listed in Appendix 3) imposing regulations on any exploitation. To this end the Convention imposes legal obligations on contracting parties, protecting over 500 wild plant species and more than 1000 wild animal species.",
+            "date_designated": "1982-01-01",
+            "reporting_category": "Bern Convention",
+            "designation": "Appendix 3",
+            "designation_abbreviation": "Bern-A3",
+            "designation_description": "Special protection through 'appropriate and necessary legislative and administrative measures', of the listed wild fauna species.",
+            "comments": "extinct",
+            "reporting_category_sort_order": "A"
+        },
+        {
+            "designated_name": "Castor fiber",
+            "common_name": "Eurasian Beaver",
+            "source": "A Review of the Population and Conservation Status of British Mammals: Technical Summary (June 2018)",
+            "source_description": "The first comprehensive review of the status of British mammal populations for over 20 years. The population size, range size, temporal trends and future prospects of Britain’s 58 terrestrial mammals are assessed. Island races and feral mammals are excluded from the main review. The objective of the review was to produce the most accurate assessment possible of population size, geographical range, and conservation trends since 1995. Based on IUCN Red List criteria and guidelines.",
+            "url_source": "http://publications.naturalengland.org.uk/ & http:",
+            "date_designated": "2018-06-13",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Endangered",
+            "designation_abbreviation": "RedList_GB_post2001-EN",
+            "designation_description": "A taxon is Endangered when it is not Critically endangered but is facing a very high risk of extinction in the wild in the near future.",
+            "iucn_version": "2001",
+            "criteria_description": "D1",
+            "comments": "England [NE] Scotland [NE] Wales [NE]. Species was",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

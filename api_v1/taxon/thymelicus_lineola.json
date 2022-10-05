@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - butterfly"
+    ],
+    "recommended_taxon_name": [
+        "Thymelicus lineola"
+    ],
+    "recommended_authority": [
+        "(Ochsenheimer, 1808)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000504514"
+    ],
+    "designations": [
+        {
+            "designated_name": "Thymelicus lineola",
+            "common_name": "Essex Skipper",
+            "source": "The Butterfly Red List for Great Britain, 2010",
+            "source_description": "Fox, R., Warren, M.S., and Brereton, T.M. (2010). A new Red List of British Butterflies, Species Status 12; 1-32. Joint Nature Conservation Committee, Peterborough.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Web_Butterfly_Red_List_SpeciesStatNo12FINAL.pdf",
+            "date_designated": "2010-01-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

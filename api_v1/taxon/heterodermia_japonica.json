@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Non-vascular plant"
+    ],
+    "taxon_group": [
+        "lichen"
+    ],
+    "recommended_taxon_name": [
+        "Heterodermia japonica"
+    ],
+    "recommended_authority": [
+        "(M. Satô) Swinscow & Krog"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001484073"
+    ],
+    "designations": [
+        {
+            "designated_name": "Heterodermia japonica",
+            "common_name": "Coralloid rosette lichen",
+            "source": "Wildlife and Countryside Act Schedules 1, 5 and 8 (protected birds, animals and plants)",
+            "source_description": "Protected Birds, Animals and Plants are listed in Schedules 1, 5 and 8 respectively of the Wildlife and Countryside Act.Schedule 1. The Act makes it an offence (with exception to species listed in Schedule 2) to intentionally kill, injure or take any wild bird or their eggs or nests. Special penalties are available for offences related to birds listed on Schedule 1, for which there are additional offences of disturbing these birds at their nests, or their dependent young. Schedule 5. The Act makes it an offence (subject to exceptions) to intentionally kill, injure, or take, possess, or trade in any wild animal listed in Schedule 5, and prohibits interference with places used for shelter or protection, or intentionally disturbing animals occupying such places. The Act also prohibits certain methods of killing, injuring, or taking wild animals.Schedule 8. The Act makes it an offence (subject to exceptions) to pick, uproot, trade in, or possess (for the purposes of trade) any wild plant listed in Schedule 8, and prohibits the unauthorised intentional uprooting of such plants.There is a statutory five-yearly review of Schedules 5 and 8 (protected wild animals and plants respectively).",
+            "url_source": "http://www.legislation.gov.uk/all?title=Wildlife%20and%20Countryside%20Act%201981",
+            "date_designated": "1992-01-01",
+            "reporting_category": "Wildlife and Countryside Act 1981",
+            "designation": "Schedule 8",
+            "designation_abbreviation": "WACA-Sch8",
+            "designation_description": "Plants which are protected from intentional picking, uprooting or destruction (Section 13 1a); selling, offering for sale, possessing or transporting for the purpose of sale (live or dead, part or derivative) (Section 13 2a); advertising (any of these) for buying or selling (Section 13 2b).",
+            "reporting_category_sort_order": "I"
+        }
+    ]
+}
+

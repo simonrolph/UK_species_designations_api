@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Agathomyia cinerea"
+    ],
+    "recommended_authority": [
+        "(Zetterstedt, 1852)"
+    ],
+    "recommended_qualifier": [
+        "misident."
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000141263"
+    ],
+    "designations": [
+        {
+            "designated_name": "Agathomyia cinerea",
+            "source": "A review of the status of the Lonchopteridae, Platypezidae and Opetiidae flies of Great Britain (NECR246)",
+            "source_description": "This report was commissioned to update the national status of flies using IUCN methodology for assessment threat. It includes Lonchopteridae (Pointed-wing flies) and Platypezidae (Flat-footed flies) species and a single species of Opetiidae in Great Britain identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5490367884951552",
+            "date_designated": "2018-01-28",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Not Evaluated",
+            "designation_abbreviation": "RedList_GB_post2001-NE",
+            "designation_description": "A taxon is Not Evaluated when it is has not yet been evaluated against the criteria",
+            "iucn_version": "2001",
+            "comments": "A recent addition to the British list, first found in Surrey in 1992 and since recorded from 21 counties north to Nottinghamshire (by 2007) and west to Herefordshire (by 1998); in 2012 it was found in Anglesey and in 2015 in South Yorkshire. Possibly a recent arrival in this country but this cannot be confirmed, and is Not Evaluated. It has recently been reared in the Netherlands from the bracket fungus Ischnoderma benzoinum on Pine stumps (Reemer 2015).",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Agathomyia cinerea",
+            "source": "A review of the status of the Lonchopteridae, Platypezidae and Opetiidae flies of Great Britain (NECR246)",
+            "source_description": "This report was commissioned to update the national status of flies using IUCN methodology for assessment threat. It includes Lonchopteridae (Pointed-wing flies) and Platypezidae (Flat-footed flies) species and a single species of Opetiidae in Great Britain identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5490367884951552",
+            "date_designated": "2018-01-28",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "comments": "A recent addition to the British list, first found in Surrey in 1992 and since recorded from 21 counties north to Nottinghamshire (by 2007) and west to Herefordshire (by 1998); in 2012 it was found in Anglesey and in 2015 in South Yorkshire. Possibly a recent arrival in this country but this cannot be confirmed, and is Not Evaluated. It has recently been reared in the Netherlands from the bracket fungus Ischnoderma benzoinum on Pine stumps (Reemer 2015).",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

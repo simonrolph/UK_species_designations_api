@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Irania gutturalis"
+    ],
+    "recommended_authority": [
+        "(Guérin-Méneville, 1843)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000530412"
+    ],
+    "designations": [
+        {
+            "designated_name": "Irania gutturalis",
+            "common_name": "White-Throated Robin",
+            "source": "Bern Convention",
+            "source_description": "The Convention on the Conservation of European Wildlife and Natural Habitats (the Bern Convention) was adopted in Bern, Switzerland in 1979, and came into force in 1982. The principal aims of the Convention are to ensure conservation and protection of wild plant and animal species and their natural habitats (listed in Appendices I and II of the Convention), to increase cooperation between contracting parties, and to ensure the protection of certain fauna species (listed in Appendix 3) imposing regulations on any exploitation. To this end the Convention imposes legal obligations on contracting parties, protecting over 500 wild plant species and more than 1000 wild animal species.",
+            "date_designated": "1988-01-01",
+            "reporting_category": "Bern Convention",
+            "designation": "Appendix 2",
+            "designation_abbreviation": "Bern-A2",
+            "designation_description": "Special protection (`appropriate and necessary legislative and administrative measures`) for the animal taxa listed, includingall forms of deliberate capture and keeping and deliberate killing; the deliberate damage to or destruction of breeding or resting sites; the deliberate disturbance of wild fauna, particularly during the period of breeding, rearing and hibernation, insofar as disturbance would be significant in relation to the objectives of this Convention; the deliberate destruction or taking of eggs from the wild or keeping these eggs even if empty; the possession of and internal trade in these animals, alive or dead, including stuffed animals and any readily recognisable part or derivative thereof, where this would contribute to the effectiveness of the provisions of this article.",
+            "reporting_category_sort_order": "A"
+        }
+    ]
+}
+

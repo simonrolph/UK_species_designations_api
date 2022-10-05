@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Sigara (Subsigara) longipalis"
+    ],
+    "recommended_authority": [
+        "(J. Sahlberg, 1878)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020309837"
+    ],
+    "designations": [
+        {
+            "designated_name": "Sigara longipalis",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Not Evaluated",
+            "designation_abbreviation": "RedList_GB_post2001-NE",
+            "designation_description": "A taxon is Not Evaluated when it is has not yet been evaluated against the criteria",
+            "iucn_version": "2001",
+            "comments": "First recorded from Upton Great Broad in 2006. Has not been seen since (R. Chadd, pers. comm). B. Nau (pers. comm) searched Upton Great Broad for S. longipalis in 2013 -2014 but did not find it. An occasional immigrant, with no evidence of an established breeding population.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

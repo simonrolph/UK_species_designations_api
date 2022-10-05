@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Vascular plant"
+    ],
+    "taxon_group": [
+        "flowering plant"
+    ],
+    "recommended_taxon_name": [
+        "Taraxacum agg."
+    ],
+    "recommended_authority": [
+        null
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0100005722"
+    ],
+    "designations": [
+        {
+            "designated_name": "Taraxacum agg.",
+            "source": "A Vascular Plant Red List for England",
+            "source_description": "A vascular plant Red List present for the first time the current state of England's flora measuredagainst standardised IUCN criteria. P.A. Stroh et al. 2014.",
+            "url_source": "http://www.bsbi.org.uk/England_Red_List_1.pdf",
+            "date_designated": "2014-11-18",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_ENG_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

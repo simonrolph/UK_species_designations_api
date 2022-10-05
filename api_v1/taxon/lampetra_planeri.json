@@ -1,0 +1,93 @@
+{
+    "category": [
+        "Fish"
+    ],
+    "taxon_group": [
+        "jawless fish (Agnatha)"
+    ],
+    "recommended_taxon_name": [
+        "Lampetra planeri"
+    ],
+    "recommended_authority": [
+        "(Bloch, 1784)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000544685"
+    ],
+    "designations": [
+        {
+            "designated_name": "Lampetra planeri",
+            "source": "Bern Convention",
+            "source_description": "The Convention on the Conservation of European Wildlife and Natural Habitats (the Bern Convention) was adopted in Bern, Switzerland in 1979, and came into force in 1982. The principal aims of the Convention are to ensure conservation and protection of wild plant and animal species and their natural habitats (listed in Appendices I and II of the Convention), to increase cooperation between contracting parties, and to ensure the protection of certain fauna species (listed in Appendix 3) imposing regulations on any exploitation. To this end the Convention imposes legal obligations on contracting parties, protecting over 500 wild plant species and more than 1000 wild animal species.",
+            "date_designated": "1982-01-01",
+            "reporting_category": "Bern Convention",
+            "designation": "Appendix 3",
+            "designation_abbreviation": "Bern-A3",
+            "designation_description": "Special protection through 'appropriate and necessary legislative and administrative measures', of the listed wild fauna species.",
+            "comments": "natural range includes GB",
+            "reporting_category_sort_order": "A"
+        },
+        {
+            "designated_name": "Lampetra planeri",
+            "common_name": "Brook Lamprey",
+            "source": "Habitats Directive",
+            "source_description": "In 1992 the European Community adopted Council Directive 92/43/EEC on the Conservation of natural habitats and of wild fauna and flora (EC Habitats Directive). This is the means by which the Community meets its obligations as a signatory of the Convention on the Conservation of European Wildlife and Natural Habitats (Bern Convention). The provisions of the Directive requires Member States to introduce a range of measures including the protection of species listed in the Annexes; to undertake surveillance of habitats and species and produce a report every six years on the implementation of the Directive. The 169 habitats listed in Annex I of the Directive and the 623 species listed in Annex II, are to be protected by means of a network of sites. Each Member State is required to prepare and propose a national list of sites, which will be evaluated in order to form a European network of Sites of Community Importance (SCIs). These will eventually be designated by Member States as Special Areas of Conservation (SACs), and along with Special Protection Areas (SPAs) classified under the EC Birds Directive, form a network of protected areas known as Natura 2000.",
+            "url_source": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:01992L0043-20070101&from=EN",
+            "date_designated": "1992-01-01",
+            "reporting_category": "Habitats Directive",
+            "designation": "Annex 2 - non-priority species",
+            "designation_abbreviation": "HabDir-A2*",
+            "designation_description": "Animal and plant species of Community interest (i.e. endangered, vulnerable, rare or endemic in the European Community) whose conservation requires the designation of special areas of conservation. Note that the contents of this annex have been updated in April 2003 following the Treaty of Accession.",
+            "reporting_category_sort_order": "D"
+        },
+        {
+            "designated_name": "Lampetra planeri",
+            "common_name": "Brook Lamprey",
+            "source": "The IUCN Red List of Threatened Species (2010)",
+            "source_description": "The IUCN Red List of Threatened Species provides taxonomic, conservation status and distribution information on taxa that have been globally evaluated using the IUCN Red List Categories and Criteria. This system is designed to determine the relative risk of extinction, and the main purpose of the IUCN Red List is to catalogue and highlight those taxa that are facing a higher risk of global extinction (i.e. those listed as Critically Endangered, Endangered and Vulnerable). The IUCN Red List also includes information on taxa that are categorized as Extinct or Extinct in the Wild; on taxa that cannot be evaluated because of insufficient information (i.e. are Data Deficient); and on taxa that are either close to meeting the threatened thresholds or that would be threatened were it not for an ongoing taxon-specific conservation programme (i.e. are Near Threatened).",
+            "date_designated": "2008-01-01",
+            "reporting_category": "Global Red list status",
+            "designation": "Lower risk - least concern",
+            "designation_abbreviation": "RedList_Global_post2001_LC",
+            "designation_description": "A taxon is Least Concern when it has been evaluated against the criteria and does not qualify for Critically Endangered, Endangered, Vulnerable or Near Threatened. Widespread and abundant taxa are included in this category.",
+            "iucn_version": "2001",
+            "criteria_description": "ver 2001",
+            "comments": "Population trend= 'unknown'",
+            "reporting_category_sort_order": "F"
+        },
+        {
+            "designated_name": "Lampetra planeri",
+            "common_name": "Brook Lamprey",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Avoid negative impacts; Criterion: M1 - on UKBAP list",
+            "comments": "Marine Species.",
+            "reporting_category_sort_order": "Hc"
+        },
+        {
+            "designated_name": "Lampetra planeri",
+            "common_name": "Brook Lamprey",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Avoid negative impacts; Criterion: S2 - Internatnl. Obligation",
+            "comments": "Terrestrial/Freshwater Species.",
+            "reporting_category_sort_order": "Hc"
+        }
+    ]
+}
+

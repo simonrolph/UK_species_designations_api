@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Carpelimus halophilus"
+    ],
+    "recommended_authority": [
+        "(Kiesenwetter, 1844)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000023221"
+    ],
+    "designations": [
+        {
+            "designated_name": "Carpelimus halophilus",
+            "source": "A review of the scarce and threatened beetles of Great Britain Part 2 (Hyman, P.S. revised and updated by M.S. Parsons.)",
+            "source_description": "Hyman, P S revised and updated by Parsons, M S.  UK nature conservation, No. 12.  Published by JNCC, 1994.  Along with Part 1, updates relevant information in the RDB Insects (1987) using the old IUCN categories and criteria (pre 1994).",
+            "url_source": "http://jncc.defra.gov.uk/PDF/Pub92_Review_of_Scarce_&_Threatened_Coleoptera_of_Great_Britain_Part-1_(2)_PRINT.pdf",
+            "date_designated": "1994-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Notable",
+            "designation_abbreviation": "Notable",
+            "designation_description": "Species which are estimated to occur within the range of 16 to 100 10km squares. (subdivision into Notable A and Notable B is not always possible because there may be insufficient information available). Superseded by Nationally Scarce, and therefore no longer in use.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

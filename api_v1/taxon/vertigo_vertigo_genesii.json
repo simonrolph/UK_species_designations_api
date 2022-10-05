@@ -1,0 +1,115 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "mollusc"
+    ],
+    "recommended_taxon_name": [
+        "Vertigo (Vertigo) genesii"
+    ],
+    "recommended_authority": [
+        "(Gredler, 1856)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001702271"
+    ],
+    "designations": [
+        {
+            "designated_name": "Vertigo genesii",
+            "common_name": "Round-mouthed whorl snail",
+            "source": "Habitats Directive",
+            "source_description": "In 1992 the European Community adopted Council Directive 92/43/EEC on the Conservation of natural habitats and of wild fauna and flora (EC Habitats Directive). This is the means by which the Community meets its obligations as a signatory of the Convention on the Conservation of European Wildlife and Natural Habitats (Bern Convention). The provisions of the Directive requires Member States to introduce a range of measures including the protection of species listed in the Annexes; to undertake surveillance of habitats and species and produce a report every six years on the implementation of the Directive. The 169 habitats listed in Annex I of the Directive and the 623 species listed in Annex II, are to be protected by means of a network of sites. Each Member State is required to prepare and propose a national list of sites, which will be evaluated in order to form a European network of Sites of Community Importance (SCIs). These will eventually be designated by Member States as Special Areas of Conservation (SACs), and along with Special Protection Areas (SPAs) classified under the EC Birds Directive, form a network of protected areas known as Natura 2000.",
+            "url_source": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:01992L0043-20070101&from=EN",
+            "date_designated": "1992-01-01",
+            "reporting_category": "Habitats Directive",
+            "designation": "Annex 2 - non-priority species",
+            "designation_abbreviation": "HabDir-A2*",
+            "designation_description": "Animal and plant species of Community interest (i.e. endangered, vulnerable, rare or endemic in the European Community) whose conservation requires the designation of special areas of conservation. Note that the contents of this annex have been updated in April 2003 following the Treaty of Accession.",
+            "reporting_category_sort_order": "D"
+        },
+        {
+            "designated_name": "Vertigo genesii",
+            "common_name": "Round-mouthed Whorl Snail",
+            "source": "The IUCN Red List of Threatened Species (2010)",
+            "source_description": "The IUCN Red List of Threatened Species provides taxonomic, conservation status and distribution information on taxa that have been globally evaluated using the IUCN Red List Categories and Criteria. This system is designed to determine the relative risk of extinction, and the main purpose of the IUCN Red List is to catalogue and highlight those taxa that are facing a higher risk of global extinction (i.e. those listed as Critically Endangered, Endangered and Vulnerable). The IUCN Red List also includes information on taxa that are categorized as Extinct or Extinct in the Wild; on taxa that cannot be evaluated because of insufficient information (i.e. are Data Deficient); and on taxa that are either close to meeting the threatened thresholds or that would be threatened were it not for an ongoing taxon-specific conservation programme (i.e. are Near Threatened).",
+            "date_designated": "1996-01-01",
+            "reporting_category": "Global Red list status",
+            "designation": "Lower risk - conservation dependent",
+            "designation_abbreviation": "RedList_Global_post94-LR(cd)",
+            "designation_description": "Taxa which are the focus of a continuing taxon-specific or habitat-specific conservation programme targeted towards the taxon in question, the cessation of which would result in the taxon qualifying for one of the threatened categories above within a period of five years.",
+            "iucn_version": "1994",
+            "criteria_description": "ver 1994",
+            "reporting_category_sort_order": "F"
+        },
+        {
+            "designated_name": "Vertigo genesii",
+            "source": "A review of the Non-Marine Mollusca of Great Britain",
+            "source_description": "A review of the Non-Marine Mollusca of Great Britain: Species Status No. 17. NRW Evidence Report No: 14, 84pp, Natural Resources Wales, Bangor. M.B. Seddon, I.J. Killeen & A.P. Fowles. March 2014",
+            "url_source": "https://naturalresources.wales/media/678807/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf",
+            "date_designated": "2014-03-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Vertigo genesii",
+            "source": "A review of the Non-Marine Mollusca of Great Britain",
+            "source_description": "A review of the Non-Marine Mollusca of Great Britain: Species Status No. 17. NRW Evidence Report No: 14, 84pp, Natural Resources Wales, Bangor. M.B. Seddon, I.J. Killeen & A.P. Fowles. March 2014",
+            "url_source": "https://naturalresources.wales/media/678807/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf",
+            "date_designated": "2014-03-01",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Vertigo genesii",
+            "source": "Natural Environment and Rural Communities Act 2006 - Species of Principal Importance in England (section 41)",
+            "source_description": "Sections 41 (England) of the Natural Environment and Rural Communities Act 2006 require the listing of species of principal importance for the purpose of conserving biodiversity and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "date_designated": "2008-11-01",
+            "reporting_category": "Biodiversity Lists - England",
+            "designation": "England NERC S.41",
+            "designation_abbreviation": "England_NERC_S.41",
+            "designation_description": "Species “of principal importance for the purpose of conserving biodiversity” covered under section 41 (England) of the NERC Act (2006) and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "reporting_category_sort_order": "Hb"
+        },
+        {
+            "designated_name": "Vertigo genesii",
+            "common_name": "Round-mouthed Whorl Snail",
+            "source": "UK list of Priority Habitats and Species",
+            "source_description": "Starting in 2005, the old UK BAP priorities were reviewed and a new list called the UK List of Priority Species and Habitats was published in 2007 after adoption by the Governments of all four UK administrations. The species and habitats on this list help guide conservation actions being taken by the four countries in the UK as part of the UK contribution to the Convention on Biological Diversity.",
+            "date_designated": "2007-08-28",
+            "reporting_category": "Biodiversity Action Plan UK list of priority species",
+            "designation": "Priority Species",
+            "designation_abbreviation": "BAP-2007",
+            "designation_description": "The UK List of Priority Species and Habitats contains 1150 species and 65 habitats that have been listed as priorities for conservation action under the UK Biodiversity Action Plan (UK BAP).",
+            "criteria_description": "Threat,Other",
+            "comments": "status on former BAP list- Species Action Plan",
+            "reporting_category_sort_order": "Ha"
+        },
+        {
+            "designated_name": "Vertigo (Vertigo) genesii",
+            "common_name": "Round-mouthed Whorl Snail",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Conservation action needed; Avoid negative impacts; Criterion: S1 - on UKBAP list; S2 - Internatnl. Obligation; S3 - Rare in the UK (<16 10km sqs); S4 - <6 Scottish 10km sqs",
+            "comments": "Terrestrial/Freshwater Species.",
+            "reporting_category_sort_order": "Hc"
+        }
+    ]
+}
+

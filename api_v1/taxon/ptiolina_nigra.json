@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Ptiolina nigra"
+    ],
+    "recommended_authority": [
+        "Staeger in Zetterstedt, 1842"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0100004993"
+    ],
+    "designations": [
+        {
+            "designated_name": "Ptiolina nigra",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Recorded from ten hectads since 1990 but with none in common with earlier recording, indicating that the finds are random and that there is more to be found. There is no marked decline. This small black and undistinguished species will be overlooked by recorders of larger Brachycera. Moved beyond NR under Criteria 2 & 8.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Ptiolina nigra",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Recorded from ten hectads since 1990 but with none in common with earlier recording, indicating that the finds are random and that there is more to be found. There is no marked decline. This small black and undistinguished species will be overlooked by recorders of larger Brachycera. Moved beyond NR under Criteria 2 & 8.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

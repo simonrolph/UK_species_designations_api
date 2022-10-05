@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Paraplatypeza bicincta"
+    ],
+    "recommended_authority": [
+        "(Szilády, 1941)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0100027452"
+    ],
+    "designations": [
+        {
+            "designated_name": "Paraplatypeza bicincta",
+            "source": "A review of the status of the Lonchopteridae, Platypezidae and Opetiidae flies of Great Britain (NECR246)",
+            "source_description": "This report was commissioned to update the national status of flies using IUCN methodology for assessment threat. It includes Lonchopteridae (Pointed-wing flies) and Platypezidae (Flat-footed flies) species and a single species of Opetiidae in Great Britain identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5490367884951552",
+            "date_designated": "2018-01-28",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Not Evaluated",
+            "designation_abbreviation": "RedList_GB_post2001-NE",
+            "designation_description": "A taxon is Not Evaluated when it is has not yet been evaluated against the criteria",
+            "iucn_version": "2001",
+            "comments": "First found in Britain in Surrey in 2001 and has since been recorded widely in S England, north to Norfolk and Shropshire (records from 16 counties), suggesting an active recent spread, and it is likely to be a recent arrival here. It has the same host fungus Pluteus cervinus as P. atra, and has been reared from it in Oxfordshire.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Paraplatypeza bicincta",
+            "source": "A review of the status of the Lonchopteridae, Platypezidae and Opetiidae flies of Great Britain (NECR246)",
+            "source_description": "This report was commissioned to update the national status of flies using IUCN methodology for assessment threat. It includes Lonchopteridae (Pointed-wing flies) and Platypezidae (Flat-footed flies) species and a single species of Opetiidae in Great Britain identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5490367884951552",
+            "date_designated": "2018-01-28",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "comments": "First found in Britain in Surrey in 2001 and has since been recorded widely in S England, north to Norfolk and Shropshire (records from 16 counties), suggesting an active recent spread, and it is likely to be a recent arrival here. It has the same host fungus Pluteus cervinus as P. atra, and has been reared from it in Oxfordshire.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

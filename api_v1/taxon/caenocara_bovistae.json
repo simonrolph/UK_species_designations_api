@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Caenocara bovistae"
+    ],
+    "recommended_authority": [
+        "(Hoffmann, J., 1803)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001717437"
+    ],
+    "designations": [
+        {
+            "designated_name": "Caenocara bovistae",
+            "source": "A review of the status of the beetles of Great Britain: The wood-boring beetles, spider beetles, woodworm, false powder-post beetles, hide beetles and their allies - Derodontidoidea (Derodontidae) and Bostrichoidea (Dermestidae, Bostrichidae and Ptinidae)",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Derodontidae, Dermestidae, Bostrichidae and Ptinidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5841907969687552?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "criteria_description": "B2ab(i,ii,iii,iv),D2",
+            "comments": "This species would qualify as Vulnerable as it is in decline, from 23 hectads pre 1990 to now only 4 hectads; it is known from 4 locations (4 tetrads) and has an AoO of 16 square km. But the lack of known plausible threats means that neither B2 nor D2 apply, although this is due to lack of information rather than known lack of threat. Plausible threats cannot be fully assessed at present without close examination of the condition of the remaining known sites. The Extent of Occurrence has declined severely over the past 100 years but there is no data on change in the past 25 or 10 years. Area of Occupancy is certainly currently highly fragmented, with just four locations known, but there is no evidence available concerning decline in modern times. Near Threatened is therefore suggested as the current status using IUCN criteria.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Caenocara bovistae",
+            "source": "A review of the status of the beetles of Great Britain: The wood-boring beetles, spider beetles, woodworm, false powder-post beetles, hide beetles and their allies - Derodontidoidea (Derodontidae) and Bostrichoidea (Dermestidae, Bostrichidae and Ptinidae)",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Derodontidae, Dermestidae, Bostrichidae and Ptinidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5841907969687552?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

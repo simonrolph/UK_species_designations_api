@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Calidris alpina schinzii"
+    ],
+    "recommended_authority": [
+        "(Brehm, CL & Schilling, 1822)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020302971"
+    ],
+    "designations": [
+        {
+            "designated_name": "Calidris alpina schinzii",
+            "common_name": "Dunlin",
+            "source": "Birds directive",
+            "source_description": "In 1979, the European Community adopted Council Directive 79/409/EEC on the conservation of wild birds (PDF 209KB) (the Birds Directive), in response to the 1979 Bern Convention on the conservation of European habitats and species (the Bern Convention). The Directive provides a framework for the conservation and management of, and human interactions with, wild birds in Europe. It sets broad objectives for a wide range of activities, although the precise legal mechanisms for their achievement are at the discretion of each Member State (in the UK delivery is via several different statutes).",
+            "url_source": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32009L0147&from=EN",
+            "date_designated": "2003-03-16",
+            "reporting_category": "Birds Directive",
+            "designation": "Annex 1",
+            "designation_abbreviation": "BirdsDir-A1",
+            "designation_description": "Birds which are the subject of special conservation measures concerning their habitat in order to ensure their survival and reproduction in their area of distribution. As appropriate, Special Protection Areas to be established to assist conservation measures. Note that the contents of this annex have been updated in April 2003 following the Treaty of Accession.",
+            "comments": "Added in April 2003 following Treaty of Accession",
+            "reporting_category_sort_order": "C"
+        }
+    ]
+}
+

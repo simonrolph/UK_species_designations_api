@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Saprinus aeneus"
+    ],
+    "recommended_authority": [
+        "(Fabricius, 1775)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001720022"
+    ],
+    "designations": [
+        {
+            "designated_name": "Saprinus aeneus",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "This species has suffered a significant (mainly historical) decline, with a decrease of more than 57% of hectads between the main recording periods. This decline appears to be continuing with a further 33% reduction in hectads in the last 30 year period (1986-2015). The three consecutive 10 year period recording blocks suggest a trend that could be described as 'linear continuing decline'. Application of IUCN Category A2 criteria to this data gives a 10-year adjusted decline of only 13%, well below the 30+% threshold for Vulnerable. However, future reviews may find the species qualifying for IUCN Vulnerable. With only 43 post-1990 hectads and this history of decline, the species has been elevated to Nationally Scarce status. 263 records.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Saprinus aeneus",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

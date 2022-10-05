@@ -1,0 +1,38 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Haematopus ostralegus ostralegus"
+    ],
+    "recommended_authority": [
+        "Linnaeus, 1758"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020303056"
+    ],
+    "designations": [
+        {
+            "designated_name": "Haematopus ostralegus ostralegus",
+            "common_name": "Oystercatcher",
+            "source": "The risk of extinction for birds in Great Britain Sep 2017 British Birds 110: 502-517.",
+            "source_description": "The first formal Red List Category for birds based on IUCN criteria and guidelines. This assessment (No 34 in the Species Status series) is not an alternative to BoCC and does not replace or supersede it. It is recommended to use the BoCC status as the starting point for identifying which birds are most deserving of conservation action.  This assessment focusses on regular breeding and over-wintering birds of Great Britain, thus excluding birds in the Isle of Man, Channel Islands and northern Ireland. It includes 289 species and 68 subspecies on the British list and excludes non-natives, vagrants and scarce migrants. For species that have substantial and at least partially distinct breeding and non-breeding populations in GB (defined as having a population in the non-breeding season that is more than twice the size of the breeding population), notably waterbirds, the breeding and wintering populations are assessed separately. Therefore a species is assigned an IUCN Red List category for its breeding and wintering populations. Some notable bird subspecies, all of those for which Britain is of international importance, i.e. more than 20% of the northwest European flyway (wildfowl), East Atlantic flyway (waders) or European (all others) population were also assessed. These are national assessments determining the status of birds in Great Britain, however influences at regional level have also been considered if there is significant immigration of individuals from outside GB likely to breed which could rescue populations from extinction. For non-breeding taxa the assessment considers if conditions both inside and outside the region are deteriorating. Subsequently 22 species have been downgraded to consider this contribution.",
+            "url_source": "https://britishbirds.co.uk/article/risk-extinction-birds-great-britain/",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least Concern",
+            "designation_abbreviation": "Bird_RedList_GB_post2001-LC_Breeding",
+            "designation_description": "A Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "The status of breeding Oystercatcher (ssp. ostralegus) was assessed as being of Least Concern in Great Britain. The population trend does not appear to approach the thresholds for Near Threatened under the population trend criterion (>20% decline over ten years or three generations). The species has an large range, and hence does not approach the thresholds for Near Threatened under the range size criterion (EoO <30,000 km2, AoO <3,000 km2). The population size is large, and hence does not approach the thresholds for Near Threatened under the population size criterion (<15,000 mature individuals with a continuing decline estimated to be >10% in ten years or three generations).",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

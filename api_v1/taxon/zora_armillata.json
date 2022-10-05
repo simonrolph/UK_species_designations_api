@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "spider (Araneae)"
+    ],
+    "recommended_taxon_name": [
+        "Zora armillata"
+    ],
+    "recommended_authority": [
+        "Simon, 1878"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000008711"
+    ],
+    "designations": [
+        {
+            "designated_name": "Zora armillata",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Zora armillata",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Critically Endangered",
+            "designation_abbreviation": "RedList_GB_post2001-CR",
+            "designation_description": "A taxon is Critically Endangered when it is facing an extremely high risk of extinction in the wild in the immediate future, as defined by any of the criteria A to E.",
+            "iucn_version": "2001",
+            "criteria_description": "B2ab(ii,iv)",
+            "comments": "B2ab(ii,iv) is justified because there are no records of this species since 1980. While there have been surveys CR(PE) is not yet considered justifiable. The spider is thought to have been fairly frequent in the past on wet areas of Hartland Moor and Morden Bog, Dorset. The catchment of Morden Bog was greatly modified by afforestion with conifers in the area last century. Historical records from the Cambridgeshire Fens are now in doubt. The last record at Wicken Fen, in 1977, is now considered incorrect and there is doubt over the Woodwalton Fen record. The record mapped in the Provisional Atlas for Chippenham Fen has not been substantiated. The lowering water tables, for example by drainage of adjacent land and/or water abstraction, would damage all the listed localities for this species. Threats: Lowering of the water table, such as by drainage of adjacent land and/or water abstraction, would damage all the listed localities of this species. A lower water table often leads to scrub invasion, which increases the drying process and shades out the fen and bog plant communities. The effects of drainage on the fenland sites are well known (e.g. Godwin 1978; Darby 1983). The catchment of Morden Bog has also been greatly modified by the extensive conifer forestry in the area this century.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

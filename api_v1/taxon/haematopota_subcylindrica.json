@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Haematopota subcylindrica"
+    ],
+    "recommended_authority": [
+        "Pandellé, 1883"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000042531"
+    ],
+    "designations": [
+        {
+            "designated_name": "Haematopota subcylindrica",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Haematopota subcylindrica has been recorded from nine hectads since 1990, and obviously no decline can be inferred from a recently discovered species. The wide spread of records belies a far more restricted distribution since so few specimens have been taken since it was first found in England. The presumed larval habitat is apparently widespread on the east and south coasts of England, but the absence of records from the Thames estuary and north Kent marshes may indicate that the habitat requirements are fairly specific.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Haematopota subcylindrica",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Haematopota subcylindrica has been recorded from nine hectads since 1990, and obviously no decline can be inferred from a recently discovered species. The wide spread of records belies a far more restricted distribution since so few specimens have been taken since it was first found in England. The presumed larval habitat is apparently widespread on the east and south coasts of England, but the absence of records from the Thames estuary and north Kent marshes may indicate that the habitat requirements are fairly specific.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

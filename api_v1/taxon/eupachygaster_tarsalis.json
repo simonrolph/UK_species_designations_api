@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Eupachygaster tarsalis"
+    ],
+    "recommended_authority": [
+        "(Zetterstedt, 1842)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007824"
+    ],
+    "designations": [
+        {
+            "designated_name": "Eupachygaster tarsalis",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Recorded from 14 hectads since 1990 but widespread in lowland England and with almost no old and recent hectads in common, indicating that recent recording has not covered its range. There is no obvious decline. It is elusive and almost certainly under-recorded. Several records are from reared larvae. Moved beyond NR under Criteria 2 and 7.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Eupachygaster tarsalis",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Recorded from 14 hectads since 1990 but widespread in lowland England and with almost no old and recent hectads in common, indicating that recent recording has not covered its range. There is no obvious decline. It is elusive and almost certainly under-recorded. Several records are from reared larvae. Moved beyond NR under Criteria 2 and 7.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

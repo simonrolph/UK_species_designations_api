@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Chrysolophus amherstiae"
+    ],
+    "recommended_authority": [
+        "(Leadbeater, 1829)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000530283"
+    ],
+    "designations": [
+        {
+            "designated_name": "Chrysolophus amherstiae",
+            "common_name": "Lady Amherst's Pheasant",
+            "source": "CITES UK Species only",
+            "source_description": "The Washington Convention on International Trade in Endangered Species of Wild Fauna and Flora, more commonly known as CITES, aims to protect certain plants and animals by regulating and monitoring their international trade to prevent it reaching unsustainable levels. The Convention entered into force in 1975, and the UK became a Party in 1976.",
+            "date_designated": "1997-01-01",
+            "reporting_category": "EC Cites",
+            "designation": "Annex D",
+            "designation_abbreviation": "ECCITES-D",
+            "designation_description": "Some CITES Appendix III species for which the EU holds a reservation (CITES reservations - English, French, Spanish). Some non-CITES species.",
+            "reporting_category_sort_order": "E"
+        }
+    ]
+}
+

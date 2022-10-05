@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "spider (Araneae)"
+    ],
+    "recommended_taxon_name": [
+        "Haplodrassus umbratilis"
+    ],
+    "recommended_authority": [
+        "(L. Koch, 1866)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000008647"
+    ],
+    "designations": [
+        {
+            "designated_name": "Haplodrassus umbratilis",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Haplodrassus umbratilis",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "RedList_GB_post2001-DD",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat or Lower Risk. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that a threatened category is appropriate.",
+            "iucn_version": "2001",
+            "comments": "Not seen since 1990 but probably under-recorded in recent years and hence likely to survive in several of its previously known heathland sites.  Threats: Uncontrolled heathland fires and the loss of heathland to building development and agriculture. Previously abundant at Horton Common, but much of this site (100 ha) has now been ploughed up and is used for agriculture. The surviving twenty hectares of heath at Horton Common now have the protection of SSSI status. Knighton Heath is now a golf course with only a few banks of heath left, and even the golf course is under threat of building development. Much of Cranborne Common has been planted with conifers, only strips of heathland remaining. The remaining heath is now an SSSI and in part a Dorset Trust reserve. Heath at Stephens Castle lies within Verwood Heaths SSSI. It would seem to be probably fairly widespread on heathland either side of the Avon valley, but much of the heathland in that area is fragmented and subject to development of one sort or another. If the density of scrub at Hadleigh Downs increases, it may overrun the grassland required by this spider.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

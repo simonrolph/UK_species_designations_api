@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Tachys micros"
+    ],
+    "recommended_authority": [
+        "(Fischer von Waldheim, 1828)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007269"
+    ],
+    "designations": [
+        {
+            "designated_name": "Tachys micros",
+            "source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)",
+            "source_description": "This report was commissioned to update the national status of ground beetles using IUCN methodology for assessing threat. It covers all species of Carabidae in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6270849377107968?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Tachys micros",
+            "source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)",
+            "source_description": "This report was commissioned to update the national status of ground beetles using IUCN methodology for assessing threat. It covers all species of Carabidae in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6270849377107968?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "D2",
+            "comments": "There are post-1980 records from only three hectads. Though there is no evidence of a decline, this species is considered to be Vulnerable (D2) because of the threats to its soft-rock cliff habitat, from coastal engineering, changing hydrology (referring to the water feeding the seepages on the cliff face), and from inappropriate land use inland of the eroding cliff face.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

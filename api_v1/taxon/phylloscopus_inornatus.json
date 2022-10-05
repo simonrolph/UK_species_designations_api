@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Phylloscopus inornatus"
+    ],
+    "recommended_authority": [
+        "(Blyth, 1842)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000530753"
+    ],
+    "designations": [
+        {
+            "designated_name": "Phylloscopus inornatus",
+            "common_name": "Yellow-browed warbler",
+            "source": "Birds of Conservation Concern 5: the red list for birds (Red/Amber list and not based on IUCN criteria)",
+            "source_description": "Commonly referred to as the UK Red List for birds, this is the fifth review of the status of birds in the UK, Channel Islands and Isle of Man, and updates the last assessment in 2015. Using standardised criteria, 245 species with breeding, passage or wintering populations in the UK were assessed by experts from a range of bird NGOs and assigned to the Red, Amber or Green lists of conservation concern. December 2021.",
+            "url_source": "https://www.bto.org/our-science/publications/birds-conservation-concern",
+            "date_designated": "2021-01-01",
+            "reporting_category": "Red data categories  - birds (not based on IUCN criteria)",
+            "designation": "Bird Population Status - amber",
+            "designation_abbreviation": "Bird-Amber",
+            "designation_description": "Amber list species are those with an unfavourable conservation status in Europe; those whose population or range has declined moderately in recent years; those whose population has declined historically but made a substantial recent recovery; rare breeders; and those with internationally important or localised populations.",
+            "reporting_category_sort_order": "Ga"
+        }
+    ]
+}
+

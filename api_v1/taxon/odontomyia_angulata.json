@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Odontomyia angulata"
+    ],
+    "recommended_authority": [
+        "(Panzer, [1798])"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007833"
+    ],
+    "designations": [
+        {
+            "designated_name": "Odontomyia angulata",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Odontomyia angulata has been recorded from eight discrete sites in five hectads since 1990, of which four are older hectads, indicating very localised populations. The sites are exclusively fen or similarly habitat of high quality, probably related to high and constant levels of ground-water and high water quality. Within each of the sites or cluster of sites, the species is clearly very rare, even though apparently suitable habitat exists in nearby areas. The habitat requirement is therefore much more specific than just fen or pool margins. The sites are also low-lying so there may be a climatic limitation. A status of Vulnerable is therefore appropriate even though there are several extant populations.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Odontomyia angulata",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "comments": "Odontomyia angulata has been recorded from eight discrete sites in five hectads since 1990, of which four are older hectads, indicating very localised populations. The sites are exclusively fen or similarly habitat of high quality, probably related to high and constant levels of ground-water and high water quality. Within each of the sites or cluster of sites, the species is clearly very rare, even though apparently suitable habitat exists in nearby areas. The habitat requirement is therefore much more specific than just fen or pool margins. The sites are also low-lying so there may be a climatic limitation. A status of Vulnerable is therefore appropriate even though there are several extant populations.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

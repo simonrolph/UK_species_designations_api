@@ -1,0 +1,52 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Atylotus plebeius"
+    ],
+    "recommended_authority": [
+        "(Fallén, 1817)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007877"
+    ],
+    "designations": [
+        {
+            "designated_name": "Atylotus plebeius",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Endangered",
+            "designation_abbreviation": "RedList_GB_post2001-EN",
+            "designation_description": "A taxon is Endangered when it is not Critically endangered but is facing a very high risk of extinction in the wild in the near future.",
+            "iucn_version": "2001",
+            "criteria_description": "B2ab(ii,iv)",
+            "comments": "Atylotus plebeius has been recorded in only two hectads since 1990, and in five on all dates, all falling within a small area that represents at most two distinct populations. Hectad counts alone show a 60% decline since 1990, and the occurrence of the species on individual mosses probably shows higher losses. The current area of acid mire in the two blocks occupied is far smaller than 100km2. The few recent records all fall within the same small area. The acid mire habitat  in this area was historically diminished as a result of coniferisation and drainage, leaving isolated patches that are scarce and vulnerable, though more recent plans are aimed at peat soil restoration. Populations of Atylotus plebeius  remain extremely vulnerable to effects due to isolation as corridors between habitat patches do not exist. A status of Endangered reflects the scarcity of lowland basin mire, the tiny range and the delicate nature of bogs, although the few records give no indication of recent decline; the species may possibly have always been very rare and restricted in Britain.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Atylotus plebeius",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "criteria_description": "B2ab(ii,iv)",
+            "comments": "Atylotus plebeius has been recorded in only two hectads since 1990, and in five on all dates, all falling within a small area that represents at most two distinct populations. Hectad counts alone show a 60% decline since 1990, and the occurrence of the species on individual mosses probably shows higher losses. The current area of acid mire in the two blocks occupied is far smaller than 100km2. The few recent records all fall within the same small area. The acid mire habitat  in this area was historically diminished as a result of coniferisation and drainage, leaving isolated patches that are scarce and vulnerable, though more recent plans are aimed at peat soil restoration. Populations of Atylotus plebeius  remain extremely vulnerable to effects due to isolation as corridors between habitat patches do not exist. A status of Endangered reflects the scarcity of lowland basin mire, the tiny range and the delicate nature of bogs, although the few records give no indication of recent decline; the species may possibly have always been very rare and restricted in Britain.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

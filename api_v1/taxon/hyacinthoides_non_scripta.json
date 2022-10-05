@@ -1,0 +1,63 @@
+{
+    "category": [
+        "Vascular plant"
+    ],
+    "taxon_group": [
+        "flowering plant"
+    ],
+    "recommended_taxon_name": [
+        "Hyacinthoides non-scripta"
+    ],
+    "recommended_authority": [
+        "(L.) Chouard ex Rothm."
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000002185"
+    ],
+    "designations": [
+        {
+            "designated_name": "Hyacinthoides non-scripta",
+            "common_name": "Bluebell",
+            "source": "Wildlife and Countryside Act Schedules 1, 5 and 8 (protected birds, animals and plants)",
+            "source_description": "Protected Birds, Animals and Plants are listed in Schedules 1, 5 and 8 respectively of the Wildlife and Countryside Act.Schedule 1. The Act makes it an offence (with exception to species listed in Schedule 2) to intentionally kill, injure or take any wild bird or their eggs or nests. Special penalties are available for offences related to birds listed on Schedule 1, for which there are additional offences of disturbing these birds at their nests, or their dependent young. Schedule 5. The Act makes it an offence (subject to exceptions) to intentionally kill, injure, or take, possess, or trade in any wild animal listed in Schedule 5, and prohibits interference with places used for shelter or protection, or intentionally disturbing animals occupying such places. The Act also prohibits certain methods of killing, injuring, or taking wild animals.Schedule 8. The Act makes it an offence (subject to exceptions) to pick, uproot, trade in, or possess (for the purposes of trade) any wild plant listed in Schedule 8, and prohibits the unauthorised intentional uprooting of such plants.There is a statutory five-yearly review of Schedules 5 and 8 (protected wild animals and plants respectively).",
+            "url_source": "http://www.legislation.gov.uk/all?title=Wildlife%20and%20Countryside%20Act%201981",
+            "date_designated": "1998-01-01",
+            "reporting_category": "Wildlife and Countryside Act 1981",
+            "designation": "Schedule 8",
+            "designation_abbreviation": "WACA-Sch8",
+            "designation_description": "Plants which are protected from intentional picking, uprooting or destruction (Section 13 1a); selling, offering for sale, possessing or transporting for the purpose of sale (live or dead, part or derivative) (Section 13 2a); advertising (any of these) for buying or selling (Section 13 2b).",
+            "reporting_category_sort_order": "I"
+        },
+        {
+            "designated_name": "Hyacinthoides non-scripta",
+            "source": "The Vascular Plant Red Data List for Great Britain, revised February 2019",
+            "source_description": "Leach, S.J. 2019 (in prep) The Vascular Plant Red Data List for Great Britain: a summary of amendments in years 12 and 13 (2017-2018) of the annual amendments process. BSBI News 141",
+            "url_source": "https://bsbi.org/taxon-lists",
+            "date_designated": "2018-01-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Hyacinthoides non-scripta",
+            "common_name": "Bluebell",
+            "source": "A Vascular Plant Red List for England",
+            "source_description": "A vascular plant Red List present for the first time the current state of England's flora measuredagainst standardised IUCN criteria. P.A. Stroh et al. 2014.",
+            "url_source": "http://www.bsbi.org.uk/England_Red_List_1.pdf",
+            "date_designated": "2014-11-18",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_ENG_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

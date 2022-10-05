@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Non-vascular plant"
+    ],
+    "taxon_group": [
+        "liverwort"
+    ],
+    "recommended_taxon_name": [
+        "Lophocolea brookwoodiana"
+    ],
+    "recommended_authority": [
+        "Paton & Sheahan"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020636832"
+    ],
+    "designations": [
+        {
+            "designated_name": "Lophocolea brookwoodiana",
+            "source": "A revised list of nationally rare bryophytes, 2010",
+            "source_description": "Preston, C., 2010, A revised list of nationally rare bryophytes, Field Bryology 100",
+            "date_designated": "2010-02-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Rare. Excludes Red Listed taxa",
+            "designation_abbreviation": "NR-excludes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Excludes rare species qualifying under the main IUCN criteria.",
+            "criteria_description": "Species present in 1-15 10-km grid squares",
+            "comments": "Species considered to be alien or possibly alien",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "centipede"
+    ],
+    "recommended_taxon_name": [
+        "Strigamia acuminata"
+    ],
+    "recommended_authority": [
+        "(Leach, 1814)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011403"
+    ],
+    "designations": [
+        {
+            "designated_name": "Strigamia acuminata",
+            "source": "A review of the millipedes (Diplopoda), centipedes (Chilopoda) and woodlice (Isopoda) of Great Britain",
+            "source_description": "This report was commissioned to update the national threat status of millipedes, centipedes and woodlice. It covers all millipedes, centipedes and woodlice, identifying those that are rare and/or under threat as well as non threatened and non-native species. Paul Lee. November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/4924476719366144",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Although records are available from only 97 hectads since 1990, the species is believed to occur in 100+ hectads and thus is not considered scarce.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

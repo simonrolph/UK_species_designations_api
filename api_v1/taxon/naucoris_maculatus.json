@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Naucoris maculatus"
+    ],
+    "recommended_authority": [
+        "Fabricius, 1798"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000583218"
+    ],
+    "designations": [
+        {
+            "designated_name": "Naucoris maculatus",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Not Evaluated",
+            "designation_abbreviation": "RedList_GB_post2001-NE",
+            "designation_description": "A taxon is Not Evaluated when it is has not yet been evaluated against the criteria",
+            "iucn_version": "2001",
+            "comments": "First recorded in 2004 and again in 2006 at Samphire Hoe between Folkestone and Dover. In 2013 and 2014 it was recorded near Dungeness near the Kent / Sussex border. Samples have contained a number of specimens (10 in 2014) so it seems possible that this species may have, or will, become established.  (Nau & Brooke 2005,  Friend 2014).",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

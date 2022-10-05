@@ -1,0 +1,39 @@
+{
+    "category": [
+        "Mammal"
+    ],
+    "taxon_group": [
+        "terrestrial mammal"
+    ],
+    "recommended_taxon_name": [
+        "Microtus arvalis subsp. orcadensis"
+    ],
+    "recommended_authority": [
+        "Millais, 1904"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001699418"
+    ],
+    "designations": [
+        {
+            "designated_name": "Microtus arvalis orcadensis",
+            "common_name": "Orkney Vole",
+            "source": "A Review of the Population and Conservation Status of British Mammals: Technical Summary (June 2018)",
+            "source_description": "The first comprehensive review of the status of British mammal populations for over 20 years. The population size, range size, temporal trends and future prospects of Britain’s 58 terrestrial mammals are assessed. Island races and feral mammals are excluded from the main review. The objective of the review was to produce the most accurate assessment possible of population size, geographical range, and conservation trends since 1995. Based on IUCN Red List criteria and guidelines.",
+            "url_source": "http://publications.naturalengland.org.uk/ & http:",
+            "date_designated": "2018-06-13",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "A2c+3c; B1ab(ii,iii)+2ab(ii,iii)",
+            "comments": "Scotland [VU]. In GB, species is restricted to Ork",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

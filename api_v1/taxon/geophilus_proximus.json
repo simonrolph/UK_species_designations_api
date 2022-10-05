@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "centipede"
+    ],
+    "recommended_taxon_name": [
+        "Geophilus proximus"
+    ],
+    "recommended_authority": [
+        "C.L. Koch, 1847"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011414"
+    ],
+    "designations": [
+        {
+            "designated_name": "Geophilus proximus",
+            "source": "A review of the millipedes (Diplopoda), centipedes (Chilopoda) and woodlice (Isopoda) of Great Britain",
+            "source_description": "This report was commissioned to update the national threat status of millipedes, centipedes and woodlice. It covers all millipedes, centipedes and woodlice, identifying those that are rare and/or under threat as well as non threatened and non-native species. Paul Lee. November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/4924476719366144",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "RedList_GB_post2001-DD",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat or Lower Risk. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that a threatened category is appropriate.",
+            "iucn_version": "2001",
+            "comments": "Raw data suggests that this species may be Regionally Extinct. However, it is a widespread European species that is almost certainly under recorded in Britain due to its similarity to Geophilus alpinus and the absence of regular visits by myriapodologists to the Northern Isles.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Geophilus proximus",
+            "source": "A review of the millipedes (Diplopoda), centipedes (Chilopoda) and woodlice (Isopoda) of Great Britain",
+            "source_description": "This report was commissioned to update the national threat status of millipedes, centipedes and woodlice. It covers all millipedes, centipedes and woodlice, identifying those that are rare and/or under threat as well as non threatened and non-native species. Paul Lee. November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/4924476719366144",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Raw data suggests that this species may be Regionally Extinct. However, it is a widespread European species that is almost certainly under recorded in Britain due to its similarity to Geophilus alpinus and the absence of regular visits by myriapodologists to the Northern Isles.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "centipede"
+    ],
+    "recommended_taxon_name": [
+        "Eurygeophilus pinguis"
+    ],
+    "recommended_authority": [
+        "(Brölemann, 1898)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020108917"
+    ],
+    "designations": [
+        {
+            "designated_name": "Eurygeophilus pinguis",
+            "source": "A review of the millipedes (Diplopoda), centipedes (Chilopoda) and woodlice (Isopoda) of Great Britain",
+            "source_description": "This report was commissioned to update the national threat status of millipedes, centipedes and woodlice. It covers all millipedes, centipedes and woodlice, identifying those that are rare and/or under threat as well as non threatened and non-native species. Paul Lee. November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/4924476719366144",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Restricted to north Devon and Cornwall where it has been found in just 7 hectads since 1990. Outside of Britain it is known only from Corsica, the Alps, Picos and Pyrenees (Bonato, Barber & Minelli, 2006). This distribution raises the possibility that the centipede has been introduced to Britain but there are other examples of montane species from southern Europe ocurring in lowlands at higher latitudes.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Eurygeophilus pinguis",
+            "source": "A review of the millipedes (Diplopoda), centipedes (Chilopoda) and woodlice (Isopoda) of Great Britain",
+            "source_description": "This report was commissioned to update the national threat status of millipedes, centipedes and woodlice. It covers all millipedes, centipedes and woodlice, identifying those that are rare and/or under threat as well as non threatened and non-native species. Paul Lee. November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/4924476719366144",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Restricted to north Devon and Cornwall where it has been found in just 7 hectads since 1990. Outside of Britain it is known only from Corsica, the Alps, Picos and Pyrenees (Bonato, Barber & Minelli, 2006). This distribution raises the possibility that the centipede has been introduced to Britain but there are other examples of montane species from southern Europe ocurring in lowlands at higher latitudes.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

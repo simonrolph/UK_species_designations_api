@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Paragus albifrons"
+    ],
+    "recommended_authority": [
+        "(Fallén, 1817)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000006892"
+    ],
+    "designations": [
+        {
+            "designated_name": "Paragus albifrons (Fallén, 1817)",
+            "source": "A review of the scarce and threatened flies of Great Britain.",
+            "source_description": "A review of the scarce and threatened flies of Great Britain. Part 6: Hoverflies, family Syrphidae. S.G. Ball, R.K.A. Morris (2014). ISSN 1473-0154.",
+            "url_source": "http://jncc.defra.gov.uk/page-6907",
+            "date_designated": "2014-11-26",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Critically Endangered",
+            "designation_abbreviation": "RedList_GB_post2001-CR",
+            "designation_description": "A taxon is Critically Endangered when it is facing an extremely high risk of extinction in the wild in the immediate future, as defined by any of the criteria A to E.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

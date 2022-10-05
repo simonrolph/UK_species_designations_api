@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - caddis fly (Trichoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Hydropsyche exocellata"
+    ],
+    "recommended_authority": [
+        "Dufour, 1841"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000008416"
+    ],
+    "designations": [
+        {
+            "designated_name": "Hydropsyche exocellata",
+            "source": "A review of the status of the caddis flies (Trichoptera) of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of caddis from work originally undertaken in 1987 and 1991 respectively, using the IUCN methodology for assessing threat.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5436150266200064?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Hydropsyche exocellata",
+            "source": "A review of the status of the caddis flies (Trichoptera) of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of caddis from work originally undertaken in 1987 and 1991 respectively, using the IUCN methodology for assessing threat.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5436150266200064?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Critically Endangered (possibly extinct)",
+            "designation_abbreviation": "RedList_GB_post2001-CR(PE)",
+            "designation_description": "A taxon is Critically Endangered when the best available evidence indicates that it meets any of the criteria A to E for Critically Endangered (see Section V), and it is therefore considered to be facing an extremely high risk of extinction in the wild.  Possibly extinct indicates that there is a small chance that the taxon may still be extant, and hence  should not be listed as Extinct until local or unconfirmed reports have been discounted, and adequate surveys have failed to find any individuals.",
+            "iucn_version": "2001",
+            "criteria_description": "B2a +B2b(ii,iv)",
+            "comments": "Last record 1902. Restricted to River Thames. Presumed extinct.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

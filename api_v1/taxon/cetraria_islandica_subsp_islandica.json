@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Non-vascular plant"
+    ],
+    "taxon_group": [
+        "lichen"
+    ],
+    "recommended_taxon_name": [
+        "Cetraria islandica subsp. islandica"
+    ],
+    "recommended_authority": [
+        null
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001477209"
+    ],
+    "designations": [
+        {
+            "designated_name": "Cetraria islandica",
+            "common_name": "Iceland Moss",
+            "source": "CITES UK Species only",
+            "source_description": "The Washington Convention on International Trade in Endangered Species of Wild Fauna and Flora, more commonly known as CITES, aims to protect certain plants and animals by regulating and monitoring their international trade to prevent it reaching unsustainable levels. The Convention entered into force in 1975, and the UK became a Party in 1976.",
+            "date_designated": "1997-01-01",
+            "reporting_category": "EC Cites",
+            "designation": "Annex D",
+            "designation_abbreviation": "ECCITES-D",
+            "designation_description": "Some CITES Appendix III species for which the EU holds a reservation (CITES reservations - English, French, Spanish). Some non-CITES species.",
+            "reporting_category_sort_order": "E"
+        },
+        {
+            "designated_name": "Cetraria islandica ssp. islandica",
+            "common_name": "Iceland Moss",
+            "source": "A Conservation Evaluation of British Lichens and Lichenicolous Fungi (2012)",
+            "source_description": "Woods, R.G. & Coppins, B. J. 2012. A Conservation Evaluation of British Lichens and Lichenicolous Fungi. Species Status 13. Joint Nature Conservation Committee, Peterborough.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Lichens_web_Edits%2020%20Aug.pdf",
+            "date_designated": "2012-01-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

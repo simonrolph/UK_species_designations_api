@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Acupalpus elegans"
+    ],
+    "recommended_authority": [
+        "(Dejean, 1829)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007436"
+    ],
+    "designations": [
+        {
+            "designated_name": "Acupalpus elegans",
+            "source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)",
+            "source_description": "This report was commissioned to update the national status of ground beetles using IUCN methodology for assessing threat. It covers all species of Carabidae in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6270849377107968?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Critically Endangered (possibly extinct)",
+            "designation_abbreviation": "RedList_GB_post2001-CR(PE)",
+            "designation_description": "A taxon is Critically Endangered when the best available evidence indicates that it meets any of the criteria A to E for Critically Endangered (see Section V), and it is therefore considered to be facing an extremely high risk of extinction in the wild.  Possibly extinct indicates that there is a small chance that the taxon may still be extant, and hence  should not be listed as Extinct until local or unconfirmed reports have been discounted, and adequate surveys have failed to find any individuals.",
+            "iucn_version": "2001",
+            "criteria_description": "D",
+            "comments": "The species is probably extinct in Britain: a population size estimate of zero individuals can be made with reasonable confidence (D). The intensification of survey effort on brackish/saline lagoon margins since the addition of Anisodactylus poeciloides to the list of Biodiversity Action Plan Priority Species in 1994 has yielded many entomological discoveries but no records of A. elegans, and the chances of this species surviving unnoticed in Britain are very small.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Acupalpus elegans",
+            "source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)",
+            "source_description": "This report was commissioned to update the national status of ground beetles using IUCN methodology for assessing threat. It covers all species of Carabidae in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6270849377107968?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

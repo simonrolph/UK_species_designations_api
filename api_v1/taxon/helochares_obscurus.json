@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Helochares obscurus"
+    ],
+    "recommended_authority": [
+        "(Müller, O.F., 1776)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001718384"
+    ],
+    "designations": [
+        {
+            "designated_name": "Helochares obscurus",
+            "source": "A review of the scarce and threatened Coleoptera of Great Britain Part (3)- Water beetles of Great Britain",
+            "source_description": "Foster, G.N. 2010. A review of the scarce and threatened Coleoptera of Great Britain Part (3)- Water beetles of Great Britain. Species Status 1. Joint Nature Conservation Committee, Peterborough.",
+            "url_source": "https://hub.jncc.gov.uk/assets/e80beaf2-456c-4178-8f91-16c2ef01368d",
+            "date_designated": "2010-01-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "B1ab(ii-iv) B2a(ii-iv)",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

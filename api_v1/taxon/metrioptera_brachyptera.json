@@ -1,0 +1,67 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - orthopteran"
+    ],
+    "recommended_taxon_name": [
+        "Metrioptera brachyptera"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1761)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000006821"
+    ],
+    "designations": [
+        {
+            "designated_name": "Metrioptera brachyptera",
+            "common_name": "Bog Bush-Cricket",
+            "source": "A review of the Orthoptera (grasshoppers and crickets) and allied species of Great Britain",
+            "source_description": "An update the threat status of grasshoppers, crickets and allied species  from work originally undertaken in 1987, 1992 and 1994 using the IUCN methodology for assessing threat. P.G.Sutton. November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5368778738106368",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "(Possibly climate assisted) broadening of ecological niche suggested, but remains vulnerable to habitat loss in certain parts of its range",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Metrioptera brachyptera",
+            "common_name": "Bog Bush-Cricket",
+            "source": "A review of the Orthoptera (grasshoppers and crickets) and allied species of Great Britain",
+            "source_description": "An update the threat status of grasshoppers, crickets and allied species  from work originally undertaken in 1987, 1992 and 1994 using the IUCN methodology for assessing threat. P.G.Sutton. November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5368778738106368",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "comments": "(Possibly climate assisted) broadening of ecological niche suggested, but remains vulnerable to habitat loss in certain parts of its range",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Metrioptera brachyptera",
+            "common_name": "Bog Bush-cricket",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Watching brief only; Criterion: S4 - <6 Scottish 10km sqs",
+            "comments": "Terrestrial/Freshwater Species.",
+            "reporting_category_sort_order": "Hc"
+        }
+    ]
+}
+

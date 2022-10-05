@@ -1,0 +1,51 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Machimus cowini"
+    ],
+    "recommended_authority": [
+        "Hobby, 1946"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020734171"
+    ],
+    "designations": [
+        {
+            "designated_name": "Machimus cowini",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Endangered",
+            "designation_abbreviation": "RedList_GB_post2001-EN",
+            "designation_description": "A taxon is Endangered when it is not Critically endangered but is facing a very high risk of extinction in the wild in the near future.",
+            "iucn_version": "2001",
+            "criteria_description": "B2ab(ii,iv)",
+            "comments": "Recorded in the Isle of Man at only two hectads since 1990 and that is outside of the review area. The much smaller English population requires more survey work to establish both its extent and robustness, but with two isolated hectads and little opportunity for population reinforcement, Endangered is considered appropriate based on the likelihood of projected decline.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Machimus cowini",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Recorded in the Isle of Man at only two hectads since 1990 and that is outside of the review area. The much smaller English population requires more survey work to establish both its extent and robustness, but with two isolated hectads and little opportunity for population reinforcement, Endangered is considered appropriate based on the likelihood of projected decline.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

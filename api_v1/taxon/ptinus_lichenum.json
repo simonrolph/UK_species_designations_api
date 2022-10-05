@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Ptinus lichenum"
+    ],
+    "recommended_authority": [
+        "Marsham, 1802"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000024346"
+    ],
+    "designations": [
+        {
+            "designated_name": "Ptinus lichenum",
+            "source": "A review of the status of the beetles of Great Britain: The wood-boring beetles, spider beetles, woodworm, false powder-post beetles, hide beetles and their allies - Derodontidoidea (Derodontidae) and Bostrichoidea (Dermestidae, Bostrichidae and Ptinidae)",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Derodontidae, Dermestidae, Bostrichidae and Ptinidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5841907969687552?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Endangered",
+            "designation_abbreviation": "RedList_GB_post2001-EN",
+            "designation_description": "A taxon is Endangered when it is not Critically endangered but is facing a very high risk of extinction in the wild in the near future.",
+            "iucn_version": "2001",
+            "criteria_description": "B2ab(ii,iii,iv)",
+            "comments": "This species qualifies as endangered as it is in decline, from 18 hectads pre 1990 to now only 2 hectads; it has an AoO of 8 square km and is present in only two tetrads. The species appears to have always been a rarity apart from what appears to have been a substantial population in the London area in late 19th century, from the North Downs (Box Hill and Mickleham) northwards to Windsor Forest and Great Park, Highgate and Hainault Forest. The three most recent reports (one pre-1990) spread across much of its former British range. The main population reduction appears to have been in the distant past, but the Area of Occupancy is severely fragmented and continuing decline is apparent from the few modern records, none in the past 10 years, so a status of ‘Endangered’ appears clear.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Ptinus lichenum",
+            "source": "A review of the status of the beetles of Great Britain: The wood-boring beetles, spider beetles, woodworm, false powder-post beetles, hide beetles and their allies - Derodontidoidea (Derodontidae) and Bostrichoidea (Dermestidae, Bostrichidae and Ptinidae)",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Derodontidae, Dermestidae, Bostrichidae and Ptinidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5841907969687552?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

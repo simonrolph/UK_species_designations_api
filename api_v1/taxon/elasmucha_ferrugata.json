@@ -1,0 +1,39 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Elasmucha ferrugata"
+    ],
+    "recommended_authority": [
+        "(Fabricius, 1787)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020442326"
+    ],
+    "designations": [
+        {
+            "designated_name": "Elasmucha ferrugata",
+            "common_name": "Bilberry Shieldbug",
+            "source": "A review of the Hemiptera of Great Britain: The shieldbugs and allied families",
+            "source_description": "This report was commissioned to update the national status of shield bugs using IUCN methodology for assessing threat. It covers all species of Coreoidea, Pentatomoidea & Pyrrhocoroidea in Great Britain, identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5027762327781376?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Critically Endangered (possibly extinct)",
+            "designation_abbreviation": "RedList_GB_post2001-CR(PE)",
+            "designation_description": "A taxon is Critically Endangered when the best available evidence indicates that it meets any of the criteria A to E for Critically Endangered (see Section V), and it is therefore considered to be facing an extremely high risk of extinction in the wild.  Possibly extinct indicates that there is a small chance that the taxon may still be extant, and hence  should not be listed as Extinct until local or unconfirmed reports have been discounted, and adequate surveys have failed to find any individuals.",
+            "iucn_version": "2001",
+            "criteria_description": "C1, C2a(i), D",
+            "comments": "Four British records from Caernarvonshire, Derbyshire and Yorkshire between 1899 and 1950, all of single adults.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

@@ -1,0 +1,53 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Eurydema (Rubrodorsalium) dominulus"
+    ],
+    "recommended_authority": [
+        "(Scopoli, 1763)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020309228"
+    ],
+    "designations": [
+        {
+            "designated_name": "Eurydema dominulus",
+            "common_name": "Scarlet Shieldbug",
+            "source": "A review of the Hemiptera of Great Britain: The shieldbugs and allied families",
+            "source_description": "This report was commissioned to update the national status of shield bugs using IUCN methodology for assessing threat. It covers all species of Coreoidea, Pentatomoidea & Pyrrhocoroidea in Great Britain, identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5027762327781376?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Historically widespread but very scattered and always rare, with a stronghold in Kent and Sussex. There is a single 19th century record from south Wales. A marked recent decline is evident, with just eight records from four hectads during the last 20 years. A conspicuous red and black species which is unlikely to be significantly under-recorded.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Eurydema dominulus",
+            "common_name": "Scarlet Shieldbug",
+            "source": "A review of the Hemiptera of Great Britain: The shieldbugs and allied families",
+            "source_description": "This report was commissioned to update the national status of shield bugs using IUCN methodology for assessing threat. It covers all species of Coreoidea, Pentatomoidea & Pyrrhocoroidea in Great Britain, identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5027762327781376?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Endangered",
+            "designation_abbreviation": "RedList_GB_post2001-EN",
+            "designation_description": "A taxon is Endangered when it is not Critically endangered but is facing a very high risk of extinction in the wild in the near future.",
+            "iucn_version": "2001",
+            "criteria_description": "B2a bii biv",
+            "comments": "Historically widespread but very scattered and always rare, with a stronghold in Kent and Sussex. There is a single 19th century record from south Wales. A marked recent decline is evident, with just eight records from four hectads during the last 20 years. A conspicuous red and black species which is unlikely to be significantly under-recorded.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

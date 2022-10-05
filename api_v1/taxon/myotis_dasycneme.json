@@ -1,0 +1,83 @@
+{
+    "category": [
+        "Mammal"
+    ],
+    "taxon_group": [
+        "terrestrial mammal"
+    ],
+    "recommended_taxon_name": [
+        "Myotis dasycneme"
+    ],
+    "recommended_authority": [
+        "(Boie, 1825)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000005153"
+    ],
+    "designations": [
+        {
+            "designated_name": "Microchiroptera",
+            "common_name": "Pond bat",
+            "source": "Habitats Directive",
+            "source_description": "In 1992 the European Community adopted Council Directive 92/43/EEC on the Conservation of natural habitats and of wild fauna and flora (EC Habitats Directive). This is the means by which the Community meets its obligations as a signatory of the Convention on the Conservation of European Wildlife and Natural Habitats (Bern Convention). The provisions of the Directive requires Member States to introduce a range of measures including the protection of species listed in the Annexes; to undertake surveillance of habitats and species and produce a report every six years on the implementation of the Directive. The 169 habitats listed in Annex I of the Directive and the 623 species listed in Annex II, are to be protected by means of a network of sites. Each Member State is required to prepare and propose a national list of sites, which will be evaluated in order to form a European network of Sites of Community Importance (SCIs). These will eventually be designated by Member States as Special Areas of Conservation (SACs), and along with Special Protection Areas (SPAs) classified under the EC Birds Directive, form a network of protected areas known as Natura 2000.",
+            "url_source": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:01992L0043-20070101&from=EN",
+            "date_designated": "1992-01-01",
+            "reporting_category": "Habitats Directive",
+            "designation": "Annex 4",
+            "designation_abbreviation": "HabDir-A4",
+            "designation_description": "Animal and plant species of Community interest (i.e. endangered, vulnerable, rare or endemic in the European Community) in need of strict protection. They are protected from killing, disturbance or the destruction of them or their habitat. Note that the contents of this annex have been updated in April 2003 following the Treaty of Accession.",
+            "reporting_category_sort_order": "D"
+        },
+        {
+            "designated_name": "Myotis dasycneme",
+            "source": "Habitats Directive",
+            "source_description": "In 1992 the European Community adopted Council Directive 92/43/EEC on the Conservation of natural habitats and of wild fauna and flora (EC Habitats Directive). This is the means by which the Community meets its obligations as a signatory of the Convention on the Conservation of European Wildlife and Natural Habitats (Bern Convention). The provisions of the Directive requires Member States to introduce a range of measures including the protection of species listed in the Annexes; to undertake surveillance of habitats and species and produce a report every six years on the implementation of the Directive. The 169 habitats listed in Annex I of the Directive and the 623 species listed in Annex II, are to be protected by means of a network of sites. Each Member State is required to prepare and propose a national list of sites, which will be evaluated in order to form a European network of Sites of Community Importance (SCIs). These will eventually be designated by Member States as Special Areas of Conservation (SACs), and along with Special Protection Areas (SPAs) classified under the EC Birds Directive, form a network of protected areas known as Natura 2000.",
+            "url_source": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:01992L0043-20070101&from=EN",
+            "date_designated": "1992-01-01",
+            "reporting_category": "Habitats Directive",
+            "designation": "Annex 2 - non-priority species",
+            "designation_abbreviation": "HabDir-A2*",
+            "designation_description": "Animal and plant species of Community interest (i.e. endangered, vulnerable, rare or endemic in the European Community) whose conservation requires the designation of special areas of conservation. Note that the contents of this annex have been updated in April 2003 following the Treaty of Accession.",
+            "reporting_category_sort_order": "D"
+        },
+        {
+            "designated_name": "Vespertilionidae",
+            "source": "The Conservation (Nature Habitats, etc.) Regulations (Northern Ireland) 1995, amended 2004",
+            "source_description": "The Conservation (Nature Habitats, etc.) Regulations (Northern Ireland) 1995. Schedule 2- European Protected Species of Animals (amended 2004), Schedule 3- Animals which may not be taken or killed in certain ways, Schedule 4- European Protected Species of Plants",
+            "date_designated": "1995-01-01",
+            "reporting_category": "The Conservation (Nature Habitats, etc.) Regulations (NI) 1995",
+            "designation": "Schedule 2",
+            "designation_abbreviation": "ConsRegsNI-Sch2",
+            "designation_description": "Schedule 2- European protected species of animals.",
+            "reporting_category_sort_order": "L"
+        },
+        {
+            "designated_name": "Myotis dasycneme",
+            "source": "Agreement on the Conservation of Populations of European Bats (EUROBATS)",
+            "source_description": "Agreement on the Conservation of Populations of European Bats as adopted at the Third Session of the Meeting of Parties, held 24 - 26 July 2000 in Bristol, UK.",
+            "date_designated": "2000-01-01",
+            "reporting_category": "Convention on Migratory Species",
+            "designation": "EUROBATS Annex I",
+            "designation_abbreviation": "CMS_EUROBATS-A1",
+            "designation_description": "Protection and enhancement of species populations through legislation, education, conservation measures and international co-operation.",
+            "criteria_description": "European populations of CHIROPTERA (Rhinolophidae and Vespertilionidae) occurring in Europe and non-European Range States.",
+            "reporting_category_sort_order": "C1"
+        },
+        {
+            "designated_name": "Vespertilionidae",
+            "source": "The Conservation of Habitats and Species Regulations 2010",
+            "source_description": "The Conservation of Habitats and Species Regulations 2010 (abbreviated to the Habitats Regulations) consolidate all the various amendments made to the Conservation (Natural Habitats, &c.) Regulations 1994 in respect of England and Wales. The 1994 Regulations transposed the EC Habitats Directive into national law.  In Scotland the Habitats Directive is transposed through a combination of the Habitats Regulations 2010 (in relation to reserved matters) and the 1994 Regulations. Schedule 2- European protected species of animals, Schedule 3- Animals which may not be taken or killed in certain ways, Schedule 4- European protected species of plants.",
+            "url_source": "https://www.legislation.gov.uk/uksi/2010/490/schedule/2/made",
+            "date_designated": "1994-10-30",
+            "reporting_category": "The Conservation of Habitats and Species Regulations 2010",
+            "designation": "Schedule 2",
+            "designation_abbreviation": "HabReg-Sch2",
+            "designation_description": "Schedule 2- European protected species of animals.",
+            "reporting_category_sort_order": "K"
+        }
+    ]
+}
+

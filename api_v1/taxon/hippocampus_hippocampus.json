@@ -1,0 +1,117 @@
+{
+    "category": [
+        "Fish"
+    ],
+    "taxon_group": [
+        "bony fish (Actinopterygii)"
+    ],
+    "recommended_taxon_name": [
+        "Hippocampus hippocampus"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1758)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000040792"
+    ],
+    "designations": [
+        {
+            "designated_name": "Hippocampus hippocampus",
+            "common_name": "Seahorse, Short Snouted",
+            "source": "Wildlife and Countryside Act Schedules 1, 5 and 8 (protected birds, animals and plants)",
+            "source_description": "Protected Birds, Animals and Plants are listed in Schedules 1, 5 and 8 respectively of the Wildlife and Countryside Act.Schedule 1. The Act makes it an offence (with exception to species listed in Schedule 2) to intentionally kill, injure or take any wild bird or their eggs or nests. Special penalties are available for offences related to birds listed on Schedule 1, for which there are additional offences of disturbing these birds at their nests, or their dependent young. Schedule 5. The Act makes it an offence (subject to exceptions) to intentionally kill, injure, or take, possess, or trade in any wild animal listed in Schedule 5, and prohibits interference with places used for shelter or protection, or intentionally disturbing animals occupying such places. The Act also prohibits certain methods of killing, injuring, or taking wild animals.Schedule 8. The Act makes it an offence (subject to exceptions) to pick, uproot, trade in, or possess (for the purposes of trade) any wild plant listed in Schedule 8, and prohibits the unauthorised intentional uprooting of such plants.There is a statutory five-yearly review of Schedules 5 and 8 (protected wild animals and plants respectively).",
+            "url_source": "http://www.legislation.gov.uk/all?title=Wildlife%20and%20Countryside%20Act%201981",
+            "date_designated": "1996-01-01",
+            "reporting_category": "Wildlife and Countryside Act 1981",
+            "designation": "Schedule 5",
+            "designation_abbreviation": "WACA-Sch5",
+            "designation_description": "It applies only to England. Animals given general protection under section 9 - http://www.legislation.gov.uk/uksi/2008/431/note/made",
+            "comments": "England only. Uncommon and vulnerable. Most recent ammendment 2008 - http://www.legislation.gov.uk/uksi/2008/431/schedule/made",
+            "reporting_category_sort_order": "I"
+        },
+        {
+            "designated_name": "Hippocampus hippocampus",
+            "common_name": "Short-Snouted Seahorse",
+            "source": "Bern Convention",
+            "source_description": "The Convention on the Conservation of European Wildlife and Natural Habitats (the Bern Convention) was adopted in Bern, Switzerland in 1979, and came into force in 1982. The principal aims of the Convention are to ensure conservation and protection of wild plant and animal species and their natural habitats (listed in Appendices I and II of the Convention), to increase cooperation between contracting parties, and to ensure the protection of certain fauna species (listed in Appendix 3) imposing regulations on any exploitation. To this end the Convention imposes legal obligations on contracting parties, protecting over 500 wild plant species and more than 1000 wild animal species.",
+            "date_designated": "1996-01-01",
+            "reporting_category": "Bern Convention",
+            "designation": "Appendix 2",
+            "designation_abbreviation": "Bern-A2",
+            "designation_description": "Special protection (`appropriate and necessary legislative and administrative measures`) for the animal taxa listed, includingall forms of deliberate capture and keeping and deliberate killing; the deliberate damage to or destruction of breeding or resting sites; the deliberate disturbance of wild fauna, particularly during the period of breeding, rearing and hibernation, insofar as disturbance would be significant in relation to the objectives of this Convention; the deliberate destruction or taking of eggs from the wild or keeping these eggs even if empty; the possession of and internal trade in these animals, alive or dead, including stuffed animals and any readily recognisable part or derivative thereof, where this would contribute to the effectiveness of the provisions of this article.",
+            "reporting_category_sort_order": "A"
+        },
+        {
+            "designated_name": "Hippocampus hippocampus",
+            "common_name": "Short-snouted Seahorse",
+            "source": "The IUCN Red List of Threatened Species (2010)",
+            "source_description": "The IUCN Red List of Threatened Species provides taxonomic, conservation status and distribution information on taxa that have been globally evaluated using the IUCN Red List Categories and Criteria. This system is designed to determine the relative risk of extinction, and the main purpose of the IUCN Red List is to catalogue and highlight those taxa that are facing a higher risk of global extinction (i.e. those listed as Critically Endangered, Endangered and Vulnerable). The IUCN Red List also includes information on taxa that are categorized as Extinct or Extinct in the Wild; on taxa that cannot be evaluated because of insufficient information (i.e. are Data Deficient); and on taxa that are either close to meeting the threatened thresholds or that would be threatened were it not for an ongoing taxon-specific conservation programme (i.e. are Near Threatened).",
+            "date_designated": "2003-01-01",
+            "reporting_category": "Global Red list status",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "RedList_Global_post2001_DD",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that threatened classification is appropriate. It is important to make positive use of whatever data are available. In many cases great care should be exercised in choosing between DD and a threatened status. If the range of a taxon is suspected to be relatively circumscribed, and a considerable period of time has elapsed since the last record of the taxon, threatened status may well be justified.",
+            "iucn_version": "2001",
+            "criteria_description": "ver 2001",
+            "comments": "Population trend= 'unknown'",
+            "reporting_category_sort_order": "F"
+        },
+        {
+            "designated_name": "Hippocampus hippocampus",
+            "common_name": "Short-snouted seahorse",
+            "source": "OSPAR List of Threatened and/or Declining Species and Habitats, 2008",
+            "source_description": "OSPAR List of Threatened and/or Declining Species and Habitats as agreed at the OSPAR Convention for the Protection of the Marine Environment of the North-East Atlantic, 2008. The agreement replaces that of 2004-6. (Reference Number- 2008-6). OSPAR Area Key- I - the Arctic- the OSPAR maritime area north of latitude 62 Degrees N, but also including Iceland and the Faeroes; II - the Greater North Sea- the North Sea, the English Channel, the Skagerrak and the Kattegat to the limits of the OSPAR maritime area, bounded on the north by latitude 62 Degrees N, on the west by longitude 5 Degrees W and the east coast of Great Britain, and on the south by latitude 48 Degrees N; III - the Celtic Seas- the area bounded by, on the east, longitude 5 Degrees W and the west coast of Great Britain and on the west by the 200 metre isobath (depth contour) to the west of 6W along the west coasts of Scotland and Ireland; IV - the Bay of Biscay/Golfe de Gascogne and Iberian coasts- the area south of latitude 48N, east of 11 Degrees W and north of latitude 36 Degrees N (the southern boundary of the OSPAR maritime area); V - the Wider Atlantic- the remainder of the OSPAR maritime area.",
+            "date_designated": "2008-01-01",
+            "reporting_category": "OSPAR",
+            "designation": "OSPAR",
+            "designation_abbreviation": "OSPAR",
+            "designation_description": "OSPAR Convention for the Protection of the Marine Environment of the North-East Atlantic. OSPAR List of Threatened and/or Declining Species and Habitats.",
+            "criteria_description": "Threatened and/or declining species within the OSPAR Region",
+            "comments": "OSPAR Regions where the species occurs= II, III, IV, V.  OSPAR Regions where the species is under threat and/or in decline= All where it occurs",
+            "reporting_category_sort_order": "C2"
+        },
+        {
+            "designated_name": "Hippocampus",
+            "common_name": "Short-Snouted Seahorse",
+            "source": "CITES UK Species only",
+            "source_description": "The Washington Convention on International Trade in Endangered Species of Wild Fauna and Flora, more commonly known as CITES, aims to protect certain plants and animals by regulating and monitoring their international trade to prevent it reaching unsustainable levels. The Convention entered into force in 1975, and the UK became a Party in 1976.",
+            "date_designated": "2004-05-01",
+            "reporting_category": "EC Cites",
+            "designation": "Annex B",
+            "designation_abbreviation": "ECCITES-B",
+            "designation_description": "All other CITES Appendix II species not listed in Annex A.Some CITES Appendix III species.Some non-CITES species.",
+            "comments": "moved fom Cites Annex D to Annex B",
+            "reporting_category_sort_order": "E"
+        },
+        {
+            "designated_name": "Hippocampus hippocampus",
+            "common_name": "Short-Snouted Seahorse",
+            "source": "Natural Environment and Rural Communities Act 2006 - Species of Principal Importance in England (section 41)",
+            "source_description": "Sections 41 (England) of the Natural Environment and Rural Communities Act 2006 require the listing of species of principal importance for the purpose of conserving biodiversity and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "date_designated": "2008-11-01",
+            "reporting_category": "Biodiversity Lists - England",
+            "designation": "England NERC S.41",
+            "designation_abbreviation": "England_NERC_S.41",
+            "designation_description": "Species “of principal importance for the purpose of conserving biodiversity” covered under section 41 (England) of the NERC Act (2006) and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "reporting_category_sort_order": "Hb"
+        },
+        {
+            "designated_name": "Hippocampus hippocampus",
+            "common_name": "Short snouted seahorse",
+            "source": "UK list of Priority Habitats and Species",
+            "source_description": "Starting in 2005, the old UK BAP priorities were reviewed and a new list called the UK List of Priority Species and Habitats was published in 2007 after adoption by the Governments of all four UK administrations. The species and habitats on this list help guide conservation actions being taken by the four countries in the UK as part of the UK contribution to the Convention on Biological Diversity.",
+            "date_designated": "2007-08-28",
+            "reporting_category": "Biodiversity Action Plan UK list of priority species",
+            "designation": "Priority Species",
+            "designation_abbreviation": "BAP-2007",
+            "designation_description": "The UK List of Priority Species and Habitats contains 1150 species and 65 habitats that have been listed as priorities for conservation action under the UK Biodiversity Action Plan (UK BAP).",
+            "criteria_description": "Threat",
+            "comments": "not on former UK BAP list",
+            "reporting_category_sort_order": "Ha"
+        }
+    ]
+}
+

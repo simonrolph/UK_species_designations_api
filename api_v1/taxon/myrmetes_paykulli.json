@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Myrmetes paykulli"
+    ],
+    "recommended_authority": [
+        "Kanaar, 1979"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001719088"
+    ],
+    "designations": [
+        {
+            "designated_name": "Myrmetes paykulli",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "There has been a dramatic decrease in AoO of this species historically with a 48% decline evidenced between the main period hectad counts. The reasons for this decline are unknown, but wood ant (Formica rufa) has certainly died out at former sites in central England and Forestry operations and woodland clearance may have contributed to the decline. However, there is no evidence that this decline is ongoing as the recent 30-year period hectad counts show. The species is also highly likely to be under-recorded in forested tracts of Scotland, so the post-1990 hectad count of 15 is possibly a gross under-representation of the true extent of the population across the region. For these reasons, the species falls short of qualifying for IUCN status. The status of Nationally Scarce is maintained, rather than upgraded, based on the assumption that the species is more widespread than current records suggest. 80 records.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Myrmetes paykulli",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

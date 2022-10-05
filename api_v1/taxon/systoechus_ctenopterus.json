@@ -1,0 +1,38 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Systoechus ctenopterus"
+    ],
+    "recommended_authority": [
+        "(Mikan, 1787)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021131322"
+    ],
+    "designations": [
+        {
+            "designated_name": "Systoechus ctenopterus",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Not Evaluated",
+            "designation_abbreviation": "RedList_GB_post2001-NE",
+            "designation_description": "A taxon is Not Evaluated when it is has not yet been evaluated against the criteria",
+            "iucn_version": "2001",
+            "criteria_description": "D2",
+            "comments": "The single sighting from Surrey in 2008 was obtained from a photograph and has not been confirmed with a specimen.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

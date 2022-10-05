@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Mammal"
+    ],
+    "taxon_group": [
+        "marine mammal"
+    ],
+    "recommended_taxon_name": [
+        "Ziphiidae"
+    ],
+    "recommended_authority": [
+        "Gray, 1850"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021053575"
+    ],
+    "designations": [
+        {
+            "designated_name": "Ziphiidae",
+            "common_name": "other beaked whales",
+            "source": "Agreement on the Conservation of Small Cetaceans of the Baltic, North East Atlantic, Irish and North Seas (ASCOBANS)",
+            "source_description": "Agreement on the Conservation of Small Cetaceans of the Baltic, North East Atlantic, Irish and North Seas as extended February 2008",
+            "date_designated": "2008-02-03",
+            "reporting_category": "Convention on Migratory Species",
+            "designation": "ASCOBANS",
+            "designation_abbreviation": "CMS_ASCOBANS",
+            "designation_description": "Conservation of small cetacean species to achieve favourable conservation status, conscious that the management of threats to their existence, such as bycatch, habitat deterioration and other anthropogenic disturbance, requires concerted and coordinated responses.",
+            "criteria_description": "All species, subspecies or populations of toothed whales in these seas [North Sea, North Atlantic and Baltic] except for the sperm whale (Physeter macrocephalus)",
+            "reporting_category_sort_order": "C1"
+        }
+    ]
+}
+

@@ -1,0 +1,62 @@
+{
+    "category": [
+        "Vascular plant"
+    ],
+    "taxon_group": [
+        "flowering plant"
+    ],
+    "recommended_taxon_name": [
+        "Primula veris"
+    ],
+    "recommended_authority": [
+        "L."
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000003926"
+    ],
+    "designations": [
+        {
+            "designated_name": "Primula veris",
+            "common_name": "Cowslip",
+            "source": "Wildlife (Northern Ireland) Order (1985)",
+            "source_description": "The principle legislation for wildlife protection in Northern Ireland",
+            "date_designated": "1985-01-01",
+            "reporting_category": "The Wildlife (Northern Ireland) Order 1985",
+            "designation": "Schedule 8 - Part 1",
+            "designation_abbreviation": "W(NI)O-Sch8_part1",
+            "designation_description": "Plants which are protected from intentional picking, removal or destruction and from selling (in whole or part) and from advertising for sale.",
+            "reporting_category_sort_order": "J"
+        },
+        {
+            "designated_name": "Primula veris",
+            "source": "The Vascular Plant Red Data List for Great Britain, revised February 2019",
+            "source_description": "Leach, S.J. 2019 (in prep) The Vascular Plant Red Data List for Great Britain: a summary of amendments in years 12 and 13 (2017-2018) of the annual amendments process. BSBI News 141",
+            "url_source": "https://bsbi.org/taxon-lists",
+            "date_designated": "2018-01-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Primula veris",
+            "common_name": "Cowslip",
+            "source": "A Vascular Plant Red List for England",
+            "source_description": "A vascular plant Red List present for the first time the current state of England's flora measuredagainst standardised IUCN criteria. P.A. Stroh et al. 2014.",
+            "url_source": "http://www.bsbi.org.uk/England_Red_List_1.pdf",
+            "date_designated": "2014-11-18",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_ENG_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

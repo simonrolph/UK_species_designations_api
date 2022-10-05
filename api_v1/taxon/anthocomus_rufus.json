@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Anthocomus rufus"
+    ],
+    "recommended_authority": [
+        "(Herbst, 1784)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000024408"
+    ],
+    "designations": [
+        {
+            "designated_name": "Anthocomus rufus",
+            "source": "A review of the beetles of Great Britain: The Soldier Beetles and their allies",
+            "source_description": "A review of the beetles of Great Britain. The soldier beetles and their allies.  Buprestidae, Cantharidae, Cleridae, Dasytidae, Drilidae, Lampyridae, Lycidae, Lymexylidae, Malachiidae, Phloiophilidae and Trogossitidae.  K.N.A. Alexander January 2014",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6314340407836672?category=30001",
+            "date_designated": "2014-01-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

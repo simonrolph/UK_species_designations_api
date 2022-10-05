@@ -1,0 +1,62 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Cercyon nigriceps"
+    ],
+    "recommended_authority": [
+        "(Marsham, 1802)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000143997"
+    ],
+    "designations": [
+        {
+            "designated_name": "Cercyon atricapillus",
+            "source": "A review of the scarce and threatened beetles of Great Britain Part 1 (Hyman, P.S. revised and updated by M.S. Parsons)",
+            "source_description": "Hyman, P S revised and updated by Parsons, M S.  UK nature conservation, No. 3.  Published by JNCC, 1992.  Along with Part 2, updates relevant information in the RDB Insects (1987) using the old IUCN categories and criteria (pre 1994).",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Pub92_Review_of_Scarce_&_Threatened_Coleoptera_of_Great_Britain_Part-1_(1)_PRINT.pdf",
+            "date_designated": "1992-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Notable B",
+            "designation_abbreviation": "Notable-B",
+            "designation_description": "Taxa which do not fall within RDB categories but which are none-the-less uncommon in Great Britain and thought to occur in between 31 and 100 10km squares of the National Grid or, for less-well recorded groups between eight and twenty vice-counties. Superseded by Nationally Scarce, and therefore no longer in use.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Cercyon atricapillus",
+            "source": "A review of the scarce and threatened beetles of Great Britain Part 2 (Hyman, P.S. revised and updated by M.S. Parsons.)",
+            "source_description": "Hyman, P S revised and updated by Parsons, M S.  UK nature conservation, No. 12.  Published by JNCC, 1994.  Along with Part 1, updates relevant information in the RDB Insects (1987) using the old IUCN categories and criteria (pre 1994).",
+            "url_source": "http://jncc.defra.gov.uk/PDF/Pub92_Review_of_Scarce_&_Threatened_Coleoptera_of_Great_Britain_Part-1_(2)_PRINT.pdf",
+            "date_designated": "1994-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Notable",
+            "designation_abbreviation": "Notable",
+            "designation_description": "Species which are estimated to occur within the range of 16 to 100 10km squares. (subdivision into Notable A and Notable B is not always possible because there may be insufficient information available). Superseded by Nationally Scarce, and therefore no longer in use.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Cercyon (Cercyon) nigriceps",
+            "common_name": "a water beetle",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Watching brief only; Criterion: S3 - Rare in the UK (<16 10km sqs)",
+            "comments": "Terrestrial/Freshwater Species.",
+            "reporting_category_sort_order": "Hc"
+        }
+    ]
+}
+

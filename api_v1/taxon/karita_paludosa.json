@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "spider (Araneae)"
+    ],
+    "recommended_taxon_name": [
+        "Karita paludosa"
+    ],
+    "recommended_authority": [
+        "(Duffey, 1971)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020785960"
+    ],
+    "designations": [
+        {
+            "designated_name": "Karita paludosa",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Karita paludosa",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "D2",
+            "comments": "Recorded from three hectads since 1993. There is an apparent decline in AOO, but the minute size of this species means that it may possibly have been overlooked in otherwise well-recorded fenland sites, hence downgraded to VU. In the Norfolk Broads, drainage of marshland and invasion of herbaceous fen communities by scrub and carr woodland as a result of abandonment of traditional mowing practices may be the principal threats. In the Somerset Levels, arable conversion of grazing with attendant drainage works has lowered the water table over much of the area. Westhay Moor has also been severely damaged by peat extraction for horticultural use. Threats: Hickling Broad is a National Nature Reserve within a larger SSSI and both Reedham Marshes and Catfield Fen are parts of an SSSI. In Somerset, Westhay Moor is a Local Nature Reserve and an SSSI. In the Norfolk broads, drainage of marshland and invasion of herbaceous fen communities by scrub and carr woodland as a result of abandonment of traditional mowing practices may be the principal threats. However, in Belgium, Decleer & Bosmans (1989) found this species to be very much less abundant in plots that were regularly cut than in uncut plots in the de Blankaart Nature Reserve and the effect of frequency of mowing on populations of this species (in relation to maintenance of a dense litter layer) will require further study. In the Somerset Levels, conversion of grazing marsh to arable agriculture with attendant drainage works has lowered the water table over much of the area. Westhay Moor has also been severely damaged by peat extraction for horticultural use.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

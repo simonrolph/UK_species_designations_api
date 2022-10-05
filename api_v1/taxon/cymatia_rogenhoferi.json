@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Cymatia rogenhoferi"
+    ],
+    "recommended_authority": [
+        "(Fieber, 1864)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020063202"
+    ],
+    "designations": [
+        {
+            "designated_name": "Cymatia rogenhoferi",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Not Evaluated",
+            "designation_abbreviation": "RedList_GB_post2001-NE",
+            "designation_description": "A taxon is Not Evaluated when it is has not yet been evaluated against the criteria",
+            "iucn_version": "2001",
+            "comments": "First recorded in Bedfordshire in 2005 (Brooke, S.E., 2009) and also known from one site in Essex and one in Kent (Rye Harbour). Spread into western Europe over the last 20 years (Cianferoni 2013). A recent colonist, it probably bred in a gravel pit in Bedfordshire before dying out (S. Brooke pers. comm.).",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

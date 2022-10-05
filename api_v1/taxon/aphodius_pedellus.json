@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Aphodius pedellus"
+    ],
+    "recommended_authority": [
+        "(De Geer, 1774)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020919939"
+    ],
+    "designations": [
+        {
+            "designated_name": "Aphodius pedellus",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Under recorded due to the recent discovery that 'fimetarius' in Britain comprises the present species and Aphodius fimetarius sensu stricto (Wilson, 2001). From reliably recorded specimens, the species appears to have a wider distribution than fimetarius and may also be more frequent than that species (pers obs.). A. pedellus is found across southern England, north to the Midlands and northern England, into Wales and also sparingly in mainland Scotland. Like fimetarius, it also inhabits the Outer Hebrides and the Ebudes. Interestingly, the distribution pattern suggests that the species might be more-or-less coastal north of Midlands England, but this may simply reflect recording bias.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

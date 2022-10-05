@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Eutrichota longimana"
+    ],
+    "recommended_authority": [
+        "(Pokorny, 1887)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0100003170"
+    ],
+    "designations": [
+        {
+            "designated_name": "Eutrichota longimana",
+            "source": "A Provisional Assessment of the Status of Calypterate flies in the UK",
+            "source_description": "This report was originally commissioned to update the threat status of some calypterate fly families. It is based on text originally submitted in 2005-12, but subsequently updated a number of times, most recently in late 2016. It provides a valuable repository of information on many species and should act as  a springboard to further survey and work",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5145257026519040?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "RedList_GB_post2001-DD",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat or Lower Risk. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that a threatened category is appropriate.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

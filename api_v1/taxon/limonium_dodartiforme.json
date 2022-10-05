@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Vascular plant"
+    ],
+    "taxon_group": [
+        "flowering plant"
+    ],
+    "recommended_taxon_name": [
+        "Limonium dodartiforme"
+    ],
+    "recommended_authority": [
+        "Ingr."
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000459826"
+    ],
+    "designations": [
+        {
+            "designated_name": "Limonium dodartiforme",
+            "source": "A Vascular Plant Red List for England",
+            "source_description": "A vascular plant Red List present for the first time the current state of England's flora measuredagainst standardised IUCN criteria. P.A. Stroh et al. 2014.",
+            "url_source": "http://www.bsbi.org.uk/England_Red_List_1.pdf",
+            "date_designated": "2014-11-18",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Waiting List",
+            "designation_abbreviation": "WL",
+            "designation_description": "Occasionally, potential new native taxa that may have arrived via natural dispersal are kept on a Waiting List (WL) until such time as doubts over their native/alien status are resolved.",
+            "criteria_description": "Taxonomic work awaited.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

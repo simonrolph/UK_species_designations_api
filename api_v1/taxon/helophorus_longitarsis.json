@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Helophorus longitarsis"
+    ],
+    "recommended_authority": [
+        "Wollaston, 1864"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007666"
+    ],
+    "designations": [
+        {
+            "designated_name": "Helophorus longitarsis",
+            "source": "A review of the scarce and threatened Coleoptera of Great Britain Part (3)- Water beetles of Great Britain",
+            "source_description": "Foster, G.N. 2010. A review of the scarce and threatened Coleoptera of Great Britain Part (3)- Water beetles of Great Britain. Species Status 1. Joint Nature Conservation Committee, Peterborough.",
+            "url_source": "https://hub.jncc.gov.uk/assets/e80beaf2-456c-4178-8f91-16c2ef01368d",
+            "date_designated": "2010-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Scarce. Excludes Red Listed taxa",
+            "designation_abbreviation": "NS-excludes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Excludes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

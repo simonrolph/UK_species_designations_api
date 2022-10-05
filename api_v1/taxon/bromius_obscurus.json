@@ -1,0 +1,38 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Bromius obscurus"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1758)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011143"
+    ],
+    "designations": [
+        {
+            "designated_name": "Bromius obscurus",
+            "source": "A review of the scarce and threatened beetles of Great Britain: The leaf beetles and their allies",
+            "source_description": "The leaf beetles and their allies: Chrysomelidae, Megalopodidae and Orsodacnidae. D S Hubble. October 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6548461654638592",
+            "date_designated": "2014-10-24",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Critically Endangered",
+            "designation_abbreviation": "RedList_GB_post2001-CR",
+            "designation_description": "A taxon is Critically Endangered when it is facing an extremely high risk of extinction in the wild in the immediate future, as defined by any of the criteria A to E.",
+            "iucn_version": "2001",
+            "criteria_description": "B2a, bii",
+            "comments": "Very recently found at Jupiter in Scotland  in very low numbers.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

@@ -1,0 +1,48 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Abdera affinis"
+    ],
+    "recommended_authority": [
+        "(Paykull, 1799)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000024888"
+    ],
+    "designations": [
+        {
+            "designated_name": "Abdera affinis",
+            "source": "A review of the beetles of Great Britain: The Darkling Beetles and their allies",
+            "source_description": "This report was commissioned to update the threat status of Darkling beetles  from work originally undertaken in 1987, 1992 and 1994 using the IUCN methodology for assessing threat. Aderidae, Anthicidae, Colydiidae, Melandryidae, Meloidae, Mordellidae, Mycetophagidae, Mycteridae, Oedemeridae, Pyrochroidae, Pythidae, Ripiphoridae, Salpingidae, Scraptiidae, Tenebrionidae & Tetratomidae (Tenebrionoidea less Ciidae).  K.N.A. Alexander, S. Dodd & J.S. Denton.  http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf. May 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5862553594888192",
+            "date_designated": "2014-05-23",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Critically Endangered (possibly extinct)",
+            "designation_abbreviation": "RedList_GB_post2001-CR(PE)",
+            "designation_description": "A taxon is Critically Endangered when the best available evidence indicates that it meets any of the criteria A to E for Critically Endangered (see Section V), and it is therefore considered to be facing an extremely high risk of extinction in the wild.  Possibly extinct indicates that there is a small chance that the taxon may still be extant, and hence  should not be listed as Extinct until local or unconfirmed reports have been discounted, and adequate surveys have failed to find any individuals.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Abdera affinis",
+            "source": "A review of the beetles of Great Britain: The Darkling Beetles and their allies",
+            "source_description": "This report was commissioned to update the threat status of Darkling beetles  from work originally undertaken in 1987, 1992 and 1994 using the IUCN methodology for assessing threat. Aderidae, Anthicidae, Colydiidae, Melandryidae, Meloidae, Mordellidae, Mycetophagidae, Mycteridae, Oedemeridae, Pyrochroidae, Pythidae, Ripiphoridae, Salpingidae, Scraptiidae, Tenebrionidae & Tetratomidae (Tenebrionoidea less Ciidae).  K.N.A. Alexander, S. Dodd & J.S. Denton.  http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf. May 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5862553594888192",
+            "date_designated": "2014-05-23",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

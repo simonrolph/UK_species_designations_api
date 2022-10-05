@@ -1,0 +1,38 @@
+{
+    "category": [
+        "Vascular plant"
+    ],
+    "taxon_group": [
+        "flowering plant"
+    ],
+    "recommended_taxon_name": [
+        "Hieracium pycnotrichum"
+    ],
+    "recommended_authority": [
+        "(W.R. Linton) Roffey"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000459578"
+    ],
+    "designations": [
+        {
+            "designated_name": "Hieracium pycnotrichum",
+            "common_name": "Dense-leaved Hawkweed",
+            "source": "A Vascular Plant Red List for England",
+            "source_description": "A vascular plant Red List present for the first time the current state of England's flora measuredagainst standardised IUCN criteria. P.A. Stroh et al. 2014.",
+            "url_source": "http://www.bsbi.org.uk/England_Red_List_1.pdf",
+            "date_designated": "2014-11-18",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Extinct",
+            "designation_abbreviation": "RedList_GB_post2001-EX",
+            "designation_description": "A taxon is Extinct in Great Britain when there is no reasonable doubt that the last individual in Great Britain has died. A taxon is presumed extinct when exhaustive surveys in known and/or expected habitat, at appropriate times (diurnal, seasonal, annual), throughout its historical range have failed to record an individual. Surveys should be over a time scale appropriate to the taxon's life cycle and life form.",
+            "iucn_version": "2001",
+            "criteria_description": "No longer present in either of its last two sites, where it was last seen in 1889 (Rich 2013a).",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

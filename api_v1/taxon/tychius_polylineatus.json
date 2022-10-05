@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Tychius polylineatus"
+    ],
+    "recommended_authority": [
+        "(Germar, 1824)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000025469"
+    ],
+    "designations": [
+        {
+            "designated_name": "Tychius polylineatus",
+            "source": "A review of the scarce and threatened beetles of Great Britain Part 1 (Hyman, P.S. revised and updated by M.S. Parsons)",
+            "source_description": "Hyman, P S revised and updated by Parsons, M S.  UK nature conservation, No. 3.  Published by JNCC, 1992.  Along with Part 2, updates relevant information in the RDB Insects (1987) using the old IUCN categories and criteria (pre 1994).",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Pub92_Review_of_Scarce_&_Threatened_Coleoptera_of_Great_Britain_Part-1_(1)_PRINT.pdf",
+            "date_designated": "1992-01-01",
+            "reporting_category": "Red Listing based on pre 1994 IUCN guidelines",
+            "designation": "IUCN (pre 1994) - Insufficiently known",
+            "designation_abbreviation": "RedList_GB_Pre94-Insu",
+            "designation_description": "Taxa that are suspected but not definitely known to belong to any of the above categories (i.e. Endangered, Vulnerable, Rare), because of the lack of information. Superseded by new IUCN categories in 1994, so no longer in use.",
+            "iucn_version": "pre 1994",
+            "reporting_category_sort_order": "Fa"
+        }
+    ]
+}
+

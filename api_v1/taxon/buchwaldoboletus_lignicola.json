@@ -1,0 +1,38 @@
+{
+    "category": [
+        "Fungi"
+    ],
+    "taxon_group": [
+        "fungus"
+    ],
+    "recommended_taxon_name": [
+        "Buchwaldoboletus lignicola"
+    ],
+    "recommended_authority": [
+        "(Kallenb.) Pilát"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "BMSSYS0000002926"
+    ],
+    "designations": [
+        {
+            "designated_name": "Buchwaldoboletus lignicola",
+            "common_name": "Wood Bolete",
+            "source": "Red List of Fungi for Great Britain: Boletaceae 2013",
+            "source_description": "Pilot conservation assessment based on national database records, fruit body morphology and DNA barcoding. Authors: A.M. Ainsworth, J.H. Smith, L. Boddy, B.T.M. Dentinger, M. Jordan, D. Parfitt, H.J. Rogers & S.J. Skeates.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/SpeciesStatus14_web.pdf",
+            "date_designated": "2013-01-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "comments": "2013 assessment based on IUCN Criterion D",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

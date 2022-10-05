@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Mycomya shermani"
+    ],
+    "recommended_authority": [
+        "Garrett, 1924"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011682"
+    ],
+    "designations": [
+        {
+            "designated_name": "Mycomya shermani Garrett (as M. kingi Edwards in Shirt 1987)",
+            "source": "Falk, S.J. & Chandler, P.J. 2005.  A review of the scarce and threatened flies of Great Britain. Part 2- Nematocera and Aschiza not dealt with by Falk (1991).  Species Status 2- 1-191.  Joint Nature Conservation Committee, Peterborough",
+            "source_description": "The first account of threatened British Diptera was included in Shirt (1987). This listed 827 Diptera, 270 as Endangered, 226 as Vulnerable, 328 as Rare and 3 as Appendix (extinct). This was followed by the publication of A review of the scarce and threatened flies of Great Britain (Part 1) (Falk 1991). This presented species accounts of threatened species from the better-known families of British Diptera, together with a list of all British flies provisionally assigned to Red Data Book and Nationally Notable (now termed Lower Risk (Nationally Scarce)) categories.The present volume deals with those Nematocera and Aschiza which were listed but not provided with Data Sheets by Falk (1991). Thus members of the following families are included- Mycetophilidae sensu lato (now five families- Bolitophilidae, Ditomyiidae, Diadocidiidae, Keroplatidae, Mycetophilidae sensu stricto), Trichoceridae, Mycetobiidae (sometimes included in Anisopodidae), Ptychopteridae, Dixidae, Culicidae, Thaumaleidae, Ceratopogonidae, Platypezidae, Phoridae, Lonchopteridae and Pipunculidae; the Atelestidae, included within the Platypezidae by Falk (1991) but now regarded as a family of Empidoidea are dealt with by Falk & Crossley (2005). The remaining families of Diptera apart from Nematocera and Aschiza that were not dealt with by Falk (1991) are reviewed in three further parts within the JNCC Species Status Review series.This Review was first revised by Peter Chandler in 1995 from species accounts originally drafted by Steven Falk, and was further revised in February 2000 and in December 2004 to take account of more recent information in respect of Mycetophilidae sensu lato, Platypezidae and Dixidae. It has not been practicable to bring the data on all families up to date, except where there was information available on particular species considered relevant to the assessment of their status. The status of many species as proposed by Falk (1991) has been revised during the preparation of this volume. Initially, the Red Data Book and Notable categories (as defined by Parsons 1993) were used for this revision. Subsequently, following the adoption of the revised IUCN Guidelines (IUCN 1994) by JNCC in 1995, a further revision of the status for all species was carried out by Ian McLean (JNCC) in 2003 and 2004.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/pub05_speciesstatus_nematoceraandaschizav4_web.pdf",
+            "date_designated": "2005-05-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Scarce. Excludes Red Listed taxa",
+            "designation_abbreviation": "NS-excludes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Excludes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

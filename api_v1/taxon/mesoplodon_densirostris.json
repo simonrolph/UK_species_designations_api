@@ -1,0 +1,75 @@
+{
+    "category": [
+        "Mammal"
+    ],
+    "taxon_group": [
+        "marine mammal"
+    ],
+    "recommended_taxon_name": [
+        "Mesoplodon densirostris"
+    ],
+    "recommended_authority": [
+        "(Blainville, 1817)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000376912"
+    ],
+    "designations": [
+        {
+            "designated_name": "Cetacea",
+            "common_name": "Blainville's beaked whale",
+            "source": "Habitats Directive",
+            "source_description": "In 1992 the European Community adopted Council Directive 92/43/EEC on the Conservation of natural habitats and of wild fauna and flora (EC Habitats Directive). This is the means by which the Community meets its obligations as a signatory of the Convention on the Conservation of European Wildlife and Natural Habitats (Bern Convention). The provisions of the Directive requires Member States to introduce a range of measures including the protection of species listed in the Annexes; to undertake surveillance of habitats and species and produce a report every six years on the implementation of the Directive. The 169 habitats listed in Annex I of the Directive and the 623 species listed in Annex II, are to be protected by means of a network of sites. Each Member State is required to prepare and propose a national list of sites, which will be evaluated in order to form a European network of Sites of Community Importance (SCIs). These will eventually be designated by Member States as Special Areas of Conservation (SACs), and along with Special Protection Areas (SPAs) classified under the EC Birds Directive, form a network of protected areas known as Natura 2000.",
+            "url_source": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:01992L0043-20070101&from=EN",
+            "date_designated": "1992-01-01",
+            "reporting_category": "Habitats Directive",
+            "designation": "Annex 4",
+            "designation_abbreviation": "HabDir-A4",
+            "designation_description": "Animal and plant species of Community interest (i.e. endangered, vulnerable, rare or endemic in the European Community) in need of strict protection. They are protected from killing, disturbance or the destruction of them or their habitat. Note that the contents of this annex have been updated in April 2003 following the Treaty of Accession.",
+            "reporting_category_sort_order": "D"
+        },
+        {
+            "designated_name": "Cetacea",
+            "source": "The Conservation (Nature Habitats, etc.) Regulations (Northern Ireland) 1995, amended 2004",
+            "source_description": "The Conservation (Nature Habitats, etc.) Regulations (Northern Ireland) 1995. Schedule 2- European Protected Species of Animals (amended 2004), Schedule 3- Animals which may not be taken or killed in certain ways, Schedule 4- European Protected Species of Plants",
+            "date_designated": "1995-01-01",
+            "reporting_category": "The Conservation (Nature Habitats, etc.) Regulations (NI) 1995",
+            "designation": "Schedule 2",
+            "designation_abbreviation": "ConsRegsNI-Sch2",
+            "designation_description": "Schedule 2- European protected species of animals.",
+            "reporting_category_sort_order": "L"
+        },
+        {
+            "designated_name": "Mesoplodon densirostris",
+            "common_name": "Blainville's Beaked Whale",
+            "source": "The IUCN Red List of Threatened Species (2010)",
+            "source_description": "The IUCN Red List of Threatened Species provides taxonomic, conservation status and distribution information on taxa that have been globally evaluated using the IUCN Red List Categories and Criteria. This system is designed to determine the relative risk of extinction, and the main purpose of the IUCN Red List is to catalogue and highlight those taxa that are facing a higher risk of global extinction (i.e. those listed as Critically Endangered, Endangered and Vulnerable). The IUCN Red List also includes information on taxa that are categorized as Extinct or Extinct in the Wild; on taxa that cannot be evaluated because of insufficient information (i.e. are Data Deficient); and on taxa that are either close to meeting the threatened thresholds or that would be threatened were it not for an ongoing taxon-specific conservation programme (i.e. are Near Threatened).",
+            "date_designated": "2008-01-01",
+            "reporting_category": "Global Red list status",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "RedList_Global_post2001_DD",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that threatened classification is appropriate. It is important to make positive use of whatever data are available. In many cases great care should be exercised in choosing between DD and a threatened status. If the range of a taxon is suspected to be relatively circumscribed, and a considerable period of time has elapsed since the last record of the taxon, threatened status may well be justified.",
+            "iucn_version": "2001",
+            "criteria_description": "ver 2001",
+            "comments": "Population trend= 'unknown'",
+            "reporting_category_sort_order": "F"
+        },
+        {
+            "designated_name": "Cetacea",
+            "common_name": "Blainville's beaked whale",
+            "source": "The Conservation of Habitats and Species Regulations 2010",
+            "source_description": "The Conservation of Habitats and Species Regulations 2010 (abbreviated to the Habitats Regulations) consolidate all the various amendments made to the Conservation (Natural Habitats, &c.) Regulations 1994 in respect of England and Wales. The 1994 Regulations transposed the EC Habitats Directive into national law.  In Scotland the Habitats Directive is transposed through a combination of the Habitats Regulations 2010 (in relation to reserved matters) and the 1994 Regulations. Schedule 2- European protected species of animals, Schedule 3- Animals which may not be taken or killed in certain ways, Schedule 4- European protected species of plants.",
+            "url_source": "https://www.legislation.gov.uk/uksi/2010/490/schedule/2/made",
+            "date_designated": "1994-10-30",
+            "reporting_category": "The Conservation of Habitats and Species Regulations 2010",
+            "designation": "Schedule 2",
+            "designation_abbreviation": "HabReg-Sch2",
+            "designation_description": "Schedule 2- European protected species of animals.",
+            "reporting_category_sort_order": "K"
+        }
+    ]
+}
+

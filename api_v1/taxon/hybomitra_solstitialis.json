@@ -1,0 +1,51 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Hybomitra solstitialis"
+    ],
+    "recommended_authority": [
+        "(Meigen, 1820)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000148975"
+    ],
+    "designations": [
+        {
+            "designated_name": "Hybomitra solstitialis",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Endangered",
+            "designation_abbreviation": "RedList_GB_post2001-EN",
+            "designation_description": "A taxon is Endangered when it is not Critically endangered but is facing a very high risk of extinction in the wild in the near future.",
+            "iucn_version": "2001",
+            "criteria_description": "B2ab(ii,iv)",
+            "comments": "The species has probably always been rare and, until the recent Oxfordshire record, thought to have been confined to the New Forest. It is still known from only two sites and has undergone extreme fluctuations in abundance, being unrecorded between 1934 and 2011. The distribution is clearly fragmented. From the limited number of New Forest records with site names, the species appears to have been recorded from the same small area in which mire occupies far less than 30km2; the area of the entire suite of Oxfordshire fen SSSI around Cothill and Dry Sandford (which may be unsuitable) amounts to less than 2km2. Given the apparently precise nature of the species’ preferred habitat, the area of occupancy is likely to be less than 10km2.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Hybomitra solstitialis",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "The species has probably always been rare and, until the recent Oxfordshire record, thought to have been confined to the New Forest. It is still known from only two sites and has undergone extreme fluctuations in abundance, being unrecorded between 1934 and 2011. The distribution is clearly fragmented. From the limited number of New Forest records with site names, the species appears to have been recorded from the same small area in which mire occupies far less than 30km2; the area of the entire suite of Oxfordshire fen SSSI around Cothill and Dry Sandford (which may be unsuitable) amounts to less than 2km2. Given the apparently precise nature of the species’ preferred habitat, the area of occupancy is likely to be less than 10km2.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

@@ -1,0 +1,77 @@
+{
+    "category": [
+        "Non-vascular plant"
+    ],
+    "taxon_group": [
+        "liverwort"
+    ],
+    "recommended_taxon_name": [
+        "Herbertus borealis"
+    ],
+    "recommended_authority": [
+        "Crundw."
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000035766"
+    ],
+    "designations": [
+        {
+            "designated_name": "Herbertus borealis",
+            "source": "The IUCN Red List of Threatened Species (2010)",
+            "source_description": "The IUCN Red List of Threatened Species provides taxonomic, conservation status and distribution information on taxa that have been globally evaluated using the IUCN Red List Categories and Criteria. This system is designed to determine the relative risk of extinction, and the main purpose of the IUCN Red List is to catalogue and highlight those taxa that are facing a higher risk of global extinction (i.e. those listed as Critically Endangered, Endangered and Vulnerable). The IUCN Red List also includes information on taxa that are categorized as Extinct or Extinct in the Wild; on taxa that cannot be evaluated because of insufficient information (i.e. are Data Deficient); and on taxa that are either close to meeting the threatened thresholds or that would be threatened were it not for an ongoing taxon-specific conservation programme (i.e. are Near Threatened).",
+            "date_designated": "2000-01-01",
+            "reporting_category": "Global Red list status",
+            "designation": "Lower risk - least concern",
+            "designation_abbreviation": "RedList_Global_post94-LC",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent) or Lower Risk (near threatened).",
+            "iucn_version": "1994",
+            "criteria_description": "ver 1994",
+            "reporting_category_sort_order": "F"
+        },
+        {
+            "designated_name": "Herbertus delavayi (H. borealis)",
+            "source": "A revised list of nationally rare bryophytes, 2010",
+            "source_description": "Preston, C., 2010, A revised list of nationally rare bryophytes, Field Bryology 100",
+            "date_designated": "2010-02-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Rare. Excludes Red Listed taxa",
+            "designation_abbreviation": "NR-excludes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Excludes rare species qualifying under the main IUCN criteria.",
+            "criteria_description": "Species present in 1-15 10-km grid squares",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Herbertus borealis",
+            "common_name": "Northern Prongwort",
+            "source": "UK list of Priority Habitats and Species",
+            "source_description": "Starting in 2005, the old UK BAP priorities were reviewed and a new list called the UK List of Priority Species and Habitats was published in 2007 after adoption by the Governments of all four UK administrations. The species and habitats on this list help guide conservation actions being taken by the four countries in the UK as part of the UK contribution to the Convention on Biological Diversity.",
+            "date_designated": "2007-08-28",
+            "reporting_category": "Biodiversity Action Plan UK list of priority species",
+            "designation": "Priority Species",
+            "designation_abbreviation": "BAP-2007",
+            "designation_description": "The UK List of Priority Species and Habitats contains 1150 species and 65 habitats that have been listed as priorities for conservation action under the UK Biodiversity Action Plan (UK BAP).",
+            "criteria_description": "Threat",
+            "comments": "status on former BAP list- Species Action Plan",
+            "reporting_category_sort_order": "Ha"
+        },
+        {
+            "designated_name": "Herbertus borealis",
+            "common_name": "Northern Prongwort",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Conservation action needed; Avoid negative impacts; Criterion: S1 - on UKBAP list; S3 - Rare in the UK (<16 10km sqs); S4 - <6 Scottish 10km sqs; S6a - Endemic to Scotland",
+            "comments": "Terrestrial/Freshwater Species.",
+            "reporting_category_sort_order": "Hc"
+        }
+    ]
+}
+

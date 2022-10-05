@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - caddis fly (Trichoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Anabolia nervosa"
+    ],
+    "recommended_authority": [
+        "(Curtis, 1834)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000008462"
+    ],
+    "designations": [
+        {
+            "designated_name": "Anabolia nervosa",
+            "source": "A review of the status of the caddis flies (Trichoptera) of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of caddis from work originally undertaken in 1987 and 1991 respectively, using the IUCN methodology for assessing threat.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5436150266200064?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Widespread and very common in all sorts of permanent waters.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

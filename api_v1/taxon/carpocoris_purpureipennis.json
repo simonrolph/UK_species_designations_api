@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Carpocoris purpureipennis"
+    ],
+    "recommended_authority": [
+        "(DeGeer, 1773)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020309048"
+    ],
+    "designations": [
+        {
+            "designated_name": "Carpocoris purpureipennis",
+            "source": "A review of the Hemiptera of Great Britain: The shieldbugs and allied families",
+            "source_description": "This report was commissioned to update the national status of shield bugs using IUCN methodology for assessing threat. It covers all species of Coreoidea, Pentatomoidea & Pyrrhocoroidea in Great Britain, identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5027762327781376?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Not Evaluated",
+            "designation_abbreviation": "RedList_GB_post2001-NE",
+            "designation_description": "A taxon is Not Evaluated when it is has not yet been evaluated against the criteria",
+            "iucn_version": "2001",
+            "comments": "Vagrant from the continent, probably never established in Britain",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

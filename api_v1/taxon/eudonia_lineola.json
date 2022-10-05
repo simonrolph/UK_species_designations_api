@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - moth"
+    ],
+    "recommended_taxon_name": [
+        "Eudonia lineola"
+    ],
+    "recommended_authority": [
+        "(Curtis, 1827)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000502555"
+    ],
+    "designations": [
+        {
+            "designated_name": "Eudonia lineola",
+            "source": "A review of the scarce and threatened pyralid moths of Great Britain (Parsons, M.S.)",
+            "source_description": "Parsons, M S.  UK nature conservation, No. 11.  Published by JNCC, 1993.  Along with the review of Ethmiidae, Gelechiidae and Stathmopodidae moths (1995), updates the provisional review of Microlepidoptera (1984) using the old IUCN categories and criteria (pre 1994).",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Pub93_Review_of_Scarce_&_Threatened_Pyralid_Moths_of_Great_Britain_PRINT.pdf",
+            "date_designated": "1993-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Notable B",
+            "designation_abbreviation": "Notable-B",
+            "designation_description": "Taxa which do not fall within RDB categories but which are none-the-less uncommon in Great Britain and thought to occur in between 31 and 100 10km squares of the National Grid or, for less-well recorded groups between eight and twenty vice-counties. Superseded by Nationally Scarce, and therefore no longer in use.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

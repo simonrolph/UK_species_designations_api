@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Acritus nigricornis"
+    ],
+    "recommended_authority": [
+        "(Hoffmann, J., 1803)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001716372"
+    ],
+    "designations": [
+        {
+            "designated_name": "Acritus nigricornis",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Compared with Abraeus granulum above, this species has only been recorded in the main hectad recording period, from five additional hectads since 1990, but unlike the former species, Acritus nigricornis occurs in a wide variety of habitats and is associated with heaps of decaying organic matter, a prolific habitat largely under-worked by a great many Coleopterists, presumably due in part to inaccessibility as many of these piles are often on private land. The species is also small and easily overlooked, particularly in the field. So, despite apparent declines of 48% in the main recording period and 23% in the second period and the small number of recorded hectads, the author believes that this species is highly under-recorded, though in all probability, somewhat localised in distribution. As such, it has not been designated as Nationally Scarce (NS), although it would normally qualify for this with only 44 post-1990 hectads.176 records.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

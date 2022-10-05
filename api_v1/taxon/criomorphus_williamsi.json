@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Criomorphus williamsi"
+    ],
+    "recommended_authority": [
+        "China, 1939"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020442317"
+    ],
+    "designations": [
+        {
+            "designated_name": "Criomorphus williamsi",
+            "source": "A review of the scarce and threatened Hemiptera of Great Britain (Kirby, P.)",
+            "source_description": "Kirby, P.  UK nature conservation, No. 2.  Published by JNCC, 1992.  Updates relevant information in the RDB Insects (1987) using the old IUCN categories and criteria (pre 1994).",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Pub92_Review_of_scarce_and_threatened_hemiptera_of_Great_Britain_PRINT.pdf",
+            "date_designated": "1992-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Notable B",
+            "designation_abbreviation": "Notable-B",
+            "designation_description": "Taxa which do not fall within RDB categories but which are none-the-less uncommon in Great Britain and thought to occur in between 31 and 100 10km squares of the National Grid or, for less-well recorded groups between eight and twenty vice-counties. Superseded by Nationally Scarce, and therefore no longer in use.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Pentaphyllus testaceus"
+    ],
+    "recommended_authority": [
+        "(Hellwig, 1792)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000024835"
+    ],
+    "designations": [
+        {
+            "designated_name": "Pentaphyllus testaceus",
+            "source": "A review of the beetles of Great Britain: The Darkling Beetles and their allies",
+            "source_description": "This report was commissioned to update the threat status of Darkling beetles  from work originally undertaken in 1987, 1992 and 1994 using the IUCN methodology for assessing threat. Aderidae, Anthicidae, Colydiidae, Melandryidae, Meloidae, Mordellidae, Mycetophagidae, Mycteridae, Oedemeridae, Pyrochroidae, Pythidae, Ripiphoridae, Salpingidae, Scraptiidae, Tenebrionidae & Tetratomidae (Tenebrionoidea less Ciidae).  K.N.A. Alexander, S. Dodd & J.S. Denton.  http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf. May 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5862553594888192",
+            "date_designated": "2014-05-23",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "D2",
+            "comments": "It could be argued that the 1876 example was not native to Britain, but to account for the presence of a non-pest species in Hornsey at that date would be difficult. Hammond (2007) comments that the recent finds constitute compelling evidence that it is an established British species. There appears to be a substantial breeding population at Windsor. Its apparently specialized habitat requirements, coupled with its highly reclusive habits are likely to make the species very difficult to find, lending some support to the view that it is a long-established but overlooked British species. Hammond (loc cit) concluded that it may be truly native. IUCN criteria satisfied are based on the very small or restricted population: geographic range restricted in area of occupancy (less than 3 tetrads) with severely fragmented populations (known from just 2 localities). No sub-fossil remains have yet been found in Britain (Buckland & Buckland, 2006), but current understanding suggests a long-term native.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Pentaphyllus testaceus",
+            "source": "A review of the beetles of Great Britain: The Darkling Beetles and their allies",
+            "source_description": "This report was commissioned to update the threat status of Darkling beetles  from work originally undertaken in 1987, 1992 and 1994 using the IUCN methodology for assessing threat. Aderidae, Anthicidae, Colydiidae, Melandryidae, Meloidae, Mordellidae, Mycetophagidae, Mycteridae, Oedemeridae, Pyrochroidae, Pythidae, Ripiphoridae, Salpingidae, Scraptiidae, Tenebrionidae & Tetratomidae (Tenebrionoidea less Ciidae).  K.N.A. Alexander, S. Dodd & J.S. Denton.  http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf. May 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5862553594888192",
+            "date_designated": "2014-05-23",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

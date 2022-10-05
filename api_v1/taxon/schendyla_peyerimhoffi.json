@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "centipede"
+    ],
+    "recommended_taxon_name": [
+        "Schendyla peyerimhoffi"
+    ],
+    "recommended_authority": [
+        "Brölemann & Ribault, 1911"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000570601"
+    ],
+    "designations": [
+        {
+            "designated_name": "Schendyla peyerimhoffi",
+            "source": "A review of the millipedes (Diplopoda), centipedes (Chilopoda) and woodlice (Isopoda) of Great Britain",
+            "source_description": "This report was commissioned to update the national threat status of millipedes, centipedes and woodlice. It covers all millipedes, centipedes and woodlice, identifying those that are rare and/or under threat as well as non threatened and non-native species. Paul Lee. November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/4924476719366144",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "comments": "Raw data suggest this species has undergone significant decline but this is not believed to reflect its true status. The animal is probably under recorded (Barber, 2009) due to the difficulty of collecting small centipedes from coastal mud and rock crevices.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Schendyla peyerimhoffi",
+            "source": "A review of the millipedes (Diplopoda), centipedes (Chilopoda) and woodlice (Isopoda) of Great Britain",
+            "source_description": "This report was commissioned to update the national threat status of millipedes, centipedes and woodlice. It covers all millipedes, centipedes and woodlice, identifying those that are rare and/or under threat as well as non threatened and non-native species. Paul Lee. November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/4924476719366144",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "comments": "Raw data suggest this species has undergone significant decline but this is not believed to reflect its true status. The animal is probably under recorded (Barber, 2009) due to the difficulty of collecting small centipedes from coastal mud and rock crevices.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

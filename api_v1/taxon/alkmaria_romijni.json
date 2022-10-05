@@ -1,0 +1,60 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "annelid"
+    ],
+    "recommended_taxon_name": [
+        "Alkmaria romijni"
+    ],
+    "recommended_authority": [
+        "Horst, 1919"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000188454"
+    ],
+    "designations": [
+        {
+            "designated_name": "Alkmaria romijni",
+            "common_name": "Tentacled Lagoon-Worm",
+            "source": "Wildlife and Countryside Act Schedules 1, 5 and 8 (protected birds, animals and plants)",
+            "source_description": "Protected Birds, Animals and Plants are listed in Schedules 1, 5 and 8 respectively of the Wildlife and Countryside Act.Schedule 1. The Act makes it an offence (with exception to species listed in Schedule 2) to intentionally kill, injure or take any wild bird or their eggs or nests. Special penalties are available for offences related to birds listed on Schedule 1, for which there are additional offences of disturbing these birds at their nests, or their dependent young. Schedule 5. The Act makes it an offence (subject to exceptions) to intentionally kill, injure, or take, possess, or trade in any wild animal listed in Schedule 5, and prohibits interference with places used for shelter or protection, or intentionally disturbing animals occupying such places. The Act also prohibits certain methods of killing, injuring, or taking wild animals.Schedule 8. The Act makes it an offence (subject to exceptions) to pick, uproot, trade in, or possess (for the purposes of trade) any wild plant listed in Schedule 8, and prohibits the unauthorised intentional uprooting of such plants.There is a statutory five-yearly review of Schedules 5 and 8 (protected wild animals and plants respectively).",
+            "url_source": "http://www.legislation.gov.uk/all?title=Wildlife%20and%20Countryside%20Act%201981",
+            "date_designated": "1992-01-01",
+            "reporting_category": "Wildlife and Countryside Act 1981",
+            "designation": "Schedule 5 Section 9.4.a",
+            "designation_abbreviation": "WACA-Sch5_sect9.4.a",
+            "designation_description": "Section 9.4 subdivision a - Animals which are protected from intentional damage or destruction to any structure or place used for shelter or protection.",
+            "reporting_category_sort_order": "I"
+        },
+        {
+            "designated_name": "Alkmaria romijni",
+            "common_name": "Tentacled Lagoon-Worm",
+            "source": "Rare marine benthic flora and fauna in Great Britain- the development of criteria for assessment",
+            "source_description": "Sanderson, W G.  JNCC Report, No. 240.  Published by JNCC, 1996.  Provisional list of rare and scarce marine species.  [not red list]",
+            "date_designated": "1996-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally scarce marine species",
+            "designation_abbreviation": "Marine-NS",
+            "designation_description": "Species which occur in nine to 55 10km X 10km grid squares containing sea (or water of marine saline influence) within the three mile territorial limit.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Alkmaria romijni",
+            "source": "Environment (Wales) Act 2016 - Species of Principal Importance in Wales (section 7)",
+            "source_description": "Section 7 of the Environment (Wales) Act 2016 requires the publication of a list of biodiversity of principle importance, to support the biodiversity duty on public bodies under section 6 of the Act.",
+            "url_source": "http://www.biodiversitywales.org.uk/Environment-Wales-Bill",
+            "date_designated": "2016-05-21",
+            "reporting_category": "Biodiversity Lists - Wales",
+            "designation": "Env (Wales) Act S7",
+            "designation_abbreviation": "Env (Wales) Act S7",
+            "designation_description": "Species of principal importance for the purpose of conserving biodiversity covered under Section 7 of the Environment (Wales) Act 2016 and therefore need to be taken into consideration by a public body when performing any of its functions with a view to conserving biodiversity.",
+            "reporting_category_sort_order": "Hd"
+        }
+    ]
+}
+

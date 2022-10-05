@@ -1,0 +1,34 @@
+{
+    "category": [
+        "Bird"
+    ],
+    "taxon_group": [
+        "bird"
+    ],
+    "recommended_taxon_name": [
+        "Haliaeetus"
+    ],
+    "recommended_authority": [
+        "Savigny, 1809"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000188680"
+    ],
+    "designations": [
+        {
+            "designated_name": "Haliaeetus",
+            "source": "CITES UK Species only",
+            "source_description": "The Washington Convention on International Trade in Endangered Species of Wild Fauna and Flora, more commonly known as CITES, aims to protect certain plants and animals by regulating and monitoring their international trade to prevent it reaching unsustainable levels. The Convention entered into force in 1975, and the UK became a Party in 1976.",
+            "date_designated": "1997-01-01",
+            "reporting_category": "EC Cites",
+            "designation": "Annex A",
+            "designation_abbreviation": "ECCITES-A",
+            "designation_description": "All CITES Appendix I species. Some CITES Appendix II and III species, for which the EU has adopted stricter domestic measures. Some non-CITES species.",
+            "reporting_category_sort_order": "E"
+        }
+    ]
+}
+

@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "crustacean"
+    ],
+    "recommended_taxon_name": [
+        "Clibanarius erythropus"
+    ],
+    "recommended_authority": [
+        "(Latreille, 1818)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000188517"
+    ],
+    "designations": [
+        {
+            "designated_name": "Clibanarius erythropus",
+            "common_name": "Hermit crab",
+            "source": "Rare marine benthic flora and fauna in Great Britain- the development of criteria for assessment",
+            "source_description": "Sanderson, W G.  JNCC Report, No. 240.  Published by JNCC, 1996.  Provisional list of rare and scarce marine species.  [not red list]",
+            "date_designated": "1996-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally rare marine species",
+            "designation_abbreviation": "Marine-NR",
+            "designation_description": "Species which occur in eight or fewer 10km X 10km grid squares containing sea (or water of marine saline influence) within the three mile territorial limit.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

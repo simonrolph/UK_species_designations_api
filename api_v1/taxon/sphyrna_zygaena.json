@@ -1,0 +1,38 @@
+{
+    "category": [
+        "Fish"
+    ],
+    "taxon_group": [
+        "cartilagenous fish (Chondrichthyes)"
+    ],
+    "recommended_taxon_name": [
+        "Sphyrna zygaena"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1758)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000187231"
+    ],
+    "designations": [
+        {
+            "designated_name": "Sphyrna zygaena",
+            "common_name": "Smooth Hammerhead",
+            "source": "The IUCN Red List of Threatened Species (2010)",
+            "source_description": "The IUCN Red List of Threatened Species provides taxonomic, conservation status and distribution information on taxa that have been globally evaluated using the IUCN Red List Categories and Criteria. This system is designed to determine the relative risk of extinction, and the main purpose of the IUCN Red List is to catalogue and highlight those taxa that are facing a higher risk of global extinction (i.e. those listed as Critically Endangered, Endangered and Vulnerable). The IUCN Red List also includes information on taxa that are categorized as Extinct or Extinct in the Wild; on taxa that cannot be evaluated because of insufficient information (i.e. are Data Deficient); and on taxa that are either close to meeting the threatened thresholds or that would be threatened were it not for an ongoing taxon-specific conservation programme (i.e. are Near Threatened).",
+            "date_designated": "2005-01-01",
+            "reporting_category": "Global Red list status",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_Global_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when the best available evidence indicates that it meets any of the criteria A to E for Vulnerable (see Section V), and it is therefore considered to be facing a high risk of extinction in the wild.",
+            "iucn_version": "2001",
+            "criteria_description": "ver 2001; A2bd+3bd+4bd",
+            "comments": "Population trend= 'decreasing'",
+            "reporting_category_sort_order": "F"
+        }
+    ]
+}
+

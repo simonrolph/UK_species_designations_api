@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Clytra laeviuscula"
+    ],
+    "recommended_authority": [
+        "Ratzeburg, 1837"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011118"
+    ],
+    "designations": [
+        {
+            "designated_name": "Clytra laeviuscula",
+            "source": "A review of the scarce and threatened beetles of Great Britain: The leaf beetles and their allies",
+            "source_description": "The leaf beetles and their allies: Chrysomelidae, Megalopodidae and Orsodacnidae. D S Hubble. October 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6548461654638592",
+            "date_designated": "2014-10-24",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Regionally Extinct",
+            "designation_abbreviation": "RedList_GB_post2001-RE",
+            "designation_description": "Category for a taxon when there is no reasonable doubt that the last individual potentially capble of reproduction within the region has died or has disappeared from the wild in the region, or when, if it is a former visiting taxon, the last individual has died or disappeared in the wild from the region. The setting of any time limit for listing under RE is left to the discretion of the regional Red List authority, but should not normally pre-date 1500 AD.",
+            "iucn_version": "2001",
+            "comments": "Last recorded in 1895",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

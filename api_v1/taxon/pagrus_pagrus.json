@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Fish"
+    ],
+    "taxon_group": [
+        "bony fish (Actinopterygii)"
+    ],
+    "recommended_taxon_name": [
+        "Pagrus pagrus"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1758)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020442445"
+    ],
+    "designations": [
+        {
+            "designated_name": "Pagrus pagrus",
+            "common_name": "Common Seabream, Common Sea Bream, Couch's Sea-bream, Couch's Sea Bream, Porgy, Red Porgy",
+            "source": "The IUCN Red List of Threatened Species (2010)",
+            "source_description": "The IUCN Red List of Threatened Species provides taxonomic, conservation status and distribution information on taxa that have been globally evaluated using the IUCN Red List Categories and Criteria. This system is designed to determine the relative risk of extinction, and the main purpose of the IUCN Red List is to catalogue and highlight those taxa that are facing a higher risk of global extinction (i.e. those listed as Critically Endangered, Endangered and Vulnerable). The IUCN Red List also includes information on taxa that are categorized as Extinct or Extinct in the Wild; on taxa that cannot be evaluated because of insufficient information (i.e. are Data Deficient); and on taxa that are either close to meeting the threatened thresholds or that would be threatened were it not for an ongoing taxon-specific conservation programme (i.e. are Near Threatened).",
+            "date_designated": "1996-01-01",
+            "reporting_category": "Global Red list status",
+            "designation": "Endangered",
+            "designation_abbreviation": "RedList_Global_post94-EN",
+            "designation_description": "Taxa in danger of extinction and whose survival is unlikely if the causal factors continue operating. Superseded by new IUCN categories in 1994, but still applicable to lists that have not been reviewed since 1994.",
+            "iucn_version": "1994",
+            "criteria_description": "ver 1994; A1bd+2d",
+            "reporting_category_sort_order": "F"
+        }
+    ]
+}
+

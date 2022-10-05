@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Trox scaber"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1767)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011454"
+    ],
+    "designations": [
+        {
+            "designated_name": "Trox scaber",
+            "source": "A review of the status of the beetles of Great Britain: The stag beetles, dor beetles, dung beetles, chafers and their allies - Lucanidae, Geotrupidae, Trogidae and Scarabaeidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Lucanidae, Geotrupidae, Trogidae and Scarabaeidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and nonnative species. Reviews for other invertebrate groups will follow.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5488450394914816?category=4707656804597760",
+            "date_designated": "2016-10-31",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "This species with records from less than 100 hectads since 31st December 1989, would normally qualify as Nationally Scarce (NS), but the authors believe that it is under-recorded and is likely to be present currently in more than 100 hectads of the National grid . Likely to be under recorded as its habitat of bird's nests is not regularly sampled by the majority of Coleopterists. Most records are from light traps and these are usually operated by Lepidopterists whose primary motivation is to record moths, so this further emphasises the probability of under recording. It is difficult to detect distribution trends for a species that is recorded sporadically, but a hectad count of 63 in the period since 1990 gives no cause for concern.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

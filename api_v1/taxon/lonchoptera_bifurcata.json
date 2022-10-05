@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Lonchoptera bifurcata"
+    ],
+    "recommended_authority": [
+        "(Fallén, 1810)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0100003811"
+    ],
+    "designations": [
+        {
+            "designated_name": "Lonchoptera bifurcata",
+            "source": "A review of the status of the Lonchopteridae, Platypezidae and Opetiidae flies of Great Britain (NECR246)",
+            "source_description": "This report was commissioned to update the national status of flies using IUCN methodology for assessment threat. It includes Lonchopteridae (Pointed-wing flies) and Platypezidae (Flat-footed flies) species and a single species of Opetiidae in Great Britain identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5490367884951552",
+            "date_designated": "2018-01-28",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Widespread  throughout Britain, with more post 1990 records due to increased recording",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

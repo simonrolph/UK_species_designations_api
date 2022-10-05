@@ -1,0 +1,36 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - moth"
+    ],
+    "recommended_taxon_name": [
+        "Homoeosoma nimbella"
+    ],
+    "recommended_authority": [
+        "(Duponchel, 1837)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021143671"
+    ],
+    "designations": [
+        {
+            "designated_name": "Homoeosoma nimbella",
+            "source": "A review of the scarce and threatened pyralid moths of Great Britain (Parsons, M.S.)",
+            "source_description": "Parsons, M S.  UK nature conservation, No. 11.  Published by JNCC, 1993.  Along with the review of Ethmiidae, Gelechiidae and Stathmopodidae moths (1995), updates the provisional review of Microlepidoptera (1984) using the old IUCN categories and criteria (pre 1994).",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Pub93_Review_of_Scarce_&_Threatened_Pyralid_Moths_of_Great_Britain_PRINT.pdf",
+            "date_designated": "1993-01-01",
+            "reporting_category": "Red Listing based on pre 1994 IUCN guidelines",
+            "designation": "IUCN (pre 1994) - Insufficiently known",
+            "designation_abbreviation": "RedList_GB_Pre94-Insu",
+            "designation_description": "Taxa that are suspected but not definitely known to belong to any of the above categories (i.e. Endangered, Vulnerable, Rare), because of the lack of information. Superseded by new IUCN categories in 1994, so no longer in use.",
+            "iucn_version": "pre 1994",
+            "reporting_category_sort_order": "Fa"
+        }
+    ]
+}
+

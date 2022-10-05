@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Non-vascular plant"
+    ],
+    "taxon_group": [
+        "stonewort"
+    ],
+    "recommended_taxon_name": [
+        "Nitella flexilis"
+    ],
+    "recommended_authority": [
+        "(L.) C.Agardh"
+    ],
+    "recommended_qualifier": [
+        "sensu stricto"
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020825297"
+    ],
+    "designations": [
+        {
+            "designated_name": "Nitella flexilis",
+            "common_name": "smooth stonewort",
+            "source": "Review of the status of charophytes (stoneworts) - N Stewart (unpublished)",
+            "source_description": "The charophytes, or stoneworts, form a class of the green algae. They have recently been assessed by N Stewart, using the current IUCN criteria, a publication will appear shortly.",
+            "date_designated": "2004-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Scarce. Excludes Red Listed taxa",
+            "designation_abbreviation": "NS-excludes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Excludes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

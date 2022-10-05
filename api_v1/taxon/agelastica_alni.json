@@ -1,0 +1,49 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Agelastica alni"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1758)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011206"
+    ],
+    "designations": [
+        {
+            "designated_name": "Agelastica alni",
+            "source": "A review of the scarce and threatened beetles of Great Britain: The leaf beetles and their allies",
+            "source_description": "The leaf beetles and their allies: Chrysomelidae, Megalopodidae and Orsodacnidae. D S Hubble. October 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6548461654638592",
+            "date_designated": "2014-10-24",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Data Deficient",
+            "designation_abbreviation": "RedList_GB_post2001-DD",
+            "designation_description": "A taxon is Data Deficient when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status. A taxon in this category may be well studied, and its biology well known, but appropriate data on abundance and/or distribution are lacking. Data Deficient is therefore not a category of threat or Lower Risk. Listing of taxa in this category indicates that more information is required and acknowledges the possibility that future research will show that a threatened category is appropriate.",
+            "iucn_version": "2001",
+            "comments": "Previously believed to be extinct, but rediscovery in 2004 with a series of records from Lancashire and Cheshire indicate a population has re-established in NW England. Although there are still few records, it seems to be expanding its range rapidly in NW England and has been found in Wales in 2013 (to be reported in The Coleopterist in 2014), hence the DD status with such a short time since rediscovery.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Agelastica alni",
+            "source": "A review of the scarce and threatened beetles of Great Britain: The leaf beetles and their allies",
+            "source_description": "The leaf beetles and their allies: Chrysomelidae, Megalopodidae and Orsodacnidae. D S Hubble. October 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6548461654638592",
+            "date_designated": "2014-10-24",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

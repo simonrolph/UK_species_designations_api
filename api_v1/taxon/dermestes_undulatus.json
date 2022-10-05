@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Dermestes undulatus"
+    ],
+    "recommended_authority": [
+        "Brahm, 1790"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000024280"
+    ],
+    "designations": [
+        {
+            "designated_name": "Dermestes undulatus",
+            "source": "A review of the status of the beetles of Great Britain: The wood-boring beetles, spider beetles, woodworm, false powder-post beetles, hide beetles and their allies - Derodontidoidea (Derodontidae) and Bostrichoidea (Dermestidae, Bostrichidae and Ptinidae)",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Derodontidae, Dermestidae, Bostrichidae and Ptinidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5841907969687552?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Dermestes undulatus",
+            "source": "A review of the status of the beetles of Great Britain: The wood-boring beetles, spider beetles, woodworm, false powder-post beetles, hide beetles and their allies - Derodontidoidea (Derodontidae) and Bostrichoidea (Dermestidae, Bostrichidae and Ptinidae)",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Derodontidae, Dermestidae, Bostrichidae and Ptinidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5841907969687552?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "B2ab(i,ii,iv)",
+            "comments": "This species qualifies as Vulnerable as it is in decline, from 23 hectads pre 1990 to now only 5 hectads; it has an AoO of 32 square km and is present in only 8 tetrads. The key period of decline appears to have been pre-1990; however, the data does suggest a continuing and significant reduction in the AoO. The species is currently extremely thinly scattered within the former range (7 locations), and continuing decline is projected in (i) extent of occurrence, (ii) area of occupancy, and (iv) number of locations, all combining to indicate Vulnerable under criterion B. None of the recent records have been within the last 10 years although this probably reflects under-recording.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

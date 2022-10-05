@@ -1,0 +1,38 @@
+{
+    "category": [
+        "Vascular plant"
+    ],
+    "taxon_group": [
+        "flowering plant"
+    ],
+    "recommended_taxon_name": [
+        "Taraxacum palmeri"
+    ],
+    "recommended_authority": [
+        "Scott & T.C.G.Rich"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021240804"
+    ],
+    "designations": [
+        {
+            "designated_name": "Taraxacum palmeri",
+            "source": "The Vascular Plant Red Data List for Great Britain, revised February 2019",
+            "source_description": "Leach, S.J. 2019 (in prep) The Vascular Plant Red Data List for Great Britain: a summary of amendments in years 12 and 13 (2017-2018) of the annual amendments process. BSBI News 141",
+            "url_source": "https://bsbi.org/taxon-lists",
+            "date_designated": "2014-01-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Endangered",
+            "designation_abbreviation": "RedList_GB_post2001-EN",
+            "designation_description": "A taxon is Endangered when it is not Critically endangered but is facing a very high risk of extinction in the wild in the near future.",
+            "iucn_version": "2001",
+            "criteria_description": "D",
+            "comments": "Scott & Rich (2013)",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

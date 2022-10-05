@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - lacewing (Neuroptera)"
+    ],
+    "recommended_taxon_name": [
+        "Wesmaelius (Kimminsia) mortoni"
+    ],
+    "recommended_authority": [
+        "(McLachlan, 1899)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0100005992"
+    ],
+    "designations": [
+        {
+            "designated_name": "Wesmaelius mortoni",
+            "source": "A review of the scarcer Neuroptera of Great Britain",
+            "source_description": "A review of the scarcer Neuroptera of Great Britain",
+            "url_source": "http://jncc.defra.gov.uk/pdf/Pub92_Review_of_the_Scarcer_Neuroptrera_of_Great_Britain_PRINT.pdf",
+            "date_designated": "1991-01-01",
+            "reporting_category": "Rare and scarce species (not based on IUCN criteria)",
+            "designation": "Nationally Notable",
+            "designation_abbreviation": "Notable",
+            "designation_description": "Species which are estimated to occur within the range of 16 to 100 10km squares. (subdivision into Notable A and Notable B is not always possible because there may be insufficient information available). Superseded by Nationally Scarce, and therefore no longer in use.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

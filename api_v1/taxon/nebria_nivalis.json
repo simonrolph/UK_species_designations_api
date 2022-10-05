@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Nebria nivalis"
+    ],
+    "recommended_authority": [
+        "(Paykull, 1790)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007156"
+    ],
+    "designations": [
+        {
+            "designated_name": "Nebria nivalis",
+            "source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)",
+            "source_description": "This report was commissioned to update the national status of ground beetles using IUCN methodology for assessing threat. It covers all species of Carabidae in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6270849377107968?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Nebria nivalis",
+            "source": "A review of the beetles of Great Britain: Ground Beetles (Carabidae)",
+            "source_description": "This report was commissioned to update the national status of ground beetles using IUCN methodology for assessing threat. It covers all species of Carabidae in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6270849377107968?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "criteria_description": "B2b(ii,iii)",
+            "comments": "This species occurs on high mountain summits, areas relatively neglected by coleopterists. With further survey effort, it could no doubt have been found in more than the 26 hectads from which post-1980 records exist. Welch (1983) suggests that it is likely to occur on Hebridean mountains in excess of 750 m and on mainland peaks in excess of 900 m. A survey for N. nivalis by the author on Creag Meagaidh found it to be restricted to the margins of the highest summer snow-patch with an AOO of 10 - 100 m2. However, in the more extensive experience of Welch (1981, 1983), N. nivalis is typically found under stones and running amongst boulders, at the summits but also on the upper slopes of mountains. N. nivalis has a total AOO of less than 500 km2 (B2). Populations are probably small and completely isolated (B2a?) and their envelope of suitable habitat with a suitable microclimate may be shrinking under climate change, particularly if the species is dependent on summer snow-patches (B2b iii?).",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

@@ -1,0 +1,52 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Pyrrhocoris apterus"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1758)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020309752"
+    ],
+    "designations": [
+        {
+            "designated_name": "Pyrrhocoris apterus",
+            "common_name": "Fire Bug",
+            "source": "A review of the Hemiptera of Great Britain: The shieldbugs and allied families",
+            "source_description": "This report was commissioned to update the national status of shield bugs using IUCN methodology for assessing threat. It covers all species of Coreoidea, Pentatomoidea & Pyrrhocoroidea in Great Britain, identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5027762327781376?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "A large and well-established population has been present on the Ore Stone rock, Devon since the 19th century and is probably still extant. There are also historic records from Wales, Dorset, Yorkshire, Cheshire and Suffolk, but these locations no longer support populations and may never have done so. Since 1980 the species has formed several new colonies in Surrey and Bedfordshire, which are probably the result of horticultural introductions and two further colonies have been reported from coastal sites in Sussex and Kent, the origin of which is less clear. There are several reports from inland locations which refer to isolated imports. All colonies are fairly localised and since macropterous individuals have never been observed in Britain, the insect must have poor powers of dispersal here.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Pyrrhocoris apterus",
+            "common_name": "Fire Bug",
+            "source": "A review of the Hemiptera of Great Britain: The shieldbugs and allied families",
+            "source_description": "This report was commissioned to update the national status of shield bugs using IUCN methodology for assessing threat. It covers all species of Coreoidea, Pentatomoidea & Pyrrhocoroidea in Great Britain, identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5027762327781376?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "A large and well-established population has been present on the Ore Stone rock, Devon since the 19th century and is probably still extant. There are also historic records from Wales, Dorset, Yorkshire, Cheshire and Suffolk, but these locations no longer support populations and may never have done so. Since 1980 the species has formed several new colonies in Surrey and Bedfordshire, which are probably the result of horticultural introductions and two further colonies have been reported from coastal sites in Sussex and Kent, the origin of which is less clear. There are several reports from inland locations which refer to isolated imports. All colonies are fairly localised and since macropterous individuals have never been observed in Britain, the insect must have poor powers of dispersal here.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

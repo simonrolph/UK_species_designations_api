@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Saprinus immundus"
+    ],
+    "recommended_authority": [
+        "(Gyllenhal, 1827)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000022831"
+    ],
+    "designations": [
+        {
+            "designated_name": "Saprinus immundus",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Saprinus immundus",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "D2",
+            "comments": "The species has declined significantly. With so little data, so few current sites and no monitoring of the populations, it is uncertain whether this decline is continuing. Its recent demise appears to have occurred 'off-radar', as Hyman as recently as 1992 only categorised it as Nb Notable. Research into the species' populations and requirements at its known haunts as well as some targeted survey work to rediscover it at former haunts, would be worthwhile. Continuing decline cannot be proven. The species has been found at only three post-1990 locations and can only be said to be established at two of these (Holkham NNR and Sandwich Bay) because the Breckland capture was of a single inland specimen in a pitfall trap. It is vulnerable to threats such as tidal events and to continuity of dung. Consequently, a designation of VUD2 seems appropriate. If continuing decline could be proven or inferred, the species could even be considered Endangered  ENB2ab. Despite not observing a decline in recent data, IUCN criteria for A2 was applied, allowing for a 55-year time period and a 75% decrease as observed in the main hectad recording period. This gave an adjusted 10-year decline of 22% which is below the 30+% threshold for Vulnerable. 46 records.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Zeugophora turneri"
+    ],
+    "recommended_authority": [
+        "Power, 1863"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000011108"
+    ],
+    "designations": [
+        {
+            "designated_name": "Zeugophora turneri",
+            "source": "A review of the scarce and threatened beetles of Great Britain: The leaf beetles and their allies",
+            "source_description": "The leaf beetles and their allies: Chrysomelidae, Megalopodidae and Orsodacnidae. D S Hubble. October 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6548461654638592",
+            "date_designated": "2014-10-24",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "B2a, bii",
+            "comments": "Marked decline and distribution restricted to central/northern Scotland. May be adversely affected by a lack of suitable woodland management.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Zeugophora turneri",
+            "source": "A review of the scarce and threatened beetles of Great Britain: The leaf beetles and their allies",
+            "source_description": "The leaf beetles and their allies: Chrysomelidae, Megalopodidae and Orsodacnidae. D S Hubble. October 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6548461654638592",
+            "date_designated": "2014-10-24",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

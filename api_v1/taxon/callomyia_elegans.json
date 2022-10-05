@@ -1,0 +1,51 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Callomyia elegans"
+    ],
+    "recommended_authority": [
+        "Meigen, 1804"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000028785"
+    ],
+    "designations": [
+        {
+            "designated_name": "Callomyia elegans",
+            "source": "A review of the status of the Lonchopteridae, Platypezidae and Opetiidae flies of Great Britain (NECR246)",
+            "source_description": "This report was commissioned to update the national status of flies using IUCN methodology for assessment threat. It includes Lonchopteridae (Pointed-wing flies) and Platypezidae (Flat-footed flies) species and a single species of Opetiidae in Great Britain identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5490367884951552",
+            "date_designated": "2018-01-28",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Critically Endangered",
+            "designation_abbreviation": "RedList_GB_post2001-CR",
+            "designation_description": "A taxon is Critically Endangered when it is facing an extremely high risk of extinction in the wild in the immediate future, as defined by any of the criteria A to E.",
+            "iucn_version": "2001",
+            "criteria_description": "B2ab(ii,iv)",
+            "comments": "Although records are scattered throughout Britain, most are from the period up to 1913 and only three records from 1940, 1943 and 1956 are later. The lack of any records in a period of increased recording suggests a substantial decline and it may now be regionally extinct. Critically Endangered is satisfied under B2a in having zero locations in the second time period, whilst B2b ii & iv are met through clear declines in both area of occupancy and number of locations. Lack of understanding of the larval host does not allow any projection or inference to be made under B2biii. It would satisfy Vulnerable under D2 but although the population is small or restricted, it is less clear what the plausible future threat is here. The lack of any records from Britain within the past 50 years may be moving it towards Regionally Extinct category, although not in the British Isles as it has been found in Ireland within that time period.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Callomyia elegans",
+            "source": "A review of the status of the Lonchopteridae, Platypezidae and Opetiidae flies of Great Britain (NECR246)",
+            "source_description": "This report was commissioned to update the national status of flies using IUCN methodology for assessment threat. It includes Lonchopteridae (Pointed-wing flies) and Platypezidae (Flat-footed flies) species and a single species of Opetiidae in Great Britain identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5490367884951552",
+            "date_designated": "2018-01-28",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Although records are scattered throughout Britain, most are from the period up to 1913 and only three records from 1940, 1943 and 1956 are later. The lack of any records in a period of increased recording suggests a substantial decline and it may now be regionally extinct.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

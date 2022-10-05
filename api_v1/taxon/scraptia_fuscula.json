@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Scraptia fuscula"
+    ],
+    "recommended_authority": [
+        "Müller, P.W.J., 1821"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020153386"
+    ],
+    "designations": [
+        {
+            "designated_name": "Scraptia fuscula",
+            "source": "A review of the beetles of Great Britain: The Darkling Beetles and their allies",
+            "source_description": "This report was commissioned to update the threat status of Darkling beetles  from work originally undertaken in 1987, 1992 and 1994 using the IUCN methodology for assessing threat. Aderidae, Anthicidae, Colydiidae, Melandryidae, Meloidae, Mordellidae, Mycetophagidae, Mycteridae, Oedemeridae, Pyrochroidae, Pythidae, Ripiphoridae, Salpingidae, Scraptiidae, Tenebrionidae & Tetratomidae (Tenebrionoidea less Ciidae).  K.N.A. Alexander, S. Dodd & J.S. Denton.  http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf. May 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5862553594888192",
+            "date_designated": "2014-05-23",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Vulnerable",
+            "designation_abbreviation": "RedList_GB_post2001-VU",
+            "designation_description": "A taxon is Vulnerable when it is not Critically Endangered or Endangered but is facing a high risk of extinction in the wild in the medium term future.",
+            "iucn_version": "2001",
+            "criteria_description": "B2 a, b iii",
+            "comments": "About 1942, the true S. fuscula was first detected in Windsor Great Park, on one fairly old oak near the north-west perimeter of the area, where specimens could usually be obtained in season (June/July). Towards the close of the decade a marked expansion took place, the species having apparently spread either from this tree or from elsewhere to other parts of the park. After that, for a number of years, fuscula was the one more often met with, testacea being decidedly hard to find; but by the 1970s, and onwards, there was no difference in frequency. They were, however, seldom if ever found together on the same tree (Allen, 2001). The trend over the last few decades appears therefore to be one of increasing population size, with the discovery of probably overlooked populations farther afield. However, the host veteran trees are known to be in long-term decline nationally and probably locally. IUCN criteria satisfied are based on the geographic range restricted in area of occupancy (less than 6 tetrads) with severely fragmented populations (currently known from 6 localities across central southern England) and projected continuing decline in area, extent and quality of habitat.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Scraptia fuscula",
+            "source": "A review of the beetles of Great Britain: The Darkling Beetles and their allies",
+            "source_description": "This report was commissioned to update the threat status of Darkling beetles  from work originally undertaken in 1987, 1992 and 1994 using the IUCN methodology for assessing threat. Aderidae, Anthicidae, Colydiidae, Melandryidae, Meloidae, Mordellidae, Mycetophagidae, Mycteridae, Oedemeridae, Pyrochroidae, Pythidae, Ripiphoridae, Salpingidae, Scraptiidae, Tenebrionidae & Tetratomidae (Tenebrionoidea less Ciidae).  K.N.A. Alexander, S. Dodd & J.S. Denton.  http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf. May 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5862553594888192",
+            "date_designated": "2014-05-23",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

@@ -1,0 +1,62 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Pseudotriphyllus suturalis"
+    ],
+    "recommended_authority": [
+        "(Fabricius, 1801)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020153228"
+    ],
+    "designations": [
+        {
+            "designated_name": "Pseudotriphyllus suturalis",
+            "source": "The IUCN Red List of Threatened Species (2010)",
+            "source_description": "The IUCN Red List of Threatened Species provides taxonomic, conservation status and distribution information on taxa that have been globally evaluated using the IUCN Red List Categories and Criteria. This system is designed to determine the relative risk of extinction, and the main purpose of the IUCN Red List is to catalogue and highlight those taxa that are facing a higher risk of global extinction (i.e. those listed as Critically Endangered, Endangered and Vulnerable). The IUCN Red List also includes information on taxa that are categorized as Extinct or Extinct in the Wild; on taxa that cannot be evaluated because of insufficient information (i.e. are Data Deficient); and on taxa that are either close to meeting the threatened thresholds or that would be threatened were it not for an ongoing taxon-specific conservation programme (i.e. are Near Threatened).",
+            "date_designated": "2009-01-01",
+            "reporting_category": "Global Red list status",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_Global_post2001_NT",
+            "designation_description": "A taxon is Near Threatened when it has been evaluated against the criteria but does not qualify for Critically Endangered, Endangered or Vulnerable now, but is close to qualifying for or is likely to qualify for a threatened category in the near future.",
+            "iucn_version": "2001",
+            "criteria_description": "ver 2001",
+            "comments": "Population trend= 'unknown'",
+            "reporting_category_sort_order": "F"
+        },
+        {
+            "designated_name": "Pseudotriphyllus suturalis",
+            "source": "A review of the beetles of Great Britain: The Darkling Beetles and their allies",
+            "source_description": "This report was commissioned to update the threat status of Darkling beetles  from work originally undertaken in 1987, 1992 and 1994 using the IUCN methodology for assessing threat. Aderidae, Anthicidae, Colydiidae, Melandryidae, Meloidae, Mordellidae, Mycetophagidae, Mycteridae, Oedemeridae, Pyrochroidae, Pythidae, Ripiphoridae, Salpingidae, Scraptiidae, Tenebrionidae & Tetratomidae (Tenebrionoidea less Ciidae).  K.N.A. Alexander, S. Dodd & J.S. Denton.  http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf. May 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5862553594888192",
+            "date_designated": "2014-05-23",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Scarce. Includes Red Listed taxa",
+            "designation_abbreviation": "NS-includes",
+            "designation_description": "Nationally Scarce - Occurring in 16-100 hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Pseudotriphyllus suturalis",
+            "source": "A review of the beetles of Great Britain: The Darkling Beetles and their allies",
+            "source_description": "This report was commissioned to update the threat status of Darkling beetles  from work originally undertaken in 1987, 1992 and 1994 using the IUCN methodology for assessing threat. Aderidae, Anthicidae, Colydiidae, Melandryidae, Meloidae, Mordellidae, Mycetophagidae, Mycteridae, Oedemeridae, Pyrochroidae, Pythidae, Ripiphoridae, Salpingidae, Scraptiidae, Tenebrionidae & Tetratomidae (Tenebrionoidea less Ciidae).  K.N.A. Alexander, S. Dodd & J.S. Denton.  http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf. May 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5862553594888192",
+            "date_designated": "2014-05-23",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

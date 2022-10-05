@@ -1,0 +1,34 @@
+{
+    "category": [
+        "Vascular plant"
+    ],
+    "taxon_group": [
+        "fern"
+    ],
+    "recommended_taxon_name": [
+        "Dicksoniaceae"
+    ],
+    "recommended_authority": [
+        null
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000164580"
+    ],
+    "designations": [
+        {
+            "designated_name": "Dicksoniaceae",
+            "source": "CITES UK Species only",
+            "source_description": "The Washington Convention on International Trade in Endangered Species of Wild Fauna and Flora, more commonly known as CITES, aims to protect certain plants and animals by regulating and monitoring their international trade to prevent it reaching unsustainable levels. The Convention entered into force in 1975, and the UK became a Party in 1976.",
+            "date_designated": "1997-01-01",
+            "reporting_category": "EC Cites",
+            "designation": "Annex B",
+            "designation_abbreviation": "ECCITES-B",
+            "designation_description": "All other CITES Appendix II species not listed in Annex A.Some CITES Appendix III species.Some non-CITES species.",
+            "reporting_category_sort_order": "E"
+        }
+    ]
+}
+

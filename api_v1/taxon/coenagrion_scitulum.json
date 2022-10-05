@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - dragonfly (Odonata)"
+    ],
+    "recommended_taxon_name": [
+        "Coenagrion scitulum"
+    ],
+    "recommended_authority": [
+        "(Rambur, 1842)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000005604"
+    ],
+    "designations": [
+        {
+            "designated_name": "Coenagrion scitulum",
+            "source": "The Odonata Red Data List for Great Britain -  2008 (Caroline Daguet, Dr Graham French and Dr Pam Taylor - Eds)",
+            "source_description": "This report has been produced as part of the JNCC Species Status Assessment project, assigning conservation status to British flora and fauna using internationally-approved IUCN Red Data Book criteria and categories (JNCC, 2006). Within this project, the remit of the present report is to assess the status of Odonata throughout Great Britain, using the updated IUCN Red Data Book criteria and categories. The previous assessment of the conservation status of British Odonata using IUCN criteria and categories is in Shirt, 1987. This lists four species as Endangered, two as Vulnerable and three as Rare. Three of the Endangered species were regarded as extinct in Britain.",
+            "url_source": "http://jncc.defra.gov.uk/pdf/pub08_speciesstatus11.pdf",
+            "date_designated": "2008-10-29",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Regionally Extinct",
+            "designation_abbreviation": "RedList_GB_post2001-RE",
+            "designation_description": "Category for a taxon when there is no reasonable doubt that the last individual potentially capble of reproduction within the region has died or has disappeared from the wild in the region, or when, if it is a former visiting taxon, the last individual has died or disappeared in the wild from the region. The setting of any time limit for listing under RE is left to the discretion of the regional Red List authority, but should not normally pre-date 1500 AD.",
+            "iucn_version": "2001",
+            "comments": "Extinct in Britain since 1953 (1956 in Guernsey).",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

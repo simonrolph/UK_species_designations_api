@@ -1,0 +1,52 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Teloleuca pellucens"
+    ],
+    "recommended_authority": [
+        "(Fabricius, 1779)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020309879"
+    ],
+    "designations": [
+        {
+            "designated_name": "Teloleuca pellucens",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Near Threatened",
+            "designation_abbreviation": "RedList_GB_post2001-NT",
+            "designation_description": "Taxa which do not qualify for Lower Risk (conservation dependent), but which are close to qualifying for Vulnerable. In Britain, this category includes species which occur in 15 or fewer hectads but do not qualify as Critically Endangered, Endangered or Vulnerable.",
+            "iucn_version": "2001",
+            "criteria_description": "B2a",
+            "comments": "Recorded from 7 sites since 1989; two in Cumbria (Cold Fell & Rundale Fell) three in Scotland (Ben Loyal, Rum and Torridon) and two in South Yorkshire (Thorne and Goole Moors). Thorne Moors is the most southerly known recent site. There are large ares of potentially suitable but under-recorded habitat in Northern England and Scotland where it may occur. The extent of under-recording is impossible to assess accurately. There are 16 pre 1990 records in Yorkshire for T. pellucens but most of the sites have not been searched recently (R. Crossley pers. comm.). Despite quite extensive searching for saldids in the Scottish Highlands during the 1990's T. pellucens was only recorded once (S. Moran pers. comm.). In view of under-recording a status of DD may be appropriate if a more evidentiary, rather than precautionary, approach is taken. However, this is clearly an uncommon species that is hard to find and one that may have more specific, but at present unknown, habitat requirements. Air pollution, climate change, forestry and agriculture are all significant threats to upland bog habitats and a high percentage of monitored invertebrate species inupland habitats have declined (State of Nature report). With a recorded AOO of 7 tetrads (<30km2) a  status of NT is appropriate and conforms more closely to IUCN guidelines on the balance between evidentiary and precautionary approaches.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Teloleuca pellucens",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "criteria_description": "B2a",
+            "comments": "Recorded from 7 sites since 1989; two in Cumbria (Cold Fell & Rundale Fell) three in Scotland (Ben Loyal, Rum and Torridon) and two in South Yorkshire (Thorne and Goole Moors). Thorne Moors is the most southerly known recent site. There are large ares of potentially suitable but under-recorded habitat in Northern England and Scotland where it may occur. The extent of under-recording is impossible to assess accurately. There are 16 pre 1990 records in Yorkshire for T. pellucens but most of the sites have not been searched recently (R. Crossley pers. comm.). Despite quite extensive searching for saldids in the Scottish Highlands during the 1990's T. pellucens was only recorded once (S. Moran pers. comm.). In view of under-recording a status of DD may be appropriate if a more evidentiary, rather than precautionary, approach is taken. However, this is clearly an uncommon species that is hard to find and one that may have more specific, but at present unknown, habitat requirements. Air pollution, climate change, forestry and agriculture are all significant threats to upland bog habitats and a high percentage of monitored invertebrate species inupland habitats have declined (State of Nature report). With a recorded AOO of 7 tetrads (<30km2) a  status of NT is appropriate and conforms more closely to IUCN guidelines on the balance between evidentiary and precautionary approaches.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

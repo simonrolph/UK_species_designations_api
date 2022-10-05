@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Plegaderus vulneratus"
+    ],
+    "recommended_authority": [
+        "(Panzer, 1797)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0001719643"
+    ],
+    "designations": [
+        {
+            "designated_name": "Plegaderus vulneratus",
+            "source": "A review of the status of the beetles of Great Britain: The clown beetles and false clown beetles - Histeridae and Sphaeritidae",
+            "source_description": "This report was commissioned to update the national threat status of beetles within the Histeridae and Sphaeritidae. It covers all species in these groups, identifying those that are rare and/or under threat as well as those which are non-threatened and non-native.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/6190453826781184?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "There are no specific threats to this widely distributed species. With only 21 post-1990 hectads, the species would normally qualify as Nationally Scarce, but the author believes that the data is vastly under-representing its current distribution, due to the fact that the species was first discovered in the region as recently as 1962 (Silwood Park, Berkshire) and also because conifers are not as productive for their saproxylic assemblages as oak and beech for example, and thus receive relatively less attention from Coleopterists. The recent data over the last four 10-year blocks of the 40 year period could be described as 'linear decline', although the relatively high total of 16 records in the 1976-1985 block is almost certainly due to the initial momentum of searches for the species after its discovery in Britain in the 1960s. Application of Category A criteria gives a 10 year decline in this period of  just 19% which is well below the 30+% threshold for Vulnerable. If a period of the first three 10-year blocks is considered, a result of 24% is reached, which is still below the 30+ % threshold. 74 records.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

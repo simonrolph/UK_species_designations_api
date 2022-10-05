@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Saldula arenicola"
+    ],
+    "recommended_authority": [
+        "(Scholtz, 1847)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020309791"
+    ],
+    "designations": [
+        {
+            "designated_name": "Saldula arenicola",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Recent records show S. arenicola to be locally frequent over a sizeable area of SE England north to Huntingdonshire (P. Kirby pers. comm.) where it is associated with sand and gravel pits. The colonisation of these areas and habitats is a fairly recent phenomenon; the species has traditionally been confined to south the coast between Hampshire and Devon (where it still occurs). Kirby suggests the 'new' (inland) and 'old' (coastal) S. arenicola may be different in some way and should be assessed separately - although at present the information required to justify this is not available.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Saldula arenicola",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Recent records show S. arenicola to be locally frequent over a sizeable area of SE England north to Huntingdonshire (P. Kirby pers. comm.) where it is associated with sand and gravel pits. The colonisation of these areas and habitats is a fairly recent phenomenon; the species has traditionally been confined to south the coast between Hampshire and Devon (where it still occurs). Kirby suggests the 'new' (inland) and 'old' (coastal) S. arenicola may be different in some way and should be assessed separately - although at present the information required to justify this is not available.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

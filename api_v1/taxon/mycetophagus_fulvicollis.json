@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - beetle (Coleoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Mycetophagus fulvicollis"
+    ],
+    "recommended_authority": [
+        "Fabricius, 1792"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020152739"
+    ],
+    "designations": [
+        {
+            "designated_name": "Mycetophagus fulvicollis",
+            "source": "A review of the beetles of Great Britain: The Darkling Beetles and their allies",
+            "source_description": "This report was commissioned to update the threat status of Darkling beetles  from work originally undertaken in 1987, 1992 and 1994 using the IUCN methodology for assessing threat. Aderidae, Anthicidae, Colydiidae, Melandryidae, Meloidae, Mordellidae, Mycetophagidae, Mycteridae, Oedemeridae, Pyrochroidae, Pythidae, Ripiphoridae, Salpingidae, Scraptiidae, Tenebrionidae & Tetratomidae (Tenebrionoidea less Ciidae).  K.N.A. Alexander, S. Dodd & J.S. Denton.  http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf http://naturalresources.wales/media/2487/species-status-review-of-the-non-marine-mollusca-of-great-britain.pdf. May 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5862553594888192",
+            "date_designated": "2014-05-23",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Regionally Extinct",
+            "designation_abbreviation": "RedList_GB_post2001-RE",
+            "designation_description": "Category for a taxon when there is no reasonable doubt that the last individual potentially capble of reproduction within the region has died or has disappeared from the wild in the region, or when, if it is a former visiting taxon, the last individual has died or disappeared in the wild from the region. The setting of any time limit for listing under RE is left to the discretion of the regional Red List authority, but should not normally pre-date 1500 AD.",
+            "iucn_version": "2001",
+            "comments": "Subfossil records are known from the Somerset Levels, and so a long-established native species does appear feasible. The habitat is very cryptic and it could easily be overlooked. However, a single record only, as long ago as 1870, and so the species is probably best regarded as Regionally Extinct.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

@@ -1,0 +1,51 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Atylotus rusticus"
+    ],
+    "recommended_authority": [
+        "(Linnaeus, 1767)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007878"
+    ],
+    "designations": [
+        {
+            "designated_name": "Atylotus rusticus",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Atylotus rusticus has been recorded from eight hectads since 1990 and shows no overall decline. It has been lost from The Fens but ‘gained’ in Oxfordshire. The south coast populations are apparently stable. Its habitat requirement appears to be fairly specific and is geographically restricted. The species’ absence from apparently suitable marshes on the east coast may be due to these being too brackish.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Atylotus rusticus",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "criteria_description": "B2ab(ii,iii,iv)",
+            "comments": "Atylotus rusticus has been recorded from eight hectads since 1990 and shows no overall decline. It has been lost from The Fens but ‘gained’ in Oxfordshire. The south coast populations are apparently stable. Its habitat requirement appears to be fairly specific and is geographically restricted. The species’ absence from apparently suitable marshes on the east coast may be due to these being too brackish.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - stonefly (Plecoptera)"
+    ],
+    "recommended_taxon_name": [
+        "Protonemura praecox"
+    ],
+    "recommended_authority": [
+        "(Morton, 1894)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000022427"
+    ],
+    "designations": [
+        {
+            "designated_name": "Protonemura praecox",
+            "source": "A review of the scarce and threatened stoneflies (Plecoptera) of Great Britain",
+            "source_description": "A review of the scarce and threatened stoneflies (Plecoptera) of Great Britain. Craig R. Macadam. 2014.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5404611030548480",
+            "date_designated": "2015-02-12",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "criteria_description": "Difficulties with the separation of this species from P. montana makes determining the status of this species in GB difficult.  It is however thought to be widely distributed and therefore the Least Concern category has been applied.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

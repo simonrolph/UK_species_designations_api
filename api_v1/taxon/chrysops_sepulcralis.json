@@ -1,0 +1,50 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true fly (Diptera)"
+    ],
+    "recommended_taxon_name": [
+        "Chrysops sepulcralis"
+    ],
+    "recommended_authority": [
+        "(Fabricius, 1794)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NBNSYS0000007869"
+    ],
+    "designations": [
+        {
+            "designated_name": "Chrysops sepulcralis",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "Chrysops sepulcralis has been recorded in 12 hectads since 1990 and has not declined. The contiguous English populations of Dorset and Hampshire have remained relatively stable and show no real sign of contraction in range, as indicated by the high proportion of old and recent hectads in common. The widely spaced Scottish records suggest that there may be a large, if scattered, population at the south-west end of the Southern Uplands. It appears that there is no immediate threat to the British populations but clearly they are very Localised and at a low density so susceptible to regional extinction. In view of the stability of the English population and likelihood of a moderate population in Scotland, its status has been downgraded from the previous status of Endangered to Least Concern. Moved beyond NR under Criterion 7.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Chrysops sepulcralis",
+            "source": "A review of the status of Larger Brachycera flies of Great Britain",
+            "source_description": "This report was commissioned to update the threat status of Larger Brachycera flies last undertaken in 1991, using a more modern IUCN methodology for assessing threat",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5411344246374400?category=4707656804597760",
+            "date_designated": "2017-08-30",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Chrysops sepulcralis has been recorded in 12 hectads since 1990 and has not declined. The contiguous English populations of Dorset and Hampshire have remained relatively stable and show no real sign of contraction in range, as indicated by the high proportion of old and recent hectads in common. The widely spaced Scottish records suggest that there may be a large, if scattered, population at the south-west end of the Southern Uplands. It appears that there is no immediate threat to the British populations but clearly they are very Localised and at a low density so susceptible to regional extinction. In view of the stability of the English population and likelihood of a moderate population in Scotland, its status has been downgraded from the previous status of Endangered to Least Concern. Moved beyond NR under Criterion 7.",
+            "reporting_category_sort_order": "Gb"
+        }
+    ]
+}
+

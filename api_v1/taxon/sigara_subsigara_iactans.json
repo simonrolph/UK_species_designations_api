@@ -1,0 +1,37 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Sigara (Subsigara) iactans"
+    ],
+    "recommended_authority": [
+        "Jansson, 1983"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020309836"
+    ],
+    "designations": [
+        {
+            "designated_name": "Sigara iactans",
+            "source": "A review of the Hemiptera of Great Britain: The Aquatic and Semi-aquatic Bugs",
+            "source_description": "This report was commissioned to update the national status of aquatic and semi-aquatic bugs using IUCN methodology for assessing threat. It covers all species of aquatic and semi-aquatic bugs (Heteroptera) in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species. A.A. Cook November 2015.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5132432324952064",
+            "date_designated": "2015-11-20",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Least concern",
+            "designation_abbreviation": "RedList_GB_post2001-LC",
+            "designation_description": "Taxa which are neither threatened nor near threatened.",
+            "iucn_version": "2001",
+            "comments": "First recorded on the North Norfolk coast at Snettisham in 2005 (Brooke, 2005) and since then at other sites in Bedfordshire, Lincolnshire, Northamptonshire, Leicestershire & Sussex. S. iactans may have been present in the country for some time before 2005 - it was found in a sample from the Norfolk Broads collected in 2004 that was re-examined in the light of recent discoveries (Sheila Brooke, pers. comm.). As a presumed recent colonist the status NA could be given - but because it is very likely that its establishment and fairly rapid spread in England represents a natural extension of range it is designated as LC and considered an established 'native'.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+

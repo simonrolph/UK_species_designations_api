@@ -1,0 +1,78 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "spider (Araneae)"
+    ],
+    "recommended_taxon_name": [
+        "Palliduphantes antroniensis"
+    ],
+    "recommended_authority": [
+        "(Schenkel, 1933)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0021197237"
+    ],
+    "designations": [
+        {
+            "designated_name": "Lepthyphantes antroniensis",
+            "source": "Red Data Book of Invertebrates",
+            "source_description": "Edited by Bratton, J H. Published by JNCC, 1991.  Updates the National Review of non-marine Molluscs (1983), using the old IUCN categories and criteria (pre 1994).",
+            "date_designated": "1991-01-01",
+            "reporting_category": "Red Listing based on pre 1994 IUCN guidelines",
+            "designation": "Endangered",
+            "designation_abbreviation": "RedList_GB_Pre94-EN",
+            "designation_description": "Taxa in danger of extinction and whose survival is unlikely if the causal factors continue operating. Superseded by new IUCN categories in 1994, but still applicable to lists that have not been reviewed since 1994.",
+            "iucn_version": "pre 1994",
+            "comments": "pre 1994 IUCN criteria",
+            "reporting_category_sort_order": "Fa"
+        },
+        {
+            "designated_name": "Palliduphantes antroniensis",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Palliduphantes antroniensis",
+            "source": "A Review of the scarce and threatened spiders (Araneae) of Great Britain: Species Status No. 22 (Sep 2017)",
+            "source_description": "This review assesses the threat of extinction, based on IUCN Red List categories, for the species recorded in Britain and considered eligible for consideration under those IUCN criteria. This report was commissioned to update the national threat status of Araneae using IUCN methodology for assessing threat. It covers all species of Arachnids in Great Britain, identifying those that are rare and/or under threat as well as non-threatened and non-native species.",
+            "url_source": "https://naturalresources.wales/media/683017/nrw-ev",
+            "date_designated": "2017-09-01",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Critically Endangered (possibly extinct)",
+            "designation_abbreviation": "RedList_GB_post2001-CR(PE)",
+            "designation_description": "A taxon is Critically Endangered when the best available evidence indicates that it meets any of the criteria A to E for Critically Endangered (see Section V), and it is therefore considered to be facing an extremely high risk of extinction in the wild.  Possibly extinct indicates that there is a small chance that the taxon may still be extant, and hence  should not be listed as Extinct until local or unconfirmed reports have been discounted, and adequate surveys have failed to find any individuals.",
+            "iucn_version": "2001",
+            "criteria_description": "B2ab(iv)",
+            "comments": "The only British records of this species are two males and six females found at two sites in the Cairngorms in 1979 and 1980, at an altitude of 900-980m. Despite some targeted searches, it has not subsequently been re-discovered. It is unlikely that recreational pressures are important for this species, given the area of similar Empetrum/Vaccinium habitat available. The key threats are likely to be climate change, affecting the vertical zone it can occupy, with little scope for adaptation or migration, and nitrogen deposition affecting vegetation composition and structure. Threats: There have been proposals for skiing developments close to the sites where this species was found. Lurcher's Gully was the subject of a public inquiry in 1981 and the proposals were rejected at that time. In the late 1980s there were further proposals for another ski-tow, a café and other means of access, but these may not be permitted now that the structure plan for the area shows a presumption in favour of conservation. The compaction of snow caused by heavy skiing can have severely damaging effects on upland vegetation, which, owing to its slow growth, is unable to recover during the summer months. Snow-fences increase the duration of the snow cover, which causes the vegetation to change from dwarf heath to a Nardus stricta sward. Such a change in the vegetation structure is not likely to be within the tolerance limits of this spider.",
+            "reporting_category_sort_order": "Fc"
+        },
+        {
+            "designated_name": "Lepthyphantes antroniensis",
+            "common_name": "a money spider",
+            "source": "Scottish Biodiversity List (incorporating 2007 updates and 2012 categorisation)",
+            "source_description": "The Scottish Biodiversity List (SBL) is a list of animals, plants and habitats that Scottish Ministers consider to be of principal importance for biodiversity conservation in Scotland. More information is available from this link: http://www.biodiversityscotland.gov.uk/advice-and-resources/scottish-biodiversity-list/how/. April 2013.",
+            "url_source": "http://www.gov.scot/Topics/Environment/Wildlife-Habitats/16118/Biodiversitylist/SBL",
+            "date_designated": "2005-11-29",
+            "reporting_category": "Biodiversity Lists - Scotland",
+            "designation": "Scottish Biodiversity List",
+            "designation_abbreviation": "Scottish_Biodiversity_List",
+            "designation_description": "The Scottish Biodiversity List is a list of flora, fauna and habitats considered by the Scottish Ministers to be of principal importance for biodiversity conservation. The development of the list has been a collaborative effort involving a great many stakeholders overseen by scientists from the Scottish Biodiversity Forum. Completion of the list is the first time such a stocktake has been done in Scotland.The Scottish Biodiversity List is a tool for public bodies and others doing their Biodiversity Duty. The publication of the Scottish Biodiversity List satisfies the requirements of Section 2(4) of The Nature Conservation (Scotland) Act 2004.",
+            "criteria_description": "Category: Conservation action needed; Avoid negative impacts; Criterion: S3 - Rare in the UK (<16 10km sqs); S4 - <6 Scottish 10km sqs",
+            "comments": "Terrestrial/Freshwater Species.",
+            "reporting_category_sort_order": "Hc"
+        }
+    ]
+}
+

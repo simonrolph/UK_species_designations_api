@@ -1,0 +1,35 @@
+{
+    "category": [
+        "Mammal"
+    ],
+    "taxon_group": [
+        "terrestrial mammal"
+    ],
+    "recommended_taxon_name": [
+        "Myotis capaccinii"
+    ],
+    "recommended_authority": [
+        "(Bonaparte, 1837)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0000376984"
+    ],
+    "designations": [
+        {
+            "designated_name": "Myotis capaccinii",
+            "source": "Agreement on the Conservation of Populations of European Bats (EUROBATS)",
+            "source_description": "Agreement on the Conservation of Populations of European Bats as adopted at the Third Session of the Meeting of Parties, held 24 - 26 July 2000 in Bristol, UK.",
+            "date_designated": "2000-01-01",
+            "reporting_category": "Convention on Migratory Species",
+            "designation": "EUROBATS Annex I",
+            "designation_abbreviation": "CMS_EUROBATS-A1",
+            "designation_description": "Protection and enhancement of species populations through legislation, education, conservation measures and international co-operation.",
+            "criteria_description": "European populations of CHIROPTERA (Rhinolophidae and Vespertilionidae) occurring in Europe and non-European Range States.",
+            "reporting_category_sort_order": "C1"
+        }
+    ]
+}
+

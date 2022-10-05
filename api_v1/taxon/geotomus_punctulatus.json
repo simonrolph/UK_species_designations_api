@@ -1,0 +1,53 @@
+{
+    "category": [
+        "Invertebrate"
+    ],
+    "taxon_group": [
+        "insect - true bug (Hemiptera)"
+    ],
+    "recommended_taxon_name": [
+        "Geotomus punctulatus"
+    ],
+    "recommended_authority": [
+        "(A. Costa, 1847)"
+    ],
+    "recommended_qualifier": [
+        null
+    ],
+    "recommended_taxon_version": [
+        "NHMSYS0020309247"
+    ],
+    "designations": [
+        {
+            "designated_name": "Geotomus punctulatus",
+            "common_name": "Cornish Shieldbug",
+            "source": "A review of the Hemiptera of Great Britain: The shieldbugs and allied families",
+            "source_description": "This report was commissioned to update the national status of shield bugs using IUCN methodology for assessing threat. It covers all species of Coreoidea, Pentatomoidea & Pyrrhocoroidea in Great Britain, identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5027762327781376?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Nationally Scarce, Nationally Rare and Other Species",
+            "designation": "Nationally Rare. Includes Red Listed taxa",
+            "designation_abbreviation": "NR-includes",
+            "designation_description": "Nationally Rare - Occurring in 15 or fewer hectads in Great Britain. Includes rare species qualifying under the main IUCN criteria.",
+            "comments": "Recently known only from a single site in Cornwall (Whitesand Bay, Sennen Cove), although there is a single 19th century record from Glamorgan. Although the population at Sennen seems stable, the site is subject to heavy recreational use and the habitat is subject to trampling pressure and erosion.",
+            "reporting_category_sort_order": "Gb"
+        },
+        {
+            "designated_name": "Geotomus punctulatus",
+            "common_name": "Cornish Shieldbug",
+            "source": "A review of the Hemiptera of Great Britain: The shieldbugs and allied families",
+            "source_description": "This report was commissioned to update the national status of shield bugs using IUCN methodology for assessing threat. It covers all species of Coreoidea, Pentatomoidea & Pyrrhocoroidea in Great Britain, identifying those that are rare and/or under threat as well as non threatened and non-native species.",
+            "url_source": "http://publications.naturalengland.org.uk/publication/5027762327781376?category=30001",
+            "date_designated": "2016-03-11",
+            "reporting_category": "Red listing based on 2001 IUCN guidelines",
+            "designation": "Critically Endangered",
+            "designation_abbreviation": "RedList_GB_post2001-CR",
+            "designation_description": "A taxon is Critically Endangered when it is facing an extremely high risk of extinction in the wild in the immediate future, as defined by any of the criteria A to E.",
+            "iucn_version": "2001",
+            "criteria_description": "B2a bii biv",
+            "comments": "Recently known only from a single site in Cornwall (Whitesand Bay, Sennen Cove), although there is a single 19th century record from Glamorgan. Although the population at Sennen seems stable, the site is subject to heavy recreational use and the habitat is subject to trampling pressure and erosion.",
+            "reporting_category_sort_order": "Fc"
+        }
+    ]
+}
+
