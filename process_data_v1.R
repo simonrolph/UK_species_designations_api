@@ -33,7 +33,7 @@ taxons <- list(taxons)
 names(taxons) <- "taxons"
 
 taxons %>% toJSON %>% jsonlite::prettify() %>%
-  writeLines("api_v1/taxons.json")
+  writeLines("api_v1/taxa.json")
   
 
 #by taxon

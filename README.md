@@ -1,4 +1,4 @@
-# UK species designations (static) API
+﻿# UK species designations (static) API
 
 ## Overview
 
@@ -19,7 +19,7 @@ A static API is essentially just web hosted JSON files. You acccess the API 'end
 
 This file includes a full species list with summary information such as when the most recent designation was made on each species. The current web address of this file is:
 
-https://simonrolph.github.io/UK_species_designations_api/api_v1/taxons.json
+https://simonrolph.github.io/UK_species_designations_api/api_v1/taxa.json
 
 ### Taxon 'endpoint'
 
