@@ -16,3 +16,7 @@ https://simonrolph.github.io/UK_species_designations_api/api_v1/taxons.json
 ### Taxon 
 
 eg. https://simonrolph.github.io/UK_species_designations_api/api_v1/taxon/pipistrellus_pipistrellus.json
+
+### HTML page
+
+eg. https://simonrolph.github.io/UK_species_designations_api/view/pipistrellus_pipistrellus.html
