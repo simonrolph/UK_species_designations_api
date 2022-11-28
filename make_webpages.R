@@ -59,4 +59,17 @@ for(taxon in taxon_names){
 
 
 
+#index
+template <- readLines("taxa_page_template.html")
+
+taxa_table <- taxon_designations[c(1,2,3,7,8,9,12,14)] %>% 
+  #mutate(url = paste0("https://simonrolph.github.io/UK_species_designations_api/api_v1/taxon/",janitor::make_clean_names(`Recommended taxon name`),".json")) %>% 
+  kable("html")
+template[13] <- gsub("TAXA_TABLE",taxa_table,template[13])
+
+#write the page
+con <- file("index.html", open = "w+", encoding = "UTF-8")
+writeLines(template,con = con, useBytes = FALSE)
+close(con)
+
 
